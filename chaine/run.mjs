@@ -2,7 +2,10 @@
 // Ordre : M1 M2 M3 M4 M7 M9 puis M10 (publication) si --auto ou si le verdict est GO et --publish.
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
+import fs from 'node:fs';
 import { ROOT, epDir, readJSON } from './lib.mjs';
+// le verrou posé par le veilleur est levé quand la chaîne se termine, quoi qu'il arrive
+process.on('exit', () => { try { fs.unlinkSync(path.join(ROOT, 'cache/veilleur.lock')); } catch {} });
 
 const args = process.argv.slice(2);
 const ep = args.find(a => /^ep\d+$/.test(a));
