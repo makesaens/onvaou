@@ -1,0 +1,584 @@
+{
+  "ep": 4,
+  "videoId": "sIGByUaPZrs",
+  "modele": "claude-sonnet-5",
+  "chapitres": [
+    {
+      "titre": "Récap et dispute autour des dégâts de l'épisode précédent",
+      "debut": 0,
+      "fin": 81
+    },
+    {
+      "titre": "Règlement du constat et départ en musique",
+      "debut": 81,
+      "fin": 174
+    },
+    {
+      "titre": "Arrivée à Montréal et stationnement catastrophique de Théo",
+      "debut": 174,
+      "fin": 373
+    },
+    {
+      "titre": "Pause repas et jeu d'enquête improvisé",
+      "debut": 373,
+      "fin": 580
+    },
+    {
+      "titre": "Pause boisson, publicité Revolut et détente au parc",
+      "debut": 580,
+      "fin": 749
+    },
+    {
+      "titre": "Jeux et scènes de rue avant la sortie",
+      "debut": 749,
+      "fin": 901
+    },
+    {
+      "titre": "Rencontres avec des fans dans la rue",
+      "debut": 901,
+      "fin": 1129
+    },
+    {
+      "titre": "La blague du téléphone avec une fan",
+      "debut": 1129,
+      "fin": 1263
+    },
+    {
+      "titre": "Bilan de l'arrivée et tension autour du vieux port",
+      "debut": 1263,
+      "fin": 1445
+    },
+    {
+      "titre": "Grande roue et sérénade de Maxime",
+      "debut": 1445,
+      "fin": 1737
+    },
+    {
+      "titre": "Session rollers",
+      "debut": 1737,
+      "fin": 1967
+    },
+    {
+      "titre": "Soirée à Montréal après la fermeture et retour au camping-car",
+      "debut": 1967,
+      "fin": 2341
+    }
+  ],
+  "moments": [
+    {
+      "type": "GALERE",
+      "debut": 81,
+      "fin": 92,
+      "citation": "Il y a la propriétaire de la voiture qui nous attend dehors. C'est le moment de payer nos det. On fait le transport.",
+      "propre": "Il y a la propriétaire de la voiture qui nous attend dehors. C'est le moment de payer nos dettes. On fait le transport.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "quoi": "doivent payer la propriétaire de la voiture endommagée lors de l'épisode précédent"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=79"
+    },
+    {
+      "type": "OBJET",
+      "debut": 165,
+      "fin": 174,
+      "citation": "elle s'ouvre tout le temps en fait, elle se f du coup je fais genre là tac tac. Tu vois, elle est cassée, je crois.",
+      "propre": "Elle s'ouvre tout le temps, en fait, elle se f, du coup je fais genre là : tac tac. Tu vois, elle est cassée, je crois.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "objet": "porte du camping-car (ou élément qui s'ouvre tout seul)",
+        "sort": "casse"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=163"
+    },
+    {
+      "type": "VILLE",
+      "debut": 174,
+      "fin": 184,
+      "citation": "Salut à tous. On est arrivé à Montréal et on est en train de chercher une place pour garer le camping-car",
+      "propre": "Salut à tous. On est arrivés à Montréal et on est en train de chercher une place pour garer le camping-car.",
+      "qui": "Djilsi",
+      "confiance": 0.95,
+      "detail": {
+        "ville": "Montréal",
+        "action": "arrivee"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=172"
+    },
+    {
+      "type": "CITATION",
+      "debut": 184,
+      "fin": 194,
+      "citation": "Malheureusement pas le cœur à la fête, c'est très dur. C'est très très dur !",
+      "propre": "Malheureusement, pas le cœur à la fête, c'est très dur. C'est très, très dur !",
+      "qui": null,
+      "confiance": 0.85,
+      "detail": {
+        "pourquoi": "Décalage comique entre l'euphorie de crier le nom de la ville et le ton dramatique qui suit"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=182"
+    },
+    {
+      "type": "CITATION",
+      "debut": 194,
+      "fin": 203,
+      "citation": "on va tous se taire et regardz Théo taper. Préparez-vous, gainez-vous",
+      "propre": "On va tous se taire et regarder Théo taper. Préparez-vous, gainez-vous.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "Mise en scène comique avant que Théo ne gare le camping-car, en prévision de la catastrophe à venir"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=192"
+    },
+    {
+      "type": "IMPACT_CAMION",
+      "debut": 221,
+      "fin": 230,
+      "citation": "Tuas le poteau juste là vraiment la tête de ma mère, je pas fait exprès.",
+      "propre": "Tu as tapé le poteau, juste là, vraiment, la tête de ma mère, je l'ai pas fait exprès.",
+      "qui": "Théodort",
+      "confiance": 0.85,
+      "detail": {
+        "zone": "arriere",
+        "gravite": "choc",
+        "quoi": "a tapé un poteau en reculant le camping-car"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=219"
+    },
+    {
+      "type": "IMPACT_CAMION",
+      "debut": 247,
+      "fin": 256,
+      "citation": "Je fais quand même mal. Phare phare. J'ai cassé le phare de la voiture.",
+      "propre": "Je fais quand même mal. Phare, phare. J'ai cassé le phare de la voiture.",
+      "qui": "Théodort",
+      "confiance": 0.8,
+      "detail": {
+        "zone": "avant",
+        "gravite": "casse",
+        "quoi": "a cassé le phare en cognant un obstacle en reculant"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=245"
+    },
+    {
+      "type": "IMPACT_CAMION",
+      "debut": 282,
+      "fin": 293,
+      "citation": "hauteur où il y a écrit interdiction de se parquer. Voilà et le panneau est maintenant.",
+      "propre": "Hauteur où il y a écrit « interdiction de se parquer ». Voilà, et le panneau est maintenant...",
+      "qui": "Théodort",
+      "confiance": 0.8,
+      "detail": {
+        "zone": "toit",
+        "gravite": "choc",
+        "quoi": "a accroché un panneau 'interdiction de se parquer' en hauteur"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=280"
+    },
+    {
+      "type": "IMPACT_CAMION",
+      "debut": 340,
+      "fin": 352,
+      "citation": "j'ai juste cassé. J'ai cassé trois fois le camping-car. J'ai reconduit. Je l'ai cassé une 4rième fois.",
+      "propre": "J'ai juste cassé. J'ai cassé trois fois le camping-car. J'ai reconduit. Je l'ai cassé une quatrième fois.",
+      "qui": "Théodort",
+      "confiance": 0.85,
+      "detail": {
+        "zone": "inconnue",
+        "gravite": "casse",
+        "quoi": "a cassé le camping-car à plusieurs reprises (poteau, phare, panneau) en une seule manœuvre de stationnement"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=338"
+    },
+    {
+      "type": "CITATION",
+      "debut": 303,
+      "fin": 311,
+      "citation": "Est-ce qu'on peut rajouter une règle ? À l'entrée d'une ville, on a plus le droit de conduire.",
+      "propre": "Est-ce qu'on peut rajouter une règle ? À l'entrée d'une ville, on n'a plus le droit de conduire.",
+      "qui": null,
+      "confiance": 0.85,
+      "detail": {
+        "pourquoi": "Vanne récurrente sur le fait que le camping-car abîme systématiquement quelque chose à l'arrivée dans une ville"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=301"
+    },
+    {
+      "type": "CITATION",
+      "debut": 323,
+      "fin": 331,
+      "citation": "Il y a plus l'interdiction de barqu plus l'interdit. C'est parfait. Tho, tu as enlevé l'interdit. C'est top.",
+      "propre": "Il n'y a plus l'interdiction de se garer, plus l'interdit. C'est parfait. Théo, tu as enlevé l'interdit. C'est top.",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "pourquoi": "Ironie sur le fait que Théo, en tapant le panneau, a justement supprimé l'interdiction de stationner"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=321"
+    },
+    {
+      "type": "SPONSOR",
+      "debut": 669,
+      "fin": 678,
+      "citation": "Oui, comme je vous l'ai dit sur le premier épisode, évidemment ma carte révolute m'accompagne sur tout le voyage. J'ai changé mes euros en dollar canadien",
+      "propre": "Oui, comme je vous l'ai dit sur le premier épisode, évidemment ma carte Revolut m'accompagne sur tout le voyage. J'ai changé mes euros en dollars canadiens.",
+      "qui": "Djilsi",
+      "confiance": 0.9,
+      "detail": {
+        "marque": "Revolut"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=667"
+    },
+    {
+      "type": "RENCONTRE",
+      "debut": 840,
+      "fin": 849,
+      "citation": "Comment il s'appelle déjà ? Faut qu'il y aille. Je le connais pas ce",
+      "propre": "Comment il s'appelle déjà ? Faut qu'il y aille. Je le connais pas, ce...",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "personne": null,
+        "contexte": "rencontre avec quelqu'un dont le nom n'est pas retenu"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=838"
+    },
+    {
+      "type": "RENCONTRE",
+      "debut": 939,
+      "fin": 950,
+      "citation": "comment il s'appelle lui là ? Vu arrivver à 10 km. Je te kiffe mec, toi aussi t'inquiète. J'ai oublié ton nom mais on est ensemble",
+      "propre": "Comment il s'appelle, lui, là ? Vu arriver à 10 km. Je te kiffe, mec, toi aussi t'inquiète. J'ai oublié ton nom mais on est ensemble.",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "personne": null,
+        "contexte": "un fan les aborde dans la rue, ils ont oublié son nom mais le saluent chaleureusement"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=937"
+    },
+    {
+      "type": "RENCONTRE",
+      "debut": 971,
+      "fin": 980,
+      "citation": "Merci les gars, merci pour l'accueil shoute à ta gueule gros. Il parle beaucoup",
+      "propre": "Merci les gars, merci pour l'accueil. Shout à ta gueule, gros. Il parle beaucoup.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "personne": null,
+        "contexte": "remerciement à des fans pour leur accueil dans la rue"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=969"
+    },
+    {
+      "type": "DECISION",
+      "debut": 1064,
+      "fin": 1073,
+      "citation": "Alors du coup à Montréal à Montréal petit coup et puis on part demain. Ah ouais on est en retentrée pendant on enchaîne.",
+      "propre": "Alors du coup, à Montréal, à Montréal, petit coup et puis on part demain. Ah ouais, on est en rentrée pendant, on enchaîne.",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "quoi": "rester une soirée à Montréal puis repartir dès le lendemain"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1062"
+    },
+    {
+      "type": "RENCONTRE",
+      "debut": 1177,
+      "fin": 1186,
+      "citation": "Bah tu sais quoi ? Fil-moi ton numéro et je t'appellerai sur ton tel quand on l'a quand quand on l'a retrouvé.",
+      "propre": "Bah, tu sais quoi ? File-moi ton numéro et je t'appellerai sur ton tél quand on l'a, quand, quand on l'a retrouvé.",
+      "qui": "Maxime",
+      "confiance": 0.7,
+      "detail": {
+        "personne": null,
+        "contexte": "Maxime demande le numéro d'une fan sous prétexte de lui rendre un objet retrouvé, avant de révéler que c'est une blague"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1175"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1203,
+      "fin": 1211,
+      "citation": "L'arnaque super bien volé. C'est que des sil. Je suis désolé, je sais pas ce qui m'a pris. Maxim on peut prendre une photo ?",
+      "propre": "L'arnaque, super bien volée. C'est que des sil. Je suis désolé, je sais pas ce qui m'a pris. Maxime, on peut prendre une photo ?",
+      "qui": null,
+      "confiance": 0.8,
+      "detail": {
+        "pourquoi": "Commentaire sur la blague qui vient d'être jouée à une fan"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1201"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1220,
+      "fin": 1230,
+      "citation": "Je suis horrible, c'était une blague. Vous pouvez pas en fait. Ah non, je suis horrible. C'était une blague. Je m'en veux.",
+      "propre": "Je suis horrible, c'était une blague. Vous pouvez pas, en fait. Ah non, je suis horrible. C'était une blague. Je m'en veux.",
+      "qui": "Maxime",
+      "confiance": 0.85,
+      "detail": {
+        "pourquoi": "Maxime culpabilise après avoir fait croire à une fan qu'il la rappellerait, révélant que c'était une blague"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1218"
+    },
+    {
+      "type": "GALERE",
+      "debut": 1296,
+      "fin": 1305,
+      "citation": "vraiment 15h bien tu vois qu'en fait on allé trop loin dans Montréal on était là où on a mangé c'était vraiment loin donc on",
+      "propre": "Vraiment 15h, bien, tu vois, qu'en fait on est allés trop loin dans Montréal, on était là où on a mangé, c'était vraiment loin, donc on...",
+      "qui": null,
+      "confiance": 0.8,
+      "detail": {
+        "quoi": "arrivés trop loin du centre de Montréal, ils perdent une heure de route pour rejoindre le centre-ville"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1294"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1333,
+      "fin": 1352,
+      "citation": "fou. Je te demande un truc, tu m'insultes. Vieux port. Pignouf.",
+      "propre": "Fou. Je te demande un truc, tu m'insultes. Vieux port. Pignouf.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "Échange absurde où une simple question sur le vieux port se transforme en fausse embrouille"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1331"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 1352,
+      "fin": 1362,
+      "citation": "Tu as vu la bagnole ? La bagnole, elle est belle. La Dacia là, elle est exceptionnelle hein. Ouais.",
+      "propre": "Tu as vu la bagnole ? La bagnole, elle est belle. La Dacia, là, elle est exceptionnelle, hein. Ouais.",
+      "qui": null,
+      "confiance": 0.8,
+      "detail": {
+        "reference": "Dacia",
+        "type": "marque"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1350"
+    },
+    {
+      "type": "VILLE",
+      "debut": 1378,
+      "fin": 1386,
+      "citation": "La Toronto, c'est un équivalent New York. la big ville c'est Toronto. Mais je pensais que Montréal",
+      "propre": "La Toronto, c'est un équivalent de New York. La grande ville, c'est Toronto. Mais je pensais que Montréal...",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "ville": "Toronto",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1376"
+    },
+    {
+      "type": "DECISION",
+      "debut": 1445,
+      "fin": 1454,
+      "citation": "15 minutes. Let's go la grand trou. Allez, faisons des trucs à Montréal. Let's go. Montpelier",
+      "propre": "15 minutes. Let's go, la grande roue. Allez, faisons des trucs à Montréal. Let's go. Montpellier.",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "quoi": "aller faire un tour de grande roue au vieux port avant la fermeture"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1443"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1454,
+      "fin": 1463,
+      "citation": "monal. Bienvenue dans la roulette mécanique hydraulique volante. Bienvenue. OK, c'est parti.",
+      "propre": "Monal. Bienvenue dans la roulette mécanique hydraulique volante. Bienvenue. OK, c'est parti.",
+      "qui": null,
+      "confiance": 0.85,
+      "detail": {
+        "pourquoi": "Réaction exagérée et théâtrale à l'installation dans la nacelle de la grande roue"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1452"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1473,
+      "fin": 1482,
+      "citation": "le fait, ça va. Toi, quand tu fais, c'est raciste. Je sais pas comment expliquer. OK. OK. Vas-y. No offense. No offense. Ah là là,",
+      "propre": "Le fait, ça va. Toi, quand tu le fais, c'est raciste. Je sais pas comment expliquer. OK. OK. Vas-y. No offense. No offense. Ah là là...",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "Vanne limite sur la manière de faire bouger la nacelle, jugée 'raciste' par un des complices"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1471"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1568,
+      "fin": 1596,
+      "citation": "dans le cul. La tête de ma mère, j'ai la tête dans le cul. Sortez de là. J'ai la tête dans le cul.",
+      "propre": "Dans le cul. La tête de ma mère, j'ai la tête dans le cul. Sortez de là. J'ai la tête dans le cul.",
+      "qui": null,
+      "confiance": 0.85,
+      "detail": {
+        "pourquoi": "Expression répétée et absurde après une chute ou un choc pendant la session rollers"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1566"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1728,
+      "fin": 1737,
+      "citation": "dans là. Bah je sais pas, je vous ai vous faire kiffer. Ça m'a eu. Moi j'ai kiffé. Moi j'ai adoré gars. OK. Bah je sais pas, j'ai s une ambiance.",
+      "propre": "Dans là. Bah je sais pas, je vous ai fait kiffer. Ça m'a eu. Moi j'ai kiffé. Moi j'ai adoré, les gars. OK. Bah je sais pas, il y avait une ambiance.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "Réaction du groupe très enthousiaste après la sérénade improvisée de Maxime"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1726"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 1808,
+      "fin": 1818,
+      "citation": "Les gens ils font ça comme ça sont tous graus à mort. Je suis Shrek, je m'arrête là moi.",
+      "propre": "Les gens, ils font ça comme ça, ils sont tous gras à mort. Je suis Shrek, je m'arrête là, moi.",
+      "qui": null,
+      "confiance": 0.85,
+      "detail": {
+        "reference": "Shrek",
+        "type": "meme"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1806"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 1818,
+      "fin": 1826,
+      "citation": "OK, c'est bon les gars, ça va. Mec, c'est physique à mort. Comment il on dirait on est dans SSX. Les jeunes",
+      "propre": "OK, c'est bon les gars, ça va. Mec, c'est physique à mort. Comment ? On dirait qu'on est dans SSX. Les jeunes...",
+      "qui": null,
+      "confiance": 0.8,
+      "detail": {
+        "reference": "SSX",
+        "type": "autre"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1816"
+    },
+    {
+      "type": "GALERE",
+      "debut": 1967,
+      "fin": 1975,
+      "citation": "Montréal ferme à 19h, il y a plus rien dehors à 19h. Mais on a trouvé le peup Saint-Paul qui apparemment est ouvert jusqu'à 3h",
+      "propre": "Montréal ferme à 19h, il y a plus rien dehors à 19h. Mais on a trouvé le Peup Saint-Paul qui apparemment est ouvert jusqu'à 3h.",
+      "qui": null,
+      "confiance": 0.85,
+      "detail": {
+        "quoi": "tout ferme à 19h à Montréal, ils doivent trouver un endroit encore ouvert la nuit"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1965"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1990,
+      "fin": 1998,
+      "citation": "Bonsoir. Bonsoir. Je vais vous prendre une crème dure framboise bleue un barbeine slush cerise et c'est tout",
+      "propre": "Bonsoir. Bonsoir. Je vais vous prendre une crème dure framboise bleue, un barbe-à-papa slush cerise, et c'est tout.",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "pourquoi": "Commande de glace interminable et absurde avec une accumulation de parfums"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=1988"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2036,
+      "fin": 2045,
+      "citation": "Brancher. Bon bah c'est fermé alors. Bah ciao. Bon bah c'est fermé comme toute la vie. Allez h ciao. C'est ciao. Montréal ferme à la",
+      "propre": "Brancher. Bon bah, c'est fermé, alors. Bah, ciao. Bon bah, c'est fermé comme toute la vie. Allez, ciao. C'est ciao. Montréal ferme à la...",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "pourquoi": "Running gag sur la fermeture précoce de tout à Montréal"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=2034"
+    },
+    {
+      "type": "RENCONTRE",
+      "debut": 2055,
+      "fin": 2063,
+      "citation": "Donc ils sont retournés au camping-car et on croise des gens et tout qui parlent avec nous et qui nous disent \"Putain, vous savez que",
+      "propre": "Donc ils sont retournés au camping-car et on croise des gens et tout qui parlent avec nous et qui nous disent : « Putain, vous savez que... »",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "personne": null,
+        "contexte": "des passants leur donnent des conseils sur les activités du vieux port"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=2053"
+    },
+    {
+      "type": "DECISION",
+      "debut": 2072,
+      "fin": 2081,
+      "citation": "demain tout est gratuit et tout machin.\" Demain, on doit aller faire l'excellente idée madas qui est allé voir les élans et les lions, les tigres et tout là.",
+      "propre": "« Demain tout est gratuit et tout machin. » Demain, on doit aller faire l'excellente idée à Manas, qui est allé voir les élans et les lions, les tigres et tout ça.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "quoi": "prévoir d'aller voir des élans, lions et tigres dans une réserve le lendemain"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=2070"
+    },
+    {
+      "type": "GALERE",
+      "debut": 2137,
+      "fin": 2150,
+      "citation": "on s'est fait mentir dans gueule mec c'est un moment privilégié de malade si on arrive à naviguer seul là comme ça la nuit tout",
+      "propre": "On s'est fait mentir dans la gueule, mec, c'est un moment privilégié de malade si on arrive à naviguer seuls, là, comme ça, la nuit, tout...",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "quoi": "on leur a menti sur la possibilité d'emprunter des pédalos la nuit au vieux port"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=2135"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2150,
+      "fin": 2160,
+      "citation": "qui t'a dit ça l'idée là qui c'est qui te l'a donné croisé quelqu'un et il m'avait demandé si j'avais des pénis Ouais, j'ai un",
+      "propre": "Qui t'a dit ça, l'idée, là, qui c'est qui te l'a donné ? Croisé quelqu'un et il m'avait demandé si j'avais des pneus. Ouais, j'ai un...",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "Jeu de mots entre 'pneus' et 'pénis' mal compris par le groupe"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=2148"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2227,
+      "fin": 2235,
+      "citation": "baiser par Montréal. Montréal nous come en dans la Y et en hauteur en plus. il nous regarde dans les yeux et",
+      "propre": "Baisés par Montréal. Montréal nous « come » dedans, là, et en hauteur en plus. Il nous regarde dans les yeux et...",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "pourquoi": "Réaction choquée en voyant un couple avoir une relation sexuelle visible depuis la rue"
+      },
+      "lien": "https://youtu.be/sIGByUaPZrs?t=2225"
+    }
+  ],
+  "rejets": [],
+  "coutUSD": 1.0167908
+}

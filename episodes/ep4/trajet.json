@@ -1,0 +1,114 @@
+{
+  "ep": 4,
+  "videoId": "sIGByUaPZrs",
+  "etapes": [
+    {
+      "ville": "Montréal",
+      "lat": 45.5031824,
+      "lon": -73.5698065,
+      "libelle": "Montréal, Agglomération de Montréal",
+      "debut": 174,
+      "fin": 184,
+      "action": "arrivee",
+      "citation": "Salut à tous. On est arrivé à Montréal et on est en train de chercher une place pour garer le camping-car",
+      "lien": "https://youtu.be/sIGByUaPZrs?t=172"
+    }
+  ],
+  "troncons": [
+    {
+      "de": "Québec",
+      "a": "Montréal",
+      "km": 255,
+      "minutes": 206,
+      "coords": [
+        [
+          -71.208399,
+          46.813806
+        ],
+        [
+          -71.315361,
+          46.790608
+        ],
+        [
+          -71.281268,
+          46.732161
+        ],
+        [
+          -71.301732,
+          46.69755
+        ],
+        [
+          -71.506105,
+          46.620969
+        ],
+        [
+          -71.633116,
+          46.543343
+        ],
+        [
+          -72.05806,
+          46.243372
+        ],
+        [
+          -72.061206,
+          46.214296
+        ],
+        [
+          -72.31514,
+          46.054741
+        ],
+        [
+          -72.486359,
+          45.911035
+        ],
+        [
+          -72.516876,
+          45.909418
+        ],
+        [
+          -72.802806,
+          45.691833
+        ],
+        [
+          -72.853656,
+          45.666592
+        ],
+        [
+          -73.137734,
+          45.595505
+        ],
+        [
+          -73.426952,
+          45.568888
+        ],
+        [
+          -73.474377,
+          45.58013
+        ],
+        [
+          -73.51724,
+          45.522743
+        ],
+        [
+          -73.554668,
+          45.526595
+        ],
+        [
+          -73.569809,
+          45.50318
+        ]
+      ],
+      "debut": 0,
+      "fin": 174,
+      "liaison": true
+    }
+  ],
+  "mentions": [
+    {
+      "ville": "Toronto",
+      "debut": 1378,
+      "citation": "La Toronto, c'est un équivalent New York. la big ville c'est Toronto. Mais je pensais que Montréal"
+    }
+  ],
+  "kmEpisode": 255
+}

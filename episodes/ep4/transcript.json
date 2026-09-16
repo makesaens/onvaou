@@ -1,0 +1,5435 @@
+{
+  "ep": 4,
+  "videoId": "sIGByUaPZrs",
+  "source": "youtube-auto:captions.fr-orig.json3",
+  "dureeVideoS": 2341,
+  "stats": {
+    "segments": 939,
+    "mots": 5037,
+    "dernierTimecodeS": 2324.56,
+    "motsParMinute": 129.1,
+    "balises": {
+      "cri": 14,
+      "rires": 36,
+      "musique": 56,
+      "chant": 15,
+      "grognement": 2,
+      "acclamation": 1,
+      "raclement de gorge": 1
+    }
+  },
+  "segments": [
+    {
+      "debut": 5.12,
+      "fin": 8.24,
+      "texte": "Ah, vous êtes là ? Vous voulez savoir ce"
+    },
+    {
+      "debut": 6.96,
+      "fin": 10.24,
+      "texte": "qui s'est passé dans l'épisode précédent"
+    },
+    {
+      "debut": 8.24,
+      "fin": 11.56,
+      "texte": "? Let's go ! Je t'envoie ça, Baba."
+    },
+    {
+      "debut": 10.24,
+      "fin": 14.92,
+      "texte": "Regarde le petit récap, Baba. On t'en a"
+    },
+    {
+      "debut": 11.56,
+      "fin": 16.84,
+      "texte": "mis plein les yeux, baba."
+    },
+    {
+      "debut": 14.92,
+      "fin": 18.52,
+      "texte": "Bonjour. Bon,"
+    },
+    {
+      "debut": 16.84,
+      "fin": 23,
+      "texte": "on peut se préparer bouger ou faut qu'on"
+    },
+    {
+      "debut": 18.52,
+      "fin": 23,
+      "texte": "bouge tout de suite ? Bien qu'on bouge."
+    },
+    {
+      "debut": 24.52,
+      "fin": 27.64,
+      "texte": "Qui m'a foutu dans la gueule. J'ai pas"
+    },
+    {
+      "debut": 26.08,
+      "fin": 28.76,
+      "texte": "fait n'importe quoi. C'est c'est une"
+    },
+    {
+      "debut": 27.64,
+      "fin": 32.72,
+      "texte": "équipe qui a fait n'importe quoi."
+    },
+    {
+      "debut": 28.76,
+      "fin": 32.72,
+      "texte": "Ouais. C'est l'équipe qui a merdé."
+    },
+    {
+      "debut": 35.24,
+      "fin": 41.44,
+      "texte": "W il y a beaucoup de personnes"
+    },
+    {
+      "debut": 38.68,
+      "fin": 43.24,
+      "texte": "wouh il un petit truc noir qui fait le"
+    },
+    {
+      "debut": 41.44,
+      "fin": 43.48,
+      "texte": "contour de la structure. Ça peut toucher"
+    },
+    {
+      "debut": 43.24,
+      "fin": 45.85,
+      "texte": "ça."
+    },
+    {
+      "debut": 43.48,
+      "fin": 47.44,
+      "texte": "Tu mal la per que je t'envoie mon pote."
+    },
+    {
+      "debut": 47.44,
+      "fin": 52.44,
+      "texte": "Allez voilà. Oh là là."
+    },
+    {
+      "debut": 49.88,
+      "fin": 55.44,
+      "texte": "Oh là là. Max Max. Oh là là là oh le"
+    },
+    {
+      "debut": 52.44,
+      "fin": 55.44,
+      "texte": "bordel."
+    },
+    {
+      "debut": 57.44,
+      "fin": 61.88,
+      "texte": "Moi je vous dirais d'aller vous partez"
+    },
+    {
+      "debut": 58.68,
+      "fin": 66.08,
+      "texte": "plus peut-être plus derrière."
+    },
+    {
+      "debut": 61.88,
+      "fin": 66.08,
+      "texte": "Tu as baisé la caisse ? B la caisse."
+    },
+    {
+      "debut": 66.32,
+      "fin": 72.6,
+      "texte": "Oh le constat."
+    },
+    {
+      "debut": 67.48,
+      "fin": 72.6,
+      "texte": "Oh mec, les émotions tout le monde."
+    },
+    {
+      "debut": 81.28,
+      "fin": 83.76,
+      "texte": "Il y a la propriétaire de la voiture qui"
+    },
+    {
+      "debut": 82.52,
+      "fin": 87.72,
+      "texte": "nous attend dehors. C'est le moment de"
+    },
+    {
+      "debut": 83.76,
+      "fin": 87.72,
+      "texte": "payer nos det. On fait le transport."
+    },
+    {
+      "debut": 92.2,
+      "fin": 96.72,
+      "texte": "Tu tors sur la table Jordan"
+    },
+    {
+      "debut": 94.56,
+      "fin": 99.52,
+      "texte": "il y a un gar suis plus les caméras"
+    },
+    {
+      "debut": 96.72,
+      "fin": 99.52,
+      "texte": "caché je ne suis"
+    },
+    {
+      "debut": 115.36,
+      "fin": 117.88,
+      "texte": "pas tout le monde."
+    },
+    {
+      "debut": 124.2,
+      "fin": 126.52,
+      "texte": "Mr."
+    },
+    {
+      "debut": 126.52,
+      "fin": 130.76,
+      "texte": "bring me a dream"
+    },
+    {
+      "debut": 128.76,
+      "fin": 133.92,
+      "texte": "making the"
+    },
+    {
+      "debut": 130.76,
+      "fin": 137.08,
+      "texte": "ever seen"
+    },
+    {
+      "debut": 133.92,
+      "fin": 142.12,
+      "texte": "like roses and clover and tell"
+    },
+    {
+      "debut": 137.08,
+      "fin": 144.08,
+      "texte": "that his and are over"
+    },
+    {
+      "debut": 142.12,
+      "fin": 147.6,
+      "texte": "so alone"
+    },
+    {
+      "debut": 144.08,
+      "fin": 149.08,
+      "texte": "don't have nobody to call my own so"
+    },
+    {
+      "debut": 147.6,
+      "fin": 153.27,
+      "texte": "please turn on your"
+    },
+    {
+      "debut": 149.08,
+      "fin": 155.28,
+      "texte": "magic feet Mr."
+    },
+    {
+      "debut": 155.28,
+      "fin": 159.32,
+      "texte": "Les gars, il nous fait des signes, hein."
+    },
+    {
+      "debut": 163,
+      "fin": 166.08,
+      "texte": "Merci."
+    },
+    {
+      "debut": 165.4,
+      "fin": 168.4,
+      "texte": "Non, mais elle s'ouvre tout le temps en"
+    },
+    {
+      "debut": 166.08,
+      "fin": 171,
+      "texte": "fait, elle se f du coup je fais genre là"
+    },
+    {
+      "debut": 168.4,
+      "fin": 174.36,
+      "texte": "tac tac."
+    },
+    {
+      "debut": 171,
+      "fin": 177.32,
+      "texte": "Tu vois, elle est cassée, je crois."
+    },
+    {
+      "debut": 174.36,
+      "fin": 179.24,
+      "texte": "OK, thank you."
+    },
+    {
+      "debut": 177.32,
+      "fin": 180.24,
+      "texte": "Salut à tous. On est arrivé à Montréal"
+    },
+    {
+      "debut": 179.24,
+      "fin": 181.56,
+      "texte": "et on est en train de chercher une place"
+    },
+    {
+      "debut": 180.24,
+      "fin": 182.24,
+      "texte": "pour garer le camping-car et après on va"
+    },
+    {
+      "debut": 181.56,
+      "fin": 183.8,
+      "texte": "manger."
+    },
+    {
+      "debut": 182.24,
+      "fin": 187.2,
+      "texte": "Ouais."
+    },
+    {
+      "debut": 183.8,
+      "fin": 190.36,
+      "texte": "Montréal ! Montréal ! Montréal !"
+    },
+    {
+      "debut": 187.2,
+      "fin": 191.52,
+      "texte": "Montréal ! Montréal ! Montréal !"
+    },
+    {
+      "debut": 190.36,
+      "fin": 193.56,
+      "texte": "Malheureusement pas le cœur à la fête,"
+    },
+    {
+      "debut": 191.52,
+      "fin": 194.96,
+      "texte": "c'est très dur. C'est très très dur !"
+    },
+    {
+      "debut": 193.56,
+      "fin": 197.4,
+      "texte": "Bast !"
+    },
+    {
+      "debut": 194.96,
+      "fin": 198.24,
+      "texte": "Bastia va tomber en national. I don't"
+    },
+    {
+      "debut": 197.4,
+      "fin": 200.48,
+      "texte": "suck to anymore."
+    },
+    {
+      "debut": 198.24,
+      "fin": 202.56,
+      "texte": "Allez, on va tous se taire et regardz"
+    },
+    {
+      "debut": 200.48,
+      "fin": 203.88,
+      "texte": "Théo taper. Préparez-vous, gainez-vous"
+    },
+    {
+      "debut": 202.56,
+      "fin": 205.24,
+      "texte": "un peu parce ça peut secouer."
+    },
+    {
+      "debut": 203.88,
+      "fin": 206.12,
+      "texte": "Et le but, c'est de pas faire une seule"
+    },
+    {
+      "debut": 205.24,
+      "fin": 207.76,
+      "texte": "réaction"
+    },
+    {
+      "debut": 206.12,
+      "fin": 208.04,
+      "texte": "au moindre choc. au moindre choc, on ne"
+    },
+    {
+      "debut": 207.76,
+      "fin": 208.96,
+      "texte": "réagit pas"
+    },
+    {
+      "debut": 208.04,
+      "fin": 210.52,
+      "texte": "et c'est là où on apprend pas de nos"
+    },
+    {
+      "debut": 208.96,
+      "fin": 211.92,
+      "texte": "erreurs, c'est qu'à chaque fois c'est"
+    },
+    {
+      "debut": 210.52,
+      "fin": 212.56,
+      "texte": "Théo qui garde le camping-car quelque"
+    },
+    {
+      "debut": 211.92,
+      "fin": 213.48,
+      "texte": "part et vous allez voir,"
+    },
+    {
+      "debut": 212.56,
+      "fin": 214.84,
+      "texte": "j'aime pas avir voir ce rôle alors que"
+    },
+    {
+      "debut": 213.48,
+      "fin": 216,
+      "texte": "je suis je suis pas mauvais. Non non,"
+    },
+    {
+      "debut": 214.84,
+      "fin": 217.08,
+      "texte": "vous allez voir et"
+    },
+    {
+      "debut": 216,
+      "fin": 218,
+      "texte": "vous allez voir que en disant ça du"
+    },
+    {
+      "debut": 217.08,
+      "fin": 218.24,
+      "texte": "coup, il va se gagner à mort, il va pas"
+    },
+    {
+      "debut": 218,
+      "fin": 219.2,
+      "texte": "taper"
+    },
+    {
+      "debut": 218.24,
+      "fin": 220.76,
+      "texte": "et on aura pas ce qu'on veut. Après si"
+    },
+    {
+      "debut": 219.2,
+      "fin": 222.6,
+      "texte": "tu tapes, c'est vraiment dingue"
+    },
+    {
+      "debut": 220.76,
+      "fin": 225.64,
+      "texte": "ça peut être fou qui tape là"
+    },
+    {
+      "debut": 222.6,
+      "fin": 227,
+      "texte": "parce que il y a pas d'obstacle quoi."
+    },
+    {
+      "debut": 225.64,
+      "fin": 228.76,
+      "texte": "Tuas le poteau juste là"
+    },
+    {
+      "debut": 227,
+      "fin": 230.4,
+      "texte": "vraiment"
+    },
+    {
+      "debut": 228.76,
+      "fin": 233.4,
+      "texte": "la tête de ma mère, je pas fait exprès."
+    },
+    {
+      "debut": 230.4,
+      "fin": 234.4,
+      "texte": "La tête de ma mère, je fait exprès."
+    },
+    {
+      "debut": 233.4,
+      "fin": 236.24,
+      "texte": "C'est pas le photo que tu as tapé, je"
+    },
+    {
+      "debut": 234.4,
+      "fin": 237.68,
+      "texte": "crois. C'est la jante sur le"
+    },
+    {
+      "debut": 236.24,
+      "fin": 238.92,
+      "texte": "Non non, c'est vraiment le poteau qui a"
+    },
+    {
+      "debut": 237.68,
+      "fin": 241.92,
+      "texte": "stoppé le campingc et là je tout droit"
+    },
+    {
+      "debut": 238.92,
+      "fin": 241.92,
+      "texte": "là."
+    },
+    {
+      "debut": 242.48,
+      "fin": 244.72,
+      "texte": "J'ai voulu garder le camping-car, je"
+    },
+    {
+      "debut": 243.48,
+      "fin": 246.72,
+      "texte": "l'ai cassé encore. Pha"
+    },
+    {
+      "debut": 244.72,
+      "fin": 247.28,
+      "texte": "phare"
+    },
+    {
+      "debut": 246.72,
+      "fin": 250.28,
+      "texte": "phare"
+    },
+    {
+      "debut": 247.28,
+      "fin": 250.28,
+      "texte": "phare."
+    },
+    {
+      "debut": 250.44,
+      "fin": 252.84,
+      "texte": "Je fais tout en douceur pour bien le"
+    },
+    {
+      "debut": 251.48,
+      "fin": 254.12,
+      "texte": "faire. Je fais quand même mal. Phare"
+    },
+    {
+      "debut": 252.84,
+      "fin": 255.76,
+      "texte": "phare."
+    },
+    {
+      "debut": 254.12,
+      "fin": 258.76,
+      "texte": "J'ai cassé le phare de la voiture."
+    },
+    {
+      "debut": 255.76,
+      "fin": 258.76,
+      "texte": "Phare."
+    },
+    {
+      "debut": 263.44,
+      "fin": 268.88,
+      "texte": "Voilà. Tu as entendu ? C'est quoi un"
+    },
+    {
+      "debut": 265.16,
+      "fin": 268.88,
+      "texte": "panneau que tuas tapé ?"
+    },
+    {
+      "debut": 270.76,
+      "fin": 272.56,
+      "texte": "Puis"
+    },
+    {
+      "debut": 270.96,
+      "fin": 272.72,
+      "texte": "puis mana ce qui me fait tassur que"
+    },
+    {
+      "debut": 272.56,
+      "fin": 273.4,
+      "texte": "c'est"
+    },
+    {
+      "debut": 272.72,
+      "fin": 275,
+      "texte": "manas derrière."
+    },
+    {
+      "debut": 273.4,
+      "fin": 276.88,
+      "texte": "Je t'assure que c'est très possible très"
+    },
+    {
+      "debut": 275,
+      "fin": 278,
+      "texte": "possible. Et vas-y continue, continue."
+    },
+    {
+      "debut": 276.88,
+      "fin": 279.28,
+      "texte": "Regarde, c'est le panneau d'en haut."
+    },
+    {
+      "debut": 278,
+      "fin": 280.64,
+      "texte": "Tu continues. Vas-y. Vas-y."
+    },
+    {
+      "debut": 279.28,
+      "fin": 281.68,
+      "texte": "Alors alors tout est tout est drôle"
+    },
+    {
+      "debut": 280.64,
+      "fin": 283.2,
+      "texte": "parce que tu as tapé un panneau en"
+    },
+    {
+      "debut": 281.68,
+      "fin": 283.92,
+      "texte": "hauteur où il y a écrit interdiction de"
+    },
+    {
+      "debut": 283.2,
+      "fin": 286.89,
+      "texte": "se parquer."
+    },
+    {
+      "debut": 283.92,
+      "fin": 288.88,
+      "texte": "Voilà et le panneau est maintenant."
+    },
+    {
+      "debut": 288.88,
+      "fin": 292.12,
+      "texte": "Non puto"
+    },
+    {
+      "debut": 292.72,
+      "fin": 296.32,
+      "texte": "continuer à reculer frérot. C'est mort"
+    },
+    {
+      "debut": 293.92,
+      "fin": 297.4,
+      "texte": "de toute façon."
+    },
+    {
+      "debut": 296.32,
+      "fin": 298.64,
+      "texte": "Continue."
+    },
+    {
+      "debut": 297.4,
+      "fin": 300.2,
+      "texte": "C'est trop abusé. Tu as encore baisé un"
+    },
+    {
+      "debut": 298.64,
+      "fin": 302.61,
+      "texte": "truc."
+    },
+    {
+      "debut": 300.2,
+      "fin": 302.64,
+      "texte": "Non, tu tuas encore baisé un truc."
+    },
+    {
+      "debut": 302.64,
+      "fin": 304.44,
+      "texte": "C'est"
+    },
+    {
+      "debut": 303.44,
+      "fin": 305.56,
+      "texte": "Est-ce qu'on peut rajouter une règle ? À"
+    },
+    {
+      "debut": 304.44,
+      "fin": 306.48,
+      "texte": "l'entrée d'une ville, on a plus le droit"
+    },
+    {
+      "debut": 305.56,
+      "fin": 307.2,
+      "texte": "de conduire."
+    },
+    {
+      "debut": 306.48,
+      "fin": 309.4,
+      "texte": "Venir voir ou pas ?"
+    },
+    {
+      "debut": 307.2,
+      "fin": 309.8,
+      "texte": "En vrai, pas chier, t'inquiète. On voit"
+    },
+    {
+      "debut": 309.4,
+      "fin": 311.4,
+      "texte": "dans le rétro,"
+    },
+    {
+      "debut": 309.8,
+      "fin": 312.76,
+      "texte": "ça fait 10 m qu'on voit que ça va taper"
+    },
+    {
+      "debut": 311.4,
+      "fin": 313.92,
+      "texte": "et"
+    },
+    {
+      "debut": 312.76,
+      "fin": 315.16,
+      "texte": "et surtout que chaque truc qu'il a tapé"
+    },
+    {
+      "debut": 313.92,
+      "fin": 316.88,
+      "texte": "a été prévenu avant en mode là il y a un"
+    },
+    {
+      "debut": 315.16,
+      "fin": 318.48,
+      "texte": "panneau boum. Là, quand il reculé, je"
+    },
+    {
+      "debut": 316.88,
+      "fin": 321.64,
+      "texte": "lui montre le poteau"
+    },
+    {
+      "debut": 318.48,
+      "fin": 321.64,
+      "texte": "et boum."
+    },
+    {
+      "debut": 323,
+      "fin": 326.04,
+      "texte": "Alors, voyons voir. C'est où ? OK, ben"
+    },
+    {
+      "debut": 325.12,
+      "fin": 327.56,
+      "texte": "on peut se garer du coup. Il y a plus"
+    },
+    {
+      "debut": 326.04,
+      "fin": 328,
+      "texte": "l'interdiction de barqu plus l'interdit."
+    },
+    {
+      "debut": 327.56,
+      "fin": 330.12,
+      "texte": "C'est parfait."
+    },
+    {
+      "debut": 328,
+      "fin": 331.04,
+      "texte": "Tho, tu as enlevé l'interdit. C'est top."
+    },
+    {
+      "debut": 331.04,
+      "fin": 336.56,
+      "texte": "Pas le marais, c'est costaud."
+    },
+    {
+      "debut": 332.56,
+      "fin": 336.56,
+      "texte": "C'est terrifiant. Désolé."
+    },
+    {
+      "debut": 338.48,
+      "fin": 343.08,
+      "texte": "j'ai voulu conduire, j'ai voulu conduire"
+    },
+    {
+      "debut": 340.08,
+      "fin": 344.28,
+      "texte": "le camping mais j'ai juste cassé. J'ai"
+    },
+    {
+      "debut": 343.08,
+      "fin": 345.24,
+      "texte": "cassé trois fois le camping-car. J'ai"
+    },
+    {
+      "debut": 344.28,
+      "fin": 346.32,
+      "texte": "reconduit. Je l'ai cassé une 4rième"
+    },
+    {
+      "debut": 345.24,
+      "fin": 347.92,
+      "texte": "fois."
+    },
+    {
+      "debut": 346.32,
+      "fin": 351.56,
+      "texte": "J'ai conduit peu et je conduire un peu"
+    },
+    {
+      "debut": 347.92,
+      "fin": 352.08,
+      "texte": "plus ce soir. Faire. OK. Faire mal de"
+    },
+    {
+      "debut": 351.56,
+      "fin": 353.2,
+      "texte": "dire faire."
+    },
+    {
+      "debut": 352.08,
+      "fin": 353.32,
+      "texte": "C'est à toi ça."
+    },
+    {
+      "debut": 353.2,
+      "fin": 356.48,
+      "texte": "Ouais,"
+    },
+    {
+      "debut": 353.32,
+      "fin": 358.8,
+      "texte": "je vais le faire"
+    },
+    {
+      "debut": 356.48,
+      "fin": 359.52,
+      "texte": "en vrai. Je vais te nonprè je lui donne"
+    },
+    {
+      "debut": 358.8,
+      "fin": 362.52,
+      "texte": "le mien."
+    },
+    {
+      "debut": 359.52,
+      "fin": 362.52,
+      "texte": "Merci."
+    },
+    {
+      "debut": 363.8,
+      "fin": 367.36,
+      "texte": "J'ai plus grand chose àendre."
+    },
+    {
+      "debut": 367.96,
+      "fin": 373.28,
+      "texte": "Désolé toute la commu. Je vous jure,"
+    },
+    {
+      "debut": 369.28,
+      "fin": 375.84,
+      "texte": "j'essaie de faire le max et"
+    },
+    {
+      "debut": 373.28,
+      "fin": 376.56,
+      "texte": "ça me rend fou en fait."
+    },
+    {
+      "debut": 375.84,
+      "fin": 379.72,
+      "texte": "On va manger."
+    },
+    {
+      "debut": 376.56,
+      "fin": 379.72,
+      "texte": "C'est là-bas."
+    },
+    {
+      "debut": 388.16,
+      "fin": 391.32,
+      "texte": "Wesh, il a une masse, il a un pied de B"
+    },
+    {
+      "debut": 389.6,
+      "fin": 392.44,
+      "texte": "dans le sac. Une masse dans la main. The"
+    },
+    {
+      "debut": 391.32,
+      "fin": 393.12,
+      "texte": "Last of Us."
+    },
+    {
+      "debut": 392.44,
+      "fin": 396.93,
+      "texte": "Oui. The Last of"
+    },
+    {
+      "debut": 393.12,
+      "fin": 398.95,
+      "texte": "Ah ouais, c'est The Last of Us à bord."
+    },
+    {
+      "debut": 404.12,
+      "fin": 408.64,
+      "texte": "Je pas en train de me filmer en fait."
+    },
+    {
+      "debut": 414.28,
+      "fin": 417.76,
+      "texte": "Max enquêteur et il a vu, regarde"
+    },
+    {
+      "debut": 416.28,
+      "fin": 418.76,
+      "texte": "quelqu'un est tombé ici. Avait elle"
+    },
+    {
+      "debut": 417.76,
+      "fin": 419.88,
+      "texte": "avait son sac."
+    },
+    {
+      "debut": 418.76,
+      "fin": 421.36,
+      "texte": "C'était quoi ? Une femme ou un homme ?"
+    },
+    {
+      "debut": 419.88,
+      "fin": 423.72,
+      "texte": "Une femme. Pourquoi ? Parce que"
+    },
+    {
+      "debut": 421.36,
+      "fin": 424.96,
+      "texte": "chewinggum un peu rose comme ça."
+    },
+    {
+      "debut": 423.72,
+      "fin": 426.68,
+      "texte": "Chewing-gum donc pour avoir"
+    },
+    {
+      "debut": 424.96,
+      "fin": 429.2,
+      "texte": "toujours une bonne haleine un peu bien"
+    },
+    {
+      "debut": 426.68,
+      "fin": 431.16,
+      "texte": "le gloss ou le truc qui est tombé. Tac."
+    },
+    {
+      "debut": 429.2,
+      "fin": 432,
+      "texte": "Elle est tombée là."
+    },
+    {
+      "debut": 431.16,
+      "fin": 432.96,
+      "texte": "Et pourquoi elle est tombé ?"
+    },
+    {
+      "debut": 432,
+      "fin": 433.48,
+      "texte": "Parce qu'elle é train de faire du tapis"
+    },
+    {
+      "debut": 432.96,
+      "fin": 436.24,
+      "texte": "de course là."
+    },
+    {
+      "debut": 433.48,
+      "fin": 438.72,
+      "texte": "Tapis. Ouais."
+    },
+    {
+      "debut": 436.24,
+      "fin": 441.72,
+      "texte": "tapis de course à ce momentl après elle"
+    },
+    {
+      "debut": 438.72,
+      "fin": 443.84,
+      "texte": "a fait quoi après"
+    },
+    {
+      "debut": 441.72,
+      "fin": 446.4,
+      "texte": "manger les sandwich voulait du sandwich"
+    },
+    {
+      "debut": 443.84,
+      "fin": 450.12,
+      "texte": "extra"
+    },
+    {
+      "debut": 446.4,
+      "fin": 450.12,
+      "texte": "s'arrête là let's go papa"
+    },
+    {
+      "debut": 458.88,
+      "fin": 462.56,
+      "texte": "quand même. Je vous regardais tous dans"
+    },
+    {
+      "debut": 460.16,
+      "fin": 466.68,
+      "texte": "une vidéo hier."
+    },
+    {
+      "debut": 462.56,
+      "fin": 466.68,
+      "texte": "C'est le vidéo les fromages avec avec"
+    },
+    {
+      "debut": 467.24,
+      "fin": 469,
+      "texte": "moi"
+    },
+    {
+      "debut": 467.56,
+      "fin": 471.68,
+      "texte": "mais toi j'ai vu c'est une autre vidéo"
+    },
+    {
+      "debut": 469,
+      "fin": 472.36,
+      "texte": "de ma carlito."
+    },
+    {
+      "debut": 471.68,
+      "fin": 474.28,
+      "texte": "Elle a de"
+    },
+    {
+      "debut": 472.36,
+      "fin": 479.56,
+      "texte": "je tous vu à gauche à droite. C'est fou"
+    },
+    {
+      "debut": 474.28,
+      "fin": 479.56,
+      "texte": "ça. Vous voulez venir manger ? Ferm"
+    },
+    {
+      "debut": 484.16,
+      "fin": 486.4,
+      "texte": "je mange ça ça fonc à"
+    },
+    {
+      "debut": 485.32,
+      "fin": 487.68,
+      "texte": "Philadelphie. Tuas pas marre de tout"
+    },
+    {
+      "debut": 486.4,
+      "fin": 488.88,
+      "texte": "filmer de Philadelphie tu dis ?"
+    },
+    {
+      "debut": 487.68,
+      "fin": 489.56,
+      "texte": "Non. J'aime bien mo faire ça."
+    },
+    {
+      "debut": 488.88,
+      "fin": 490.6,
+      "texte": "Pourquoi tu fais ça ?"
+    },
+    {
+      "debut": 489.56,
+      "fin": 491.56,
+      "texte": "Je sais pas. J'aime bien filmer. Ça fait"
+    },
+    {
+      "debut": 490.6,
+      "fin": 491.84,
+      "texte": "des petits souvenirs et tout mais j'aime"
+    },
+    {
+      "debut": 491.56,
+      "fin": 493.08,
+      "texte": "bien."
+    },
+    {
+      "debut": 491.84,
+      "fin": 493.6,
+      "texte": "Tu les gardes en souvenir ?"
+    },
+    {
+      "debut": 493.08,
+      "fin": 495.04,
+      "texte": "Ouais."
+    },
+    {
+      "debut": 493.6,
+      "fin": 496.8,
+      "texte": "OK."
+    },
+    {
+      "debut": 495.04,
+      "fin": 498.08,
+      "texte": "Ça te dérange moi quand je fais"
+    },
+    {
+      "debut": 496.8,
+      "fin": 498.72,
+      "texte": "je comprends pas le principe de filmer"
+    },
+    {
+      "debut": 498.08,
+      "fin": 499.72,
+      "texte": "tout ce qu'on fait."
+    },
+    {
+      "debut": 498.72,
+      "fin": 500.68,
+      "texte": "I don't care."
+    },
+    {
+      "debut": 499.72,
+      "fin": 501.6,
+      "texte": "Poutine"
+    },
+    {
+      "debut": 500.68,
+      "fin": 502.88,
+      "texte": "Philis."
+    },
+    {
+      "debut": 501.6,
+      "fin": 504.4,
+      "texte": "Tu prends poutine et Philip."
+    },
+    {
+      "debut": 502.88,
+      "fin": 506.24,
+      "texte": "Non. Je voulais prendre une poutine à"
+    },
+    {
+      "debut": 504.4,
+      "fin": 507.4,
+      "texte": "siphilis."
+    },
+    {
+      "debut": 506.24,
+      "fin": 509.12,
+      "texte": "Si tu prends une poutine, moi je prends"
+    },
+    {
+      "debut": 507.4,
+      "fin": 511.12,
+      "texte": "une Zelenski. Comme ça c'est un peu"
+    },
+    {
+      "debut": 509.12,
+      "fin": 512.96,
+      "texte": "Moi je prends une Gobles et go. Wouh"
+    },
+    {
+      "debut": 511.12,
+      "fin": 514.16,
+      "texte": "belle"
+    },
+    {
+      "debut": 512.96,
+      "fin": 515.28,
+      "texte": "goble. Je crois que c'est des petites"
+    },
+    {
+      "debut": 514.16,
+      "fin": 517.92,
+      "texte": "patates."
+    },
+    {
+      "debut": 515.28,
+      "fin": 519.28,
+      "texte": "Ah vas-y frère. Ah j'ai faim à mort"
+    },
+    {
+      "debut": 517.92,
+      "fin": 521,
+      "texte": "frère. J'ai faim à mort frère."
+    },
+    {
+      "debut": 519.28,
+      "fin": 523.92,
+      "texte": "Attends mais tu etil"
+    },
+    {
+      "debut": 521,
+      "fin": 526.24,
+      "texte": "non c'est juste un supplément. On"
+    },
+    {
+      "debut": 523.92,
+      "fin": 528.84,
+      "texte": "est jamais allé au bout de ce que c'est"
+    },
+    {
+      "debut": 526.24,
+      "fin": 530.96,
+      "texte": "la viande"
+    },
+    {
+      "debut": 528.84,
+      "fin": 533.12,
+      "texte": "un peu"
+    },
+    {
+      "debut": 530.96,
+      "fin": 534.6,
+      "texte": "Ah ou c'est incroyable."
+    },
+    {
+      "debut": 533.12,
+      "fin": 535.12,
+      "texte": "Je veux bien prendre la poutine et et"
+    },
+    {
+      "debut": 534.6,
+      "fin": 539.36,
+      "texte": "aussi"
+    },
+    {
+      "debut": 535.12,
+      "fin": 543.08,
+      "texte": "mais non c'est là là"
+    },
+    {
+      "debut": 539.36,
+      "fin": 543.08,
+      "texte": "je crois f les"
+    },
+    {
+      "debut": 554.08,
+      "fin": 556.44,
+      "texte": "à quoi la poutine tu la prends la"
+    },
+    {
+      "debut": 555.12,
+      "fin": 557.68,
+      "texte": "poupouignon je pense"
+    },
+    {
+      "debut": 556.44,
+      "fin": 559.4,
+      "texte": "parce que nous on prend une poutine et à"
+    },
+    {
+      "debut": 557.68,
+      "fin": 561.36,
+      "texte": "côté on prend aussi un mauvais choix"
+    },
+    {
+      "debut": 559.4,
+      "fin": 563,
+      "texte": "on prend deux plats chacun ça peut être"
+    },
+    {
+      "debut": 561.36,
+      "fin": 563.88,
+      "texte": "balaise. Non mais il comprend pas. Toi"
+    },
+    {
+      "debut": 563,
+      "fin": 566.96,
+      "texte": "aussi tu es comprend"
+    },
+    {
+      "debut": 563.88,
+      "fin": 568.64,
+      "texte": "la notif 2 1 vous laav notif et leement"
+    },
+    {
+      "debut": 566.96,
+      "fin": 569.92,
+      "texte": "direct vous per supp quelle équipe"
+    },
+    {
+      "debut": 568.64,
+      "fin": 570.6,
+      "texte": "maintenant"
+    },
+    {
+      "debut": 569.92,
+      "fin": 571.72,
+      "texte": "enlève le maillot."
+    },
+    {
+      "debut": 570.6,
+      "fin": 572.4,
+      "texte": "Tu m'enlèves ce maillot tu mets tshirt"
+    },
+    {
+      "debut": 571.72,
+      "fin": 573.36,
+      "texte": "régular."
+    },
+    {
+      "debut": 572.4,
+      "fin": 573.92,
+      "texte": "Ah c'est dur"
+    },
+    {
+      "debut": 573.36,
+      "fin": 574.92,
+      "texte": "ouais"
+    },
+    {
+      "debut": 573.92,
+      "fin": 575.92,
+      "texte": "merde Max."
+    },
+    {
+      "debut": 574.92,
+      "fin": 577.68,
+      "texte": "Ah c'est dur à mort."
+    },
+    {
+      "debut": 575.92,
+      "fin": 577.96,
+      "texte": "Et là donc il passe en quoi là du coup ?"
+    },
+    {
+      "debut": 577.68,
+      "fin": 579.84,
+      "texte": "National"
+    },
+    {
+      "debut": 577.96,
+      "fin": 586.08,
+      "texte": "nationalement ça devient un club"
+    },
+    {
+      "debut": 579.84,
+      "fin": 586.08,
+      "texte": "faud dégager le truc de son épaule là."
+    },
+    {
+      "debut": 587.6,
+      "fin": 590.6,
+      "texte": "W"
+    },
+    {
+      "debut": 601.88,
+      "fin": 604.64,
+      "texte": "par"
+    },
+    {
+      "debut": 603.64,
+      "fin": 607.32,
+      "texte": "tu tiens pardon"
+    },
+    {
+      "debut": 604.64,
+      "fin": 609.84,
+      "texte": "quoi ton personnage ou"
+    },
+    {
+      "debut": 607.32,
+      "fin": 611.92,
+      "texte": "mec tu es tellement ce tonton"
+    },
+    {
+      "debut": 609.84,
+      "fin": 614.12,
+      "texte": "avec c'est trop grave"
+    },
+    {
+      "debut": 611.92,
+      "fin": 615.76,
+      "texte": "il y a son fils qui joue en 15 et tu"
+    },
+    {
+      "debut": 614.12,
+      "fin": 617.76,
+      "texte": "avais tu avais le bras sur la ressemble"
+    },
+    {
+      "debut": 615.76,
+      "fin": 619.92,
+      "texte": "à mon père son fils Il y a son fils en"
+    },
+    {
+      "debut": 617.76,
+      "fin": 622.26,
+      "texte": "U15, il le filme, il filme son ressemble"
+    },
+    {
+      "debut": 619.92,
+      "fin": 624.28,
+      "texte": "vraiment à mon père."
+    },
+    {
+      "debut": 631.04,
+      "fin": 634.1,
+      "texte": "L'eau,"
+    },
+    {
+      "debut": 657.4,
+      "fin": 659.8,
+      "texte": "c'est top. J'adore l'eau. J'adore boire"
+    },
+    {
+      "debut": 658.68,
+      "fin": 661.28,
+      "texte": "de l'eau. Surtout que sur le voyage, on"
+    },
+    {
+      "debut": 659.8,
+      "fin": 662.56,
+      "texte": "boit pas assez d'eau et du coup, c'est"
+    },
+    {
+      "debut": 661.28,
+      "fin": 664.76,
+      "texte": "top de boire de l'eau. Et j'ai acheté ma"
+    },
+    {
+      "debut": 662.56,
+      "fin": 667.51,
+      "texte": "petite eau grâce à mesdames et messieurs"
+    },
+    {
+      "debut": 664.76,
+      "fin": 667.51,
+      "texte": "la rvolute."
+    },
+    {
+      "debut": 669.44,
+      "fin": 672.04,
+      "texte": "Oui, comme je vous l'ai dit sur le"
+    },
+    {
+      "debut": 670.6,
+      "fin": 673.36,
+      "texte": "premier épisode, évidemment ma carte"
+    },
+    {
+      "debut": 672.04,
+      "fin": 675,
+      "texte": "révolute m'accompagne sur tout le"
+    },
+    {
+      "debut": 673.36,
+      "fin": 677.12,
+      "texte": "voyage. J'ai changé mes euros en dollar"
+    },
+    {
+      "debut": 675,
+      "fin": 678.48,
+      "texte": "canadien, donc je me prends pas la tête."
+    },
+    {
+      "debut": 677.12,
+      "fin": 680.08,
+      "texte": "Je sais que je peux payer tout ce que je"
+    },
+    {
+      "debut": 678.48,
+      "fin": 681.2,
+      "texte": "veux sans frais cacher. Et ça, ça fait"
+    },
+    {
+      "debut": 680.08,
+      "fin": 682.48,
+      "texte": "plaisir à mort. Ça fait que je suis"
+    },
+    {
+      "debut": 681.2,
+      "fin": 683.76,
+      "texte": "tranquille. Revolute, je vous en parle"
+    },
+    {
+      "debut": 682.48,
+      "fin": 685.52,
+      "texte": "très régulièrement. Vous le savez, je"
+    },
+    {
+      "debut": 683.76,
+      "fin": 687,
+      "texte": "suis moi-même client chez Revolute. Ils"
+    },
+    {
+      "debut": 685.52,
+      "fin": 688.88,
+      "texte": "ont été le meilleur banque en ligne au"
+    },
+    {
+      "debut": 687,
+      "fin": 690.08,
+      "texte": "monde et ils nous régalent toujours. Là"
+    },
+    {
+      "debut": 688.88,
+      "fin": 691.36,
+      "texte": "par exemple, si vous créez un compte"
+    },
+    {
+      "debut": 690.08,
+      "fin": 693.24,
+      "texte": "avec mon lien comme d'habitude qui est"
+    },
+    {
+      "debut": 691.36,
+      "fin": 694.84,
+      "texte": "en description, Revolute vous offre 20 €"
+    },
+    {
+      "debut": 693.24,
+      "fin": 698.24,
+      "texte": "et vous êtes directement dans le tirage"
+    },
+    {
+      "debut": 694.84,
+      "fin": 700.08,
+      "texte": "au sort pour gagner 10000 €. Pour créer"
+    },
+    {
+      "debut": 698.24,
+      "fin": 701.48,
+      "texte": "un compte, c'est méga simple et rapide."
+    },
+    {
+      "debut": 700.08,
+      "fin": 703.16,
+      "texte": "Vous pouvez choisir une carte standard"
+    },
+    {
+      "debut": 701.48,
+      "fin": 704.72,
+      "texte": "gratuite ou alors comme moi, une carte"
+    },
+    {
+      "debut": 703.16,
+      "fin": 706.08,
+      "texte": "métal personnalisée. Et c'est d'ailleurs"
+    },
+    {
+      "debut": 704.72,
+      "fin": 707.56,
+      "texte": "l'application la plus téléchargée en"
+    },
+    {
+      "debut": 706.08,
+      "fin": 709.04,
+      "texte": "France. Et avec cet appli, vous pouvez"
+    },
+    {
+      "debut": 707.56,
+      "fin": 710.16,
+      "texte": "gérer votre argent archi facilement."
+    },
+    {
+      "debut": 709.04,
+      "fin": 711.56,
+      "texte": "Vous pouvez épargner, vous pouvez"
+    },
+    {
+      "debut": 710.16,
+      "fin": 712.64,
+      "texte": "changer de devise, enfin bref, il y a"
+    },
+    {
+      "debut": 711.56,
+      "fin": 714.16,
+      "texte": "beaucoup de choses à faire. Avec"
+    },
+    {
+      "debut": 712.64,
+      "fin": 716.28,
+      "texte": "l'abonnement Revolute Metal, vous allez"
+    },
+    {
+      "debut": 714.16,
+      "fin": 718.84,
+      "texte": "avoir des abonnements directement comme"
+    },
+    {
+      "debut": 716.28,
+      "fin": 719.88,
+      "texte": "l'équipe Kind Gold ou même Uber One."
+    },
+    {
+      "debut": 718.84,
+      "fin": 721,
+      "texte": "Donc tout ça, c'est vraiment top. Et il"
+    },
+    {
+      "debut": 719.88,
+      "fin": 722.84,
+      "texte": "y a un truc qui est vraiment cool à"
+    },
+    {
+      "debut": 721,
+      "fin": 724.32,
+      "texte": "mort, c'est Revolute Ado. Si vous avez"
+    },
+    {
+      "debut": 722.84,
+      "fin": 726.44,
+      "texte": "moins de 18 ans, vos parents peuvent"
+    },
+    {
+      "debut": 724.32,
+      "fin": 728.04,
+      "texte": "vous créer un compte à vous et le gérer"
+    },
+    {
+      "debut": 726.44,
+      "fin": 730.28,
+      "texte": "depuis le leur c'est pratique, c'est"
+    },
+    {
+      "debut": 728.04,
+      "fin": 731.64,
+      "texte": "sécurisé et puis bah ça permet aux"
+    },
+    {
+      "debut": 730.28,
+      "fin": 732.96,
+      "texte": "jeunes de savoir gérer leur argent"
+    },
+    {
+      "debut": 731.64,
+      "fin": 734.24,
+      "texte": "doucement quoi. C'est top la famille. Si"
+    },
+    {
+      "debut": 732.96,
+      "fin": 735.64,
+      "texte": "vous avez pas encore Rvolute comme"
+    },
+    {
+      "debut": 734.24,
+      "fin": 737.64,
+      "texte": "d'habitude évidemment le lien est en"
+    },
+    {
+      "debut": 735.64,
+      "fin": 739.08,
+      "texte": "description. 20 € offert à la création"
+    },
+    {
+      "debut": 737.64,
+      "fin": 740.4,
+      "texte": "du compte et vous serez directement dans"
+    },
+    {
+      "debut": 739.08,
+      "fin": 741.28,
+      "texte": "un tirage au sort pour remporter 10000"
+    },
+    {
+      "debut": 740.4,
+      "fin": 742.92,
+      "texte": "balles. Ça c'est dingue. Merci"
+    },
+    {
+      "debut": 741.28,
+      "fin": 744.84,
+      "texte": "infiniment de nous accompagner sur cette"
+    },
+    {
+      "debut": 742.92,
+      "fin": 746,
+      "texte": "aventure d'une manière assez conséquente"
+    },
+    {
+      "debut": 744.84,
+      "fin": 747.96,
+      "texte": "donc c'est vraiment top. Merci"
+    },
+    {
+      "debut": 746,
+      "fin": 749.44,
+      "texte": "infiniment. On va pouvoir continuer."
+    },
+    {
+      "debut": 747.96,
+      "fin": 751.4,
+      "texte": "Pour l'anecdote, ce petit parc, c'est le"
+    },
+    {
+      "debut": 749.44,
+      "fin": 752.08,
+      "texte": "même créateur. Je sais pas si on dit un"
+    },
+    {
+      "debut": 751.4,
+      "fin": 753.84,
+      "texte": "architecte pour"
+    },
+    {
+      "debut": 752.08,
+      "fin": 755.88,
+      "texte": "Ah oui, c'est Virgile Lablo."
+    },
+    {
+      "debut": 753.84,
+      "fin": 757.16,
+      "texte": "Non, c'est celui qui a fait central par"
+    },
+    {
+      "debut": 755.88,
+      "fin": 758.52,
+      "texte": "en gros c'est sa maquette."
+    },
+    {
+      "debut": 757.16,
+      "fin": 761.52,
+      "texte": "Ça peut que brouillon vu la gueule du"
+    },
+    {
+      "debut": 758.52,
+      "fin": 761.52,
+      "texte": "parc."
+    },
+    {
+      "debut": 764.08,
+      "fin": 767.67,
+      "texte": "Mes doigts me font mal."
+    },
+    {
+      "debut": 766.76,
+      "fin": 768.44,
+      "texte": "Petite barbichette. Petite barbichette."
+    },
+    {
+      "debut": 767.67,
+      "fin": 771.24,
+      "texte": "Petite barbichette. Petite"
+    },
+    {
+      "debut": 768.44,
+      "fin": 774.32,
+      "texte": "barb barbette. Barb. C'est juste du"
+    },
+    {
+      "debut": 771.24,
+      "fin": 776.89,
+      "texte": "bully. C'est quoi ?"
+    },
+    {
+      "debut": 774.32,
+      "fin": 776.89,
+      "texte": "Oh les deux."
+    },
+    {
+      "debut": 778.76,
+      "fin": 782.04,
+      "texte": "Alors alors hein gros con."
+    },
+    {
+      "debut": 781.16,
+      "fin": 783.92,
+      "texte": "Ah non c'est"
+    },
+    {
+      "debut": 782.04,
+      "fin": 784.6,
+      "texte": "Ouais tu me la rends."
+    },
+    {
+      "debut": 783.92,
+      "fin": 785.24,
+      "texte": "Ouais"
+    },
+    {
+      "debut": 784.6,
+      "fin": 788.48,
+      "texte": "ouais"
+    },
+    {
+      "debut": 785.24,
+      "fin": 788.56,
+      "texte": "encore encore."
+    },
+    {
+      "debut": 788.48,
+      "fin": 789.6,
+      "texte": "Mais"
+    },
+    {
+      "debut": 788.56,
+      "fin": 793.04,
+      "texte": "elle est où la voiture qui fait ça ?"
+    },
+    {
+      "debut": 789.6,
+      "fin": 793.04,
+      "texte": "Retour en 1984."
+    },
+    {
+      "debut": 801.04,
+      "fin": 804.56,
+      "texte": "Bien jusqu'à moi."
+    },
+    {
+      "debut": 812.12,
+      "fin": 815.96,
+      "texte": "W"
+    },
+    {
+      "debut": 813.48,
+      "fin": 818.68,
+      "texte": "Mais quoi ? Mais gros mais gros mais"
+    },
+    {
+      "debut": 815.96,
+      "fin": 820.76,
+      "texte": "gros gros, mais gros mais gros"
+    },
+    {
+      "debut": 818.68,
+      "fin": 822,
+      "texte": "ou on voit mort, on voit"
+    },
+    {
+      "debut": 820.76,
+      "fin": 824.76,
+      "texte": "mais c'est quoi ce chewinggum de"
+    },
+    {
+      "debut": 822,
+      "fin": 829.36,
+      "texte": "la chamb ? Comment ça se fait qu'il ne"
+    },
+    {
+      "debut": 824.76,
+      "fin": 829.36,
+      "texte": "met pas ça le chingum ? Il est ga"
+    },
+    {
+      "debut": 831.36,
+      "fin": 835.12,
+      "texte": "la vie de ma mère, je me mets en je"
+    },
+    {
+      "debut": 832.68,
+      "fin": 839.06,
+      "texte": "regarde"
+    },
+    {
+      "debut": 835.12,
+      "fin": 840,
+      "texte": "c'est pas aussi long."
+    },
+    {
+      "debut": 840,
+      "fin": 844.32,
+      "texte": "Oh non la peau de couille."
+    },
+    {
+      "debut": 842.52,
+      "fin": 846.32,
+      "texte": "Ah non il y a une peau de couille."
+    },
+    {
+      "debut": 844.32,
+      "fin": 847.28,
+      "texte": "Oh génial."
+    },
+    {
+      "debut": 846.32,
+      "fin": 848.6,
+      "texte": "Comment il s'appelle déjà ?"
+    },
+    {
+      "debut": 847.28,
+      "fin": 850.2,
+      "texte": "Faut qu'il y aille. Je le connais pas ce"
+    },
+    {
+      "debut": 848.6,
+      "fin": 852.16,
+      "texte": "genre."
+    },
+    {
+      "debut": 866.6,
+      "fin": 871.16,
+      "texte": "Tu tu tombes de tout en haut de"
+    },
+    {
+      "debut": 868.6,
+      "fin": 873.18,
+      "texte": "l'immeuble."
+    },
+    {
+      "debut": 873.6,
+      "fin": 877.6,
+      "texte": "Ah stop"
+    },
+    {
+      "debut": 877.6,
+      "fin": 881.88,
+      "texte": "mais ouais c'est super haut ou quoi ?"
+    },
+    {
+      "debut": 879.48,
+      "fin": 883.8,
+      "texte": "ton bilan pendant bilan"
+    },
+    {
+      "debut": 881.88,
+      "fin": 885.68,
+      "texte": "Ouais, je t' cri ça tient qu' avec des"
+    },
+    {
+      "debut": 883.8,
+      "fin": 888.19,
+      "texte": "petits pilones ça fait trop peur. Arrive"
+    },
+    {
+      "debut": 885.68,
+      "fin": 890.21,
+      "texte": "au milieu ça tient que par des pilon"
+    },
+    {
+      "debut": 891.12,
+      "fin": 896.28,
+      "texte": "les gars le coping qui a réussi vous"
+    },
+    {
+      "debut": 892.76,
+      "fin": 896.28,
+      "texte": "avez pas le droit de le"
+    },
+    {
+      "debut": 901.28,
+      "fin": 903.72,
+      "texte": "OK Manas. Manas tu es là ou pas ? Tu es"
+    },
+    {
+      "debut": 902.76,
+      "fin": 904.04,
+      "texte": "là ou pas ? Je vais te choquer sur"
+    },
+    {
+      "debut": 903.72,
+      "fin": 908.84,
+      "texte": "celle-là."
+    },
+    {
+      "debut": 904.04,
+      "fin": 911.12,
+      "texte": "Vas-y frère. POV la rue barrée."
+    },
+    {
+      "debut": 908.84,
+      "fin": 913.08,
+      "texte": "La rue elle est elle est barrée."
+    },
+    {
+      "debut": 911.12,
+      "fin": 915.04,
+      "texte": "!"
+    },
+    {
+      "debut": 916.28,
+      "fin": 922.32,
+      "texte": "Oh le petit gars le tout petit gar,"
+    },
+    {
+      "debut": 919.52,
+      "fin": 925.56,
+      "texte": "je t'ai vu comme ça."
+    },
+    {
+      "debut": 922.32,
+      "fin": 929.12,
+      "texte": "Pétard, tu es en pétard."
+    },
+    {
+      "debut": 925.56,
+      "fin": 931.72,
+      "texte": "Je te tape un check en tout cas."
+    },
+    {
+      "debut": 929.12,
+      "fin": 933.2,
+      "texte": "Ah là là, merde. J'ai raté au"
+    },
+    {
+      "debut": 931.72,
+      "fin": 935.44,
+      "texte": "Ouais, tu"
+    },
+    {
+      "debut": 933.2,
+      "fin": 939.24,
+      "texte": "Ça va bien ? C'est pas July, c'est ça ?"
+    },
+    {
+      "debut": 935.44,
+      "fin": 941.36,
+      "texte": "C'est pas l'autre vo"
+    },
+    {
+      "debut": 939.24,
+      "fin": 942.92,
+      "texte": "comment il s'appelle lui là ? Vu"
+    },
+    {
+      "debut": 941.36,
+      "fin": 944.2,
+      "texte": "arrivver à 10 km."
+    },
+    {
+      "debut": 942.92,
+      "fin": 945.44,
+      "texte": "Je te kiffe mec, toi aussi t'inquiète."
+    },
+    {
+      "debut": 944.2,
+      "fin": 946.12,
+      "texte": "J'ai oublié ton nom mais on est ensemble"
+    },
+    {
+      "debut": 945.44,
+      "fin": 949.44,
+      "texte": "mon frère."
+    },
+    {
+      "debut": 946.12,
+      "fin": 949.44,
+      "texte": "Merci beaucoup"
+    },
+    {
+      "debut": 949.8,
+      "fin": 953.76,
+      "texte": "rentrer pour se balade. C'est dingue."
+    },
+    {
+      "debut": 957.76,
+      "fin": 963.56,
+      "texte": "Oh shitcuser"
+    },
+    {
+      "debut": 961.16,
+      "fin": 966.72,
+      "texte": "ma gueule."
+    },
+    {
+      "debut": 963.56,
+      "fin": 966.72,
+      "texte": "de mettre"
+    },
+    {
+      "debut": 966.96,
+      "fin": 970.36,
+      "texte": "les mecs ont touch."
+    },
+    {
+      "debut": 971.44,
+      "fin": 977.24,
+      "texte": "Merci les gars, merci pour l'accueil"
+    },
+    {
+      "debut": 974.24,
+      "fin": 977.24,
+      "texte": "shoute"
+    },
+    {
+      "debut": 978.24,
+      "fin": 980.12,
+      "texte": "à ta gueule gros."
+    },
+    {
+      "debut": 979.36,
+      "fin": 981.2,
+      "texte": "Il parle beaucoup"
+    },
+    {
+      "debut": 980.12,
+      "fin": 982.88,
+      "texte": "qui va derrière frère."
+    },
+    {
+      "debut": 981.2,
+      "fin": 984.6,
+      "texte": "Vas-y"
+    },
+    {
+      "debut": 982.88,
+      "fin": 985.44,
+      "texte": "fait un 2 3 là et un devant frère. Tu"
+    },
+    {
+      "debut": 984.6,
+      "fin": 987.88,
+      "texte": "vas devant frérot."
+    },
+    {
+      "debut": 985.44,
+      "fin": 991.24,
+      "texte": "Ah ouais frère"
+    },
+    {
+      "debut": 987.88,
+      "fin": 991.24,
+      "texte": "frère. Vas-y."
+    },
+    {
+      "debut": 991.4,
+      "fin": 995.84,
+      "texte": "Ah frère, j'ai cassé un K dans une"
+    },
+    {
+      "debut": 994.2,
+      "fin": 997.28,
+      "texte": "voiture si petite la voiture. Viens, on"
+    },
+    {
+      "debut": 995.84,
+      "fin": 999.04,
+      "texte": "va à l'hôtel, frère. Ça rien à voir."
+    },
+    {
+      "debut": 997.28,
+      "fin": 999.96,
+      "texte": "Ouais frère un simple hôtel pour être"
+    },
+    {
+      "debut": 999.04,
+      "fin": 1001.6,
+      "texte": "trop marrant en séquence."
+    },
+    {
+      "debut": 999.96,
+      "fin": 1003.16,
+      "texte": "Un bain un bain un bain d'eau chaude"
+    },
+    {
+      "debut": 1001.6,
+      "fin": 1004.4,
+      "texte": "avec une petite bombl qui s'enua. Ah"
+    },
+    {
+      "debut": 1003.16,
+      "fin": 1007.56,
+      "texte": "ouais"
+    },
+    {
+      "debut": 1004.4,
+      "fin": 1009.37,
+      "texte": "en mode hell en mode hell yeah."
+    },
+    {
+      "debut": 1007.56,
+      "fin": 1011.39,
+      "texte": "Vraiment c'est ton confort au max quoi."
+    },
+    {
+      "debut": 1012,
+      "fin": 1016.64,
+      "texte": "I wish by Allez qu'est-ce que tu wish ?"
+    },
+    {
+      "debut": 1013.76,
+      "fin": 1018.68,
+      "texte": "Ah ouais on peut faire quoi ? I wish by"
+    },
+    {
+      "debut": 1016.64,
+      "fin": 1020.56,
+      "texte": "I wish by"
+    },
+    {
+      "debut": 1018.68,
+      "fin": 1022.28,
+      "texte": "J'aimerais que demain on voit des"
+    },
+    {
+      "debut": 1020.56,
+      "fin": 1022.36,
+      "texte": "animaux"
+    },
+    {
+      "debut": 1022.28,
+      "fin": 1026.52,
+      "texte": "qui"
+    },
+    {
+      "debut": 1022.36,
+      "fin": 1028.84,
+      "texte": "s'approprie truc c'est approprié"
+    },
+    {
+      "debut": 1026.52,
+      "fin": 1030.28,
+      "texte": "s'approprie l'idée deproprié"
+    },
+    {
+      "debut": 1028.84,
+      "fin": 1035.08,
+      "texte": "mana ça a donné une idée géniale. Mana"
+    },
+    {
+      "debut": 1030.28,
+      "fin": 1035.08,
+      "texte": "çait une idée top wou wou wier"
+    },
+    {
+      "debut": 1038.12,
+      "fin": 1040.16,
+      "texte": "il a accéléré depuis"
+    },
+    {
+      "debut": 1039.08,
+      "fin": 1040.88,
+      "texte": "W"
+    },
+    {
+      "debut": 1040.16,
+      "fin": 1044.88,
+      "texte": "c'est trop cool"
+    },
+    {
+      "debut": 1040.88,
+      "fin": 1046.8,
+      "texte": "en gros là il a accéléré à mort. Ouais,"
+    },
+    {
+      "debut": 1044.88,
+      "fin": 1047.4,
+      "texte": "je voudrais mais si tuas rien. Tuas rien"
+    },
+    {
+      "debut": 1046.8,
+      "fin": 1048.76,
+      "texte": "rien frère."
+    },
+    {
+      "debut": 1047.4,
+      "fin": 1049.68,
+      "texte": "Frérot si tuas rien ça veut dire que tu"
+    },
+    {
+      "debut": 1048.76,
+      "fin": 1051.4,
+      "texte": "es au max. C'est dire que tu es trop"
+    },
+    {
+      "debut": 1049.68,
+      "fin": 1052.16,
+      "texte": "bien. Tuas rien même pas une douche et"
+    },
+    {
+      "debut": 1051.4,
+      "fin": 1053.72,
+      "texte": "tout c'est trop bien."
+    },
+    {
+      "debut": 1052.16,
+      "fin": 1055.6,
+      "texte": "Je sais pas. Wish que ça continue comme"
+    },
+    {
+      "debut": 1053.72,
+      "fin": 1059.4,
+      "texte": "ça que tu wishes"
+    },
+    {
+      "debut": 1055.6,
+      "fin": 1061.88,
+      "texte": "ce moment si on l'avait pris en commun."
+    },
+    {
+      "debut": 1059.4,
+      "fin": 1062.48,
+      "texte": "Ah oui"
+    },
+    {
+      "debut": 1061.88,
+      "fin": 1063,
+      "texte": "tu vas bien ?"
+    },
+    {
+      "debut": 1062.48,
+      "fin": 1064.36,
+      "texte": "Ça va"
+    },
+    {
+      "debut": 1063,
+      "fin": 1066.64,
+      "texte": "ça va plaisir."
+    },
+    {
+      "debut": 1064.36,
+      "fin": 1067.08,
+      "texte": "Salut. Ça va ou quoi ? Ça va bien"
+    },
+    {
+      "debut": 1066.64,
+      "fin": 1068.4,
+      "texte": "tranquille."
+    },
+    {
+      "debut": 1067.08,
+      "fin": 1069.84,
+      "texte": "Alors du coup à Montréal"
+    },
+    {
+      "debut": 1068.4,
+      "fin": 1070.44,
+      "texte": "à Montréal petit coup et puis on part"
+    },
+    {
+      "debut": 1069.84,
+      "fin": 1070.92,
+      "texte": "demain."
+    },
+    {
+      "debut": 1070.44,
+      "fin": 1072.6,
+      "texte": "Ah ouais"
+    },
+    {
+      "debut": 1070.92,
+      "fin": 1073.16,
+      "texte": "on est en retentrée pendant on enchaîne."
+    },
+    {
+      "debut": 1072.6,
+      "fin": 1073.84,
+      "texte": "OK. OK."
+    },
+    {
+      "debut": 1073.16,
+      "fin": 1076.92,
+      "texte": "Ouais super."
+    },
+    {
+      "debut": 1073.84,
+      "fin": 1078.84,
+      "texte": "Je fais de la vidéo."
+    },
+    {
+      "debut": 1076.92,
+      "fin": 1080.52,
+      "texte": "Peut-être passer Instagram à un de vous"
+    },
+    {
+      "debut": 1078.84,
+      "fin": 1083.64,
+      "texte": "si jamais vous êtes à Montréal. Moi je"
+    },
+    {
+      "debut": 1080.52,
+      "fin": 1084.48,
+      "texte": "peux genre vous suivre style vlog style"
+    },
+    {
+      "debut": 1083.64,
+      "fin": 1086.84,
+      "texte": "même"
+    },
+    {
+      "debut": 1084.48,
+      "fin": 1088.72,
+      "texte": "en train de prendre son job là."
+    },
+    {
+      "debut": 1086.84,
+      "fin": 1090.44,
+      "texte": "Sous ma gueule"
+    },
+    {
+      "debut": 1088.72,
+      "fin": 1090.8,
+      "texte": "frérot. Je te lâche jamais jamais je te"
+    },
+    {
+      "debut": 1090.44,
+      "fin": 1091.76,
+      "texte": "lâche."
+    },
+    {
+      "debut": 1090.8,
+      "fin": 1093.08,
+      "texte": "C'est beau."
+    },
+    {
+      "debut": 1091.76,
+      "fin": 1095.12,
+      "texte": "Vérifie quand même le prix du gars parce"
+    },
+    {
+      "debut": 1093.08,
+      "fin": 1096.16,
+      "texte": "que il y a un monde où on gagne un peu"
+    },
+    {
+      "debut": 1095.12,
+      "fin": 1098.16,
+      "texte": "d'oseille. Ouais frère,"
+    },
+    {
+      "debut": 1096.16,
+      "fin": 1099.4,
+      "texte": "tu payes pas Max"
+    },
+    {
+      "debut": 1098.16,
+      "fin": 1100.6,
+      "texte": "c'est son argent c'est le mien."
+    },
+    {
+      "debut": 1099.4,
+      "fin": 1102.2,
+      "texte": "Je le paye pas non plus."
+    },
+    {
+      "debut": 1100.6,
+      "fin": 1103.12,
+      "texte": "Bon bah voilà ça je veux pas être plus"
+    },
+    {
+      "debut": 1102.2,
+      "fin": 1104.2,
+      "texte": "rentable que ça."
+    },
+    {
+      "debut": 1103.12,
+      "fin": 1104.96,
+      "texte": "C'est moi qui le paye."
+    },
+    {
+      "debut": 1104.2,
+      "fin": 1106.6,
+      "texte": "Ah ouais d'accord. OK."
+    },
+    {
+      "debut": 1104.96,
+      "fin": 1107.48,
+      "texte": "Ouais. Non je suis bien avec j'ai jamais"
+    },
+    {
+      "debut": 1106.6,
+      "fin": 1109.08,
+      "texte": "vu mais c'est top."
+    },
+    {
+      "debut": 1107.48,
+      "fin": 1109.8,
+      "texte": "Bon ben on reste comme ça. On touche à"
+    },
+    {
+      "debut": 1109.08,
+      "fin": 1112,
+      "texte": "rien alors."
+    },
+    {
+      "debut": 1109.8,
+      "fin": 1114.16,
+      "texte": "On enchaîne alors. H"
+    },
+    {
+      "debut": 1112,
+      "fin": 1116.6,
+      "texte": "tu prends un crédit à la banque royale."
+    },
+    {
+      "debut": 1114.16,
+      "fin": 1118.64,
+      "texte": "Bonjour Louis X. Voilà c'est quat éc les"
+    },
+    {
+      "debut": 1116.6,
+      "fin": 1121.44,
+      "texte": "intérêts. Bam bam bam bam bam. Let's go"
+    },
+    {
+      "debut": 1118.64,
+      "fin": 1122.76,
+      "texte": "Montréal. Wou."
+    },
+    {
+      "debut": 1121.44,
+      "fin": 1127.8,
+      "texte": "Ah c'est chiant ça. C'est vraiment"
+    },
+    {
+      "debut": 1122.76,
+      "fin": 1127.8,
+      "texte": "chiant. Hey guys, the streetor"
+    },
+    {
+      "debut": 1129.04,
+      "fin": 1133.8,
+      "texte": "sorry sorry. On a pas le droit d'être"
+    },
+    {
+      "debut": 1130.8,
+      "fin": 1133.8,
+      "texte": "statique."
+    },
+    {
+      "debut": 1137,
+      "fin": 1140,
+      "texte": "Ouais."
+    },
+    {
+      "debut": 1154.8,
+      "fin": 1157.84,
+      "texte": "Ça va ? Après,"
+    },
+    {
+      "debut": 1156.64,
+      "fin": 1159.56,
+      "texte": "on fait un selfie genre"
+    },
+    {
+      "debut": 1157.84,
+      "fin": 1161,
+      "texte": "euh n'importe qui. Ouais, un selfie."
+    },
+    {
+      "debut": 1159.56,
+      "fin": 1164.28,
+      "texte": "Est-ce que je peux avec vous ?"
+    },
+    {
+      "debut": 1161,
+      "fin": 1164.28,
+      "texte": "Ouais, carrément."
+    },
+    {
+      "debut": 1166.72,
+      "fin": 1169.72,
+      "texte": "Jamais."
+    },
+    {
+      "debut": 1176.56,
+      "fin": 1178.84,
+      "texte": "Bah tu sais quoi ? Fil-moi ton numéro et"
+    },
+    {
+      "debut": 1177.6,
+      "fin": 1181.63,
+      "texte": "je t'appellerai sur ton tel quand on l'a"
+    },
+    {
+      "debut": 1178.84,
+      "fin": 1182.36,
+      "texte": "quand quand on l'a retrouvé."
+    },
+    {
+      "debut": 1182.36,
+      "fin": 1187.32,
+      "texte": "Elle elle a pas relevé le paradoxe."
+    },
+    {
+      "debut": 1186,
+      "fin": 1188.4,
+      "texte": "Bah tiens, tu en a un nouveau là."
+    },
+    {
+      "debut": 1187.32,
+      "fin": 1190.8,
+      "texte": "Elle a récupéré un téléphone. C'est qui"
+    },
+    {
+      "debut": 1188.4,
+      "fin": 1192.4,
+      "texte": "? Ouais bah c'est"
+    },
+    {
+      "debut": 1192.4,
+      "fin": 1196.16,
+      "texte": "c'est le 6e. C'est le 6e."
+    },
+    {
+      "debut": 1194.44,
+      "fin": 1196.68,
+      "texte": "Je peux pas appeler votre ami s'il vous"
+    },
+    {
+      "debut": 1196.16,
+      "fin": 1198.12,
+      "texte": "plaît."
+    },
+    {
+      "debut": 1196.68,
+      "fin": 1199.36,
+      "texte": "Je le connais pas moi."
+    },
+    {
+      "debut": 1198.12,
+      "fin": 1200.48,
+      "texte": "Moi je les connais pas. Tu connais toi ?"
+    },
+    {
+      "debut": 1199.36,
+      "fin": 1201.68,
+      "texte": "Non."
+    },
+    {
+      "debut": 1200.48,
+      "fin": 1202.76,
+      "texte": "L'arnaque. L'arnaque montait"
+    },
+    {
+      "debut": 1201.68,
+      "fin": 1203.96,
+      "texte": "parfaitement."
+    },
+    {
+      "debut": 1202.76,
+      "fin": 1206,
+      "texte": "L'arnaque super bien volé."
+    },
+    {
+      "debut": 1203.96,
+      "fin": 1207.28,
+      "texte": "C'est que des sil."
+    },
+    {
+      "debut": 1206,
+      "fin": 1209.44,
+      "texte": "Je suis désolé, je sais pas ce qui m'a"
+    },
+    {
+      "debut": 1207.28,
+      "fin": 1211.4,
+      "texte": "pris. Maxim on peut prendre une photo ?"
+    },
+    {
+      "debut": 1209.44,
+      "fin": 1212.4,
+      "texte": "Elle était elle était profondément"
+    },
+    {
+      "debut": 1211.4,
+      "fin": 1215.2,
+      "texte": "inquiète"
+    },
+    {
+      "debut": 1212.4,
+      "fin": 1217.66,
+      "texte": "les gars."
+    },
+    {
+      "debut": 1215.2,
+      "fin": 1218.44,
+      "texte": "Va pleurer. Prom. Non, je suis désolé,"
+    },
+    {
+      "debut": 1217.66,
+      "fin": 1220.48,
+      "texte": "c'est horrible, je suis"
+    },
+    {
+      "debut": 1218.44,
+      "fin": 1222.04,
+      "texte": "horrible, je suis horrible."
+    },
+    {
+      "debut": 1220.48,
+      "fin": 1224.4,
+      "texte": "Je suis horrible, c'était une blague."
+    },
+    {
+      "debut": 1222.04,
+      "fin": 1225.36,
+      "texte": "Vous pouvez pas en fait."
+    },
+    {
+      "debut": 1224.4,
+      "fin": 1226.24,
+      "texte": "Ah non, je suis horrible. C'était une"
+    },
+    {
+      "debut": 1225.36,
+      "fin": 1230.16,
+      "texte": "blague. Je m'en veux. Tu doas être trop"
+    },
+    {
+      "debut": 1226.24,
+      "fin": 1230.16,
+      "texte": "déçu de me rencontrer."
+    },
+    {
+      "debut": 1230.28,
+      "fin": 1233.52,
+      "texte": "Non, c'est pas correct du tout ça."
+    },
+    {
+      "debut": 1232.08,
+      "fin": 1234.64,
+      "texte": "Je l' sem"
+    },
+    {
+      "debut": 1233.52,
+      "fin": 1237.56,
+      "texte": "Ouais, bien sûr."
+    },
+    {
+      "debut": 1234.64,
+      "fin": 1238.44,
+      "texte": "Vas-y, tiens, je la prends si tu veux."
+    },
+    {
+      "debut": 1237.56,
+      "fin": 1241,
+      "texte": "J'ai fait un truc horrible. Alors,"
+    },
+    {
+      "debut": 1238.44,
+      "fin": 1241.6,
+      "texte": "commencé à faire en fait, je pars demain"
+    },
+    {
+      "debut": 1241,
+      "fin": 1242.64,
+      "texte": "et tout, j'aurais pas le temps"
+    },
+    {
+      "debut": 1241.6,
+      "fin": 1243.64,
+      "texte": "d'attendre et tout. Moi, je lui ai dit,"
+    },
+    {
+      "debut": 1242.64,
+      "fin": 1244.68,
+      "texte": "elle a pas capté. Je dis \"Pah passe-moi"
+    },
+    {
+      "debut": 1243.64,
+      "fin": 1246.8,
+      "texte": "ton numéro comme ça quand on lâche"
+    },
+    {
+      "debut": 1244.68,
+      "fin": 1248.88,
+      "texte": "t'appelle pour la vanne.\" Et elle fait"
+    },
+    {
+      "debut": 1246.8,
+      "fin": 1250.96,
+      "texte": "\"Mais je pars demain\"."
+    },
+    {
+      "debut": 1248.88,
+      "fin": 1251.92,
+      "texte": "C'est horrible"
+    },
+    {
+      "debut": 1250.96,
+      "fin": 1254.04,
+      "texte": "même des tests. En fait,"
+    },
+    {
+      "debut": 1251.92,
+      "fin": 1254.88,
+      "texte": "je pense que ouais, je pense qu'il y a"
+    },
+    {
+      "debut": 1254.04,
+      "fin": 1256.16,
+      "texte": "je pense que ça perdu."
+    },
+    {
+      "debut": 1254.88,
+      "fin": 1257.8,
+      "texte": "Ça valait le coup de perdre un abonné ou"
+    },
+    {
+      "debut": 1256.16,
+      "fin": 1258.52,
+      "texte": "pas pour la pour la mort. Mais tu m'"
+    },
+    {
+      "debut": 1257.8,
+      "fin": 1259.64,
+      "texte": "gagner tellement avec"
+    },
+    {
+      "debut": 1258.52,
+      "fin": 1260.48,
+      "texte": "perdu 10 de retrouver."
+    },
+    {
+      "debut": 1259.64,
+      "fin": 1261.4,
+      "texte": "Tu m' gagner tellement avec"
+    },
+    {
+      "debut": 1260.48,
+      "fin": 1262.76,
+      "texte": "parce qu'en plus dans son téléphone j'ai"
+    },
+    {
+      "debut": 1261.4,
+      "fin": 1263.4,
+      "texte": "pris plein de photos. On a pris de foot"
+    },
+    {
+      "debut": 1262.76,
+      "fin": 1266.92,
+      "texte": "avecas."
+    },
+    {
+      "debut": 1263.4,
+      "fin": 1271,
+      "texte": "Attends ser redescendu. Va kiffer."
+    },
+    {
+      "debut": 1266.92,
+      "fin": 1271,
+      "texte": "J'ai l'impression qu'on t'a v 15 fois."
+    },
+    {
+      "debut": 1275.48,
+      "fin": 1278.56,
+      "texte": "Ah ouais."
+    },
+    {
+      "debut": 1285.16,
+      "fin": 1288.64,
+      "texte": "C'est quoi ? Je je dit c'est quoi le"
+    },
+    {
+      "debut": 1287.2,
+      "fin": 1290.56,
+      "texte": "mieux le meilleur truc là pour sortir"
+    },
+    {
+      "debut": 1288.64,
+      "fin": 1292.88,
+      "texte": "samedi soir ici là en sachant qu'on est"
+    },
+    {
+      "debut": 1290.56,
+      "fin": 1296.44,
+      "texte": "arrivé c'est comment on fait mal les"
+    },
+    {
+      "debut": 1292.88,
+      "fin": 1298.6,
+      "texte": "villes on est arrivé à Montréal à"
+    },
+    {
+      "debut": 1296.44,
+      "fin": 1300.28,
+      "texte": "vraiment 15h bien tu vois qu'en fait on"
+    },
+    {
+      "debut": 1298.6,
+      "fin": 1303.4,
+      "texte": "allé trop loin dans Montréal on était là"
+    },
+    {
+      "debut": 1300.28,
+      "fin": 1304.64,
+      "texte": "où on a mangé c'était vraiment loin donc"
+    },
+    {
+      "debut": 1303.4,
+      "fin": 1305.68,
+      "texte": "on s'est mangé encore une heure de route"
+    },
+    {
+      "debut": 1304.64,
+      "fin": 1307,
+      "texte": "pour venir dans le centre centre on"
+    },
+    {
+      "debut": 1305.68,
+      "fin": 1309.76,
+      "texte": "avait pas conscience de la grandeur du"
+    },
+    {
+      "debut": 1307,
+      "fin": 1312.12,
+      "texte": "truc donc on est arrivé en tout le temps"
+    },
+    {
+      "debut": 1309.76,
+      "fin": 1315.8,
+      "texte": "de se garer machin machin 19h tout est"
+    },
+    {
+      "debut": 1312.12,
+      "fin": 1317.32,
+      "texte": "fermé tac tac et du coup je dis bah quit"
+    },
+    {
+      "debut": 1315.8,
+      "fin": 1319.2,
+      "texte": "à Voilà, on est là le soir, on s'envoit"
+    },
+    {
+      "debut": 1317.32,
+      "fin": 1320.96,
+      "texte": "à Montréal by Night et c'est où là le"
+    },
+    {
+      "debut": 1319.2,
+      "fin": 1322.64,
+      "texte": "mieux genre \"Oh la longueur je te"
+    },
+    {
+      "debut": 1320.96,
+      "fin": 1324.44,
+      "texte": "mets alors tu m'as juste demandé la vie"
+    },
+    {
+      "debut": 1322.64,
+      "fin": 1325.52,
+      "texte": "de ma mère tu m'endors c'est le premier"
+    },
+    {
+      "debut": 1324.44,
+      "fin": 1327.72,
+      "texte": "tunnel qui où tu m'endors"
+    },
+    {
+      "debut": 1325.52,
+      "fin": 1329.08,
+      "texte": "j'ai senti gars wou je t' m'a juste"
+    },
+    {
+      "debut": 1327.72,
+      "fin": 1329.88,
+      "texte": "demandé elle a dit quoi ? En gros, vieux"
+    },
+    {
+      "debut": 1329.08,
+      "fin": 1331.28,
+      "texte": "port, c'est top ce soir."
+    },
+    {
+      "debut": 1329.88,
+      "fin": 1332.84,
+      "texte": "Vieux port, mais ton vieux con va."
+    },
+    {
+      "debut": 1331.28,
+      "fin": 1334.08,
+      "texte": "Casse-toi. Il est fou. Mais c'est trop"
+    },
+    {
+      "debut": 1332.84,
+      "fin": 1337.24,
+      "texte": "fou. Je te demande un truc, tu"
+    },
+    {
+      "debut": 1334.08,
+      "fin": 1340.24,
+      "texte": "m'insultes. Vieux port."
+    },
+    {
+      "debut": 1337.24,
+      "fin": 1340.24,
+      "texte": "Pignouf."
+    },
+    {
+      "debut": 1351.56,
+      "fin": 1355.28,
+      "texte": "Tu as vu la bagnole ?"
+    },
+    {
+      "debut": 1356.2,
+      "fin": 1358.64,
+      "texte": "La bagnole, elle est belle. La Dacia là,"
+    },
+    {
+      "debut": 1357.64,
+      "fin": 1361.6,
+      "texte": "elle est exceptionnelle hein."
+    },
+    {
+      "debut": 1358.64,
+      "fin": 1364.04,
+      "texte": "Ouais. Dacia"
+    },
+    {
+      "debut": 1361.6,
+      "fin": 1365.12,
+      "texte": "en rouge comme ça, métallisé."
+    },
+    {
+      "debut": 1364.04,
+      "fin": 1365.88,
+      "texte": "c'est une voiture. On nous emmène au"
+    },
+    {
+      "debut": 1365.12,
+      "fin": 1367.92,
+      "texte": "vieux port. Cach."
+    },
+    {
+      "debut": 1365.88,
+      "fin": 1368.48,
+      "texte": "On va au vieux port. C'est au vieux"
+    },
+    {
+      "debut": 1367.92,
+      "fin": 1369.88,
+      "texte": "port."
+    },
+    {
+      "debut": 1368.48,
+      "fin": 1371.08,
+      "texte": "J'ai senti que tu avais My bad. J'ai"
+    },
+    {
+      "debut": 1369.88,
+      "fin": 1372.28,
+      "texte": "vraiment cru c'était moi. Le tu m'as"
+    },
+    {
+      "debut": 1371.08,
+      "fin": 1372.52,
+      "texte": "insulté de pinouf et tout. J'ai senti"
+    },
+    {
+      "debut": 1372.28,
+      "fin": 1373.48,
+      "texte": "que"
+    },
+    {
+      "debut": 1372.52,
+      "fin": 1376.68,
+      "texte": "Pouf."
+    },
+    {
+      "debut": 1373.48,
+      "fin": 1376.68,
+      "texte": "Ah ouais, on"
+    },
+    {
+      "debut": 1377.96,
+      "fin": 1381.4,
+      "texte": "tout ferme à 23h."
+    },
+    {
+      "debut": 1380.2,
+      "fin": 1382.92,
+      "texte": "On aura jamais le temps de voir une"
+    },
+    {
+      "debut": 1381.4,
+      "fin": 1384.2,
+      "texte": "ville cool. La Toronto, c'est un"
+    },
+    {
+      "debut": 1382.92,
+      "fin": 1386.12,
+      "texte": "équivalent New York. la big ville c'est"
+    },
+    {
+      "debut": 1384.2,
+      "fin": 1387.96,
+      "texte": "Toronto. Mais je pensais que Montréal"
+    },
+    {
+      "debut": 1386.12,
+      "fin": 1389.12,
+      "texte": "c'était genre Paris genre tu vois à"
+    },
+    {
+      "debut": 1387.96,
+      "fin": 1389.6,
+      "texte": "Paris même."
+    },
+    {
+      "debut": 1389.12,
+      "fin": 1390.28,
+      "texte": "C'est ça en vrai."
+    },
+    {
+      "debut": 1389.6,
+      "fin": 1391.64,
+      "texte": "Qu'est-ce que tu aurais fait ?"
+    },
+    {
+      "debut": 1390.28,
+      "fin": 1393.68,
+      "texte": "Euh je serais allé chez moi je pense et"
+    },
+    {
+      "debut": 1391.64,
+      "fin": 1396.16,
+      "texte": "j'aurais regardé une série."
+    },
+    {
+      "debut": 1393.68,
+      "fin": 1397.72,
+      "texte": "OK. OK."
+    },
+    {
+      "debut": 1396.16,
+      "fin": 1398.32,
+      "texte": "À tous"
+    },
+    {
+      "debut": 1397.72,
+      "fin": 1400.76,
+      "texte": "à tous"
+    },
+    {
+      "debut": 1398.32,
+      "fin": 1403.92,
+      "texte": "à Montréal visite à Montréal. À"
+    },
+    {
+      "debut": 1400.76,
+      "fin": 1405.48,
+      "texte": "Montréal, on peut aller faire du roller."
+    },
+    {
+      "debut": 1403.92,
+      "fin": 1407.36,
+      "texte": "Une petite boîte de nuit en mode roller"
+    },
+    {
+      "debut": 1405.48,
+      "fin": 1408.96,
+      "texte": "comme les années 80. Une boîte de nuit à"
+    },
+    {
+      "debut": 1407.36,
+      "fin": 1411.32,
+      "texte": "roller. Il y a la grande roue qui est"
+    },
+    {
+      "debut": 1408.96,
+      "fin": 1412.52,
+      "texte": "juste là qui ferme dans 45 minutes. On"
+    },
+    {
+      "debut": 1411.32,
+      "fin": 1414.08,
+      "texte": "s'envoie une petite grande roue. La"
+    },
+    {
+      "debut": 1412.52,
+      "fin": 1415.28,
+      "texte": "ville ferme ses portes à 23h. Mais ce"
+    },
+    {
+      "debut": 1414.08,
+      "fin": 1416.36,
+      "texte": "qui serait génial, c'est qu'au roller,"
+    },
+    {
+      "debut": 1415.28,
+      "fin": 1417.72,
+      "texte": "il y a un truc où on peut manger la"
+    },
+    {
+      "debut": 1416.36,
+      "fin": 1419.44,
+      "texte": "bonne et là ça serait exceptionnel. Mais"
+    },
+    {
+      "debut": 1417.72,
+      "fin": 1420.24,
+      "texte": "tu imagines manger en un steak en"
+    },
+    {
+      "debut": 1419.44,
+      "fin": 1421.08,
+      "texte": "mangeant ?"
+    },
+    {
+      "debut": 1420.24,
+      "fin": 1421.92,
+      "texte": "En roulant ?"
+    },
+    {
+      "debut": 1421.08,
+      "fin": 1423.12,
+      "texte": "Non. Tu tu"
+    },
+    {
+      "debut": 1421.92,
+      "fin": 1425.8,
+      "texte": "tu peux leser. Non,"
+    },
+    {
+      "debut": 1423.12,
+      "fin": 1426.96,
+      "texte": "tu r Non, tu tu rolles, tu rolles, tu"
+    },
+    {
+      "debut": 1425.8,
+      "fin": 1428.32,
+      "texte": "rolles pendant une petite demi-heure,"
+    },
+    {
+      "debut": 1426.96,
+      "fin": 1429.16,
+      "texte": "une demi-heure, tu rolles."
+    },
+    {
+      "debut": 1428.32,
+      "fin": 1430.48,
+      "texte": "Après, tu vas à côté."
+    },
+    {
+      "debut": 1429.16,
+      "fin": 1433.04,
+      "texte": "Non, sinon, tu poses ton assiette sur le"
+    },
+    {
+      "debut": 1430.48,
+      "fin": 1433.68,
+      "texte": "côté, tu fais un tour et à chaque tour"
+    },
+    {
+      "debut": 1433.04,
+      "fin": 1435.08,
+      "texte": "là,"
+    },
+    {
+      "debut": 1433.68,
+      "fin": 1437.68,
+      "texte": "tu reviens. Ah il est dur à"
+    },
+    {
+      "debut": 1435.08,
+      "fin": 1437.68,
+      "texte": "couper."
+    },
+    {
+      "debut": 1444.84,
+      "fin": 1450.19,
+      "texte": "15 minutes. Let's go la grand trou."
+    },
+    {
+      "debut": 1446.6,
+      "fin": 1453.8,
+      "texte": "Allez, faisons des trucs à Montréal."
+    },
+    {
+      "debut": 1450.19,
+      "fin": 1456.74,
+      "texte": "Let's go. Montpelier"
+    },
+    {
+      "debut": 1453.8,
+      "fin": 1458.24,
+      "texte": "monal."
+    },
+    {
+      "debut": 1458.24,
+      "fin": 1461.72,
+      "texte": "Bienvenue dans la roulette mécanique"
+    },
+    {
+      "debut": 1459.88,
+      "fin": 1463.2,
+      "texte": "hydraulique volante. Bienvenue."
+    },
+    {
+      "debut": 1461.72,
+      "fin": 1465.32,
+      "texte": "OK, c'est parti."
+    },
+    {
+      "debut": 1463.2,
+      "fin": 1466.8,
+      "texte": "Bienvenue dans le char roulant mobile."
+    },
+    {
+      "debut": 1465.32,
+      "fin": 1468.4,
+      "texte": "Bienvenue dans le char. K"
+    },
+    {
+      "debut": 1466.8,
+      "fin": 1470.68,
+      "texte": "les chars qui montent dans le sky qui"
+    },
+    {
+      "debut": 1468.4,
+      "fin": 1473.08,
+      "texte": "vient de taper les clouds. Wouh"
+    },
+    {
+      "debut": 1470.68,
+      "fin": 1474.32,
+      "texte": "! Toi, c'est très En fait, nous quand on"
+    },
+    {
+      "debut": 1473.08,
+      "fin": 1475.76,
+      "texte": "le fait, ça va. Toi, quand tu fais,"
+    },
+    {
+      "debut": 1474.32,
+      "fin": 1476.2,
+      "texte": "c'est raciste. Je sais pas comment"
+    },
+    {
+      "debut": 1475.76,
+      "fin": 1477.04,
+      "texte": "expliquer."
+    },
+    {
+      "debut": 1476.2,
+      "fin": 1478.04,
+      "texte": "OK. OK. Vas-y."
+    },
+    {
+      "debut": 1477.04,
+      "fin": 1479.8,
+      "texte": "No offense."
+    },
+    {
+      "debut": 1478.04,
+      "fin": 1481.56,
+      "texte": "No offense."
+    },
+    {
+      "debut": 1479.8,
+      "fin": 1483.36,
+      "texte": "Ah là là, c'est pas correct. Ça met en"
+    },
+    {
+      "debut": 1481.56,
+      "fin": 1486.27,
+      "texte": "calice. Je vais jouer ma musique. Voyez"
+    },
+    {
+      "debut": 1483.36,
+      "fin": 1486.27,
+      "texte": "ou pas ?"
+    },
+    {
+      "debut": 1487.56,
+      "fin": 1492.24,
+      "texte": "prent pour du bétail et je sais les gars"
+    },
+    {
+      "debut": 1490.04,
+      "fin": 1496.04,
+      "texte": "je sais il se prennent"
+    },
+    {
+      "debut": 1492.24,
+      "fin": 1500.84,
+      "texte": "pour la kou bou les gars sur la"
+    },
+    {
+      "debut": 1496.04,
+      "fin": 1500.84,
+      "texte": "j'entends plus j'entends quoi"
+    },
+    {
+      "debut": 1509.08,
+      "fin": 1511.4,
+      "texte": "les gars c'est un bê de hit en vrai"
+    },
+    {
+      "debut": 1510.36,
+      "fin": 1512.28,
+      "texte": "c'est un hit de fou en vrai"
+    },
+    {
+      "debut": 1511.4,
+      "fin": 1513.96,
+      "texte": "c'estp"
+    },
+    {
+      "debut": 1512.28,
+      "fin": 1517.24,
+      "texte": "ouais je parlais de voyer je parlais de"
+    },
+    {
+      "debut": 1513.96,
+      "fin": 1519.76,
+      "texte": "voyer voyer Pendant que tu f"
+    },
+    {
+      "debut": 1517.24,
+      "fin": 1521.52,
+      "texte": "tu veux faire toi et tu"
+    },
+    {
+      "debut": 1519.76,
+      "fin": 1523.55,
+      "texte": "m'as"
+    },
+    {
+      "debut": 1521.52,
+      "fin": 1527.4,
+      "texte": "d'abord"
+    },
+    {
+      "debut": 1523.55,
+      "fin": 1527.4,
+      "texte": "c'est pour la vie"
+    },
+    {
+      "debut": 1530.04,
+      "fin": 1539.32,
+      "texte": "c'est un de hit un classique"
+    },
+    {
+      "debut": 1534.32,
+      "fin": 1539.32,
+      "texte": "chez nous voir ce qui se"
+    },
+    {
+      "debut": 1539.76,
+      "fin": 1542.76,
+      "texte": "alcooique"
+    },
+    {
+      "debut": 1549.16,
+      "fin": 1553.08,
+      "texte": "Ça se passe à ça."
+    },
+    {
+      "debut": 1559.64,
+      "fin": 1563,
+      "texte": "Non, stop. Stop."
+    },
+    {
+      "debut": 1566.76,
+      "fin": 1569.4,
+      "texte": "Frère, la tête de ma mère, j'ai la tête"
+    },
+    {
+      "debut": 1568.28,
+      "fin": 1570.92,
+      "texte": "dans le cul. La tête de ma mère,"
+    },
+    {
+      "debut": 1569.4,
+      "fin": 1574.48,
+      "texte": "j'ai la tête dans le cul. Sortez de là."
+    },
+    {
+      "debut": 1570.92,
+      "fin": 1574.48,
+      "texte": "J'ai la tête dans le cul."
+    },
+    {
+      "debut": 1595.88,
+      "fin": 1597.12,
+      "texte": "Ah,"
+    },
+    {
+      "debut": 1596,
+      "fin": 1598.04,
+      "texte": "ça repart."
+    },
+    {
+      "debut": 1597.12,
+      "fin": 1598.92,
+      "texte": "Ah, on s'arrête pas."
+    },
+    {
+      "debut": 1598.04,
+      "fin": 1600.44,
+      "texte": "Ah, vas-y."
+    },
+    {
+      "debut": 1598.92,
+      "fin": 1601.49,
+      "texte": "Ça repart une fois."
+    },
+    {
+      "debut": 1600.44,
+      "fin": 1603.51,
+      "texte": "Allez, c'est reparti."
+    },
+    {
+      "debut": 1604.6,
+      "fin": 1607.28,
+      "texte": "Vite, vite, il arrive."
+    },
+    {
+      "debut": 1606.68,
+      "fin": 1607.72,
+      "texte": "Vite,"
+    },
+    {
+      "debut": 1607.28,
+      "fin": 1610.12,
+      "texte": "ouais."
+    },
+    {
+      "debut": 1607.72,
+      "fin": 1610.6,
+      "texte": "Viensas,"
+    },
+    {
+      "debut": 1610.12,
+      "fin": 1613.6,
+      "texte": "viens."
+    },
+    {
+      "debut": 1610.6,
+      "fin": 1613.6,
+      "texte": "Ouais,"
+    },
+    {
+      "debut": 1613.76,
+      "fin": 1614.84,
+      "texte": "ouais."
+    },
+    {
+      "debut": 1614.32,
+      "fin": 1616.24,
+      "texte": "Viens frère,"
+    },
+    {
+      "debut": 1614.84,
+      "fin": 1617.08,
+      "texte": "j'arrive frère."
+    },
+    {
+      "debut": 1616.24,
+      "fin": 1617.36,
+      "texte": "Viens frère."
+    },
+    {
+      "debut": 1617.08,
+      "fin": 1618.08,
+      "texte": "Ouais."
+    },
+    {
+      "debut": 1617.36,
+      "fin": 1620.28,
+      "texte": "Viens frère."
+    },
+    {
+      "debut": 1618.08,
+      "fin": 1624.24,
+      "texte": "OK, let's go."
+    },
+    {
+      "debut": 1620.28,
+      "fin": 1624.24,
+      "texte": "Let's go. Regarde"
+    },
+    {
+      "debut": 1625.56,
+      "fin": 1628.12,
+      "texte": "frère,"
+    },
+    {
+      "debut": 1627.08,
+      "fin": 1630.64,
+      "texte": "c'est fermé tout."
+    },
+    {
+      "debut": 1628.12,
+      "fin": 1633,
+      "texte": "Ouais. Attends, viens de secondes."
+    },
+    {
+      "debut": 1630.64,
+      "fin": 1636,
+      "texte": "Quoi ? Je parler en"
+    },
+    {
+      "debut": 1633,
+      "fin": 1636,
+      "texte": "Ouais."
+    },
+    {
+      "debut": 1659.36,
+      "fin": 1668.48,
+      "texte": "you down. What going on that beautiful"
+    },
+    {
+      "debut": 1663.64,
+      "fin": 1674.68,
+      "texte": "mind? I'm on your magical mystery bride"
+    },
+    {
+      "debut": 1668.48,
+      "fin": 1676.92,
+      "texte": "and I'm so diy. know what me but I'll be"
+    },
+    {
+      "debut": 1674.68,
+      "fin": 1680.08,
+      "texte": "all"
+    },
+    {
+      "debut": 1676.92,
+      "fin": 1683.08,
+      "texte": "my head under"
+    },
+    {
+      "debut": 1680.08,
+      "fin": 1683.08,
+      "texte": "andingine"
+    },
+    {
+      "debut": 1684.52,
+      "fin": 1698.04,
+      "texte": "you crazy and out of my minduse"
+    },
+    {
+      "debut": 1690.68,
+      "fin": 1701.2,
+      "texte": "all of me loves all of you love your"
+    },
+    {
+      "debut": 1698.04,
+      "fin": 1701.2,
+      "texte": "curves and"
+    },
+    {
+      "debut": 1719.28,
+      "fin": 1721.04,
+      "texte": "Fini, c'est fini."
+    },
+    {
+      "debut": 1720.36,
+      "fin": 1724.04,
+      "texte": "Bravo Max."
+    },
+    {
+      "debut": 1721.04,
+      "fin": 1724.04,
+      "texte": "Bravo."
+    },
+    {
+      "debut": 1724.84,
+      "fin": 1729.24,
+      "texte": "Cétait intense frérot ce que tu enle"
+    },
+    {
+      "debut": 1727.92,
+      "fin": 1732,
+      "texte": "dans là."
+    },
+    {
+      "debut": 1729.24,
+      "fin": 1732.64,
+      "texte": "Bah je sais pas, je vous ai vous faire"
+    },
+    {
+      "debut": 1732,
+      "fin": 1733.76,
+      "texte": "kiffer."
+    },
+    {
+      "debut": 1732.64,
+      "fin": 1734.84,
+      "texte": "Ça m'a eu. Moi j'ai kiffé."
+    },
+    {
+      "debut": 1733.76,
+      "fin": 1735.92,
+      "texte": "Moi j'ai adoré gars."
+    },
+    {
+      "debut": 1734.84,
+      "fin": 1736.52,
+      "texte": "OK. Bah je sais pas, j'ai s une"
+    },
+    {
+      "debut": 1735.92,
+      "fin": 1737.24,
+      "texte": "ambiance."
+    },
+    {
+      "debut": 1736.52,
+      "fin": 1738,
+      "texte": "Ah non, j'ai adoré."
+    },
+    {
+      "debut": 1737.24,
+      "fin": 1739.2,
+      "texte": "Tu as vraiment kiffé ?"
+    },
+    {
+      "debut": 1738,
+      "fin": 1740.36,
+      "texte": "Non mais tu as choqué en fait."
+    },
+    {
+      "debut": 1739.2,
+      "fin": 1741.24,
+      "texte": "OK, c'est parce que vous pensiez pas que"
+    },
+    {
+      "debut": 1740.36,
+      "fin": 1742.16,
+      "texte": "j'allais chanter."
+    },
+    {
+      "debut": 1741.24,
+      "fin": 1743.28,
+      "texte": "Bah je pensais que tu allais juste"
+    },
+    {
+      "debut": 1742.16,
+      "fin": 1744.28,
+      "texte": "chanter, rigoler au bout de 10 secondes"
+    },
+    {
+      "debut": 1743.28,
+      "fin": 1744.84,
+      "texte": "et voilà. Tu vois ?"
+    },
+    {
+      "debut": 1744.28,
+      "fin": 1746.08,
+      "texte": "Bah non,"
+    },
+    {
+      "debut": 1744.84,
+      "fin": 1747.28,
+      "texte": "il nous envoyé tout le single quoi."
+    },
+    {
+      "debut": 1746.08,
+      "fin": 1748.2,
+      "texte": "J'étais en mode prest"
+    },
+    {
+      "debut": 1747.28,
+      "fin": 1750.2,
+      "texte": "ou j'ai vu"
+    },
+    {
+      "debut": 1748.2,
+      "fin": 1752.92,
+      "texte": "chaud."
+    },
+    {
+      "debut": 1750.2,
+      "fin": 1754.32,
+      "texte": "C'est vraiment tuas choqué. Merci."
+    },
+    {
+      "debut": 1752.92,
+      "fin": 1755.68,
+      "texte": "Tu peux être fier de toi. Merci. On se"
+    },
+    {
+      "debut": 1754.32,
+      "fin": 1758.88,
+      "texte": "relance un applause pour moi peut-être."
+    },
+    {
+      "debut": 1755.68,
+      "fin": 1758.88,
+      "texte": "Bien sûr."
+    },
+    {
+      "debut": 1760.08,
+      "fin": 1762.64,
+      "texte": "chauffeur au bout de 5 minutes de"
+    },
+    {
+      "debut": 1761.2,
+      "fin": 1765.64,
+      "texte": "silence qui lance la musique sur"
+    },
+    {
+      "debut": 1762.64,
+      "fin": 1765.64,
+      "texte": "Spotify."
+    },
+    {
+      "debut": 1798.6,
+      "fin": 1803.2,
+      "texte": "Je m'enculer frère. Frérot,"
+    },
+    {
+      "debut": 1801.68,
+      "fin": 1805.86,
+      "texte": "let's go. Ça marche bien"
+    },
+    {
+      "debut": 1803.2,
+      "fin": 1807.88,
+      "texte": "c'est bien."
+    },
+    {
+      "debut": 1808.08,
+      "fin": 1813.06,
+      "texte": "Les gens ils font ça comme ça sont tous"
+    },
+    {
+      "debut": 1809.68,
+      "fin": 1814.04,
+      "texte": "graus à mort. Je suis Shrek,"
+    },
+    {
+      "debut": 1814.04,
+      "fin": 1818.8,
+      "texte": "je m'arrête là moi."
+    },
+    {
+      "debut": 1817.52,
+      "fin": 1820.36,
+      "texte": "OK, c'est bon les gars, ça va."
+    },
+    {
+      "debut": 1818.8,
+      "fin": 1823.56,
+      "texte": "Mec, c'est physique à mort."
+    },
+    {
+      "debut": 1820.36,
+      "fin": 1823.56,
+      "texte": "Comment il"
+    },
+    {
+      "debut": 1824.12,
+      "fin": 1826.68,
+      "texte": "on dirait on est dans SSX. Les jeunes"
+    },
+    {
+      "debut": 1825.6,
+      "fin": 1827.36,
+      "texte": "qui reprennent un peu la discipline."
+    },
+    {
+      "debut": 1826.68,
+      "fin": 1828.4,
+      "texte": "C'est bien, ça fait plaisir."
+    },
+    {
+      "debut": 1827.36,
+      "fin": 1829.2,
+      "texte": "C'est bien. Ça s'était perdu ces"
+    },
+    {
+      "debut": 1828.4,
+      "fin": 1831.76,
+      "texte": "dernières années là."
+    },
+    {
+      "debut": 1829.2,
+      "fin": 1832.96,
+      "texte": "C'est ça."
+    },
+    {
+      "debut": 1831.76,
+      "fin": 1836.32,
+      "texte": "Oui,"
+    },
+    {
+      "debut": 1832.96,
+      "fin": 1836.32,
+      "texte": "ça va frère."
+    },
+    {
+      "debut": 1839.24,
+      "fin": 1843.76,
+      "texte": "On est cool à mort. Mais cool la mort."
+    },
+    {
+      "debut": 1847.24,
+      "fin": 1850.64,
+      "texte": "Regarde ton visage."
+    },
+    {
+      "debut": 1851.96,
+      "fin": 1855.8,
+      "texte": "Ouais,"
+    },
+    {
+      "debut": 1853.76,
+      "fin": 1856.8,
+      "texte": "dessus."
+    },
+    {
+      "debut": 1855.8,
+      "fin": 1859.8,
+      "texte": "Ah non mais non, c'est les deux. Mais"
+    },
+    {
+      "debut": 1856.8,
+      "fin": 1859.8,
+      "texte": "non,"
+    },
+    {
+      "debut": 1860.4,
+      "fin": 1864.28,
+      "texte": "pas beau hein. Non,"
+    },
+    {
+      "debut": 1864.84,
+      "fin": 1868.32,
+      "texte": "frère,"
+    },
+    {
+      "debut": 1866,
+      "fin": 1869.56,
+      "texte": "je peux plus rien faire. Faisli un coco."
+    },
+    {
+      "debut": 1868.32,
+      "fin": 1870.56,
+      "texte": "C'est"
+    },
+    {
+      "debut": 1869.56,
+      "fin": 1871.36,
+      "texte": "OK. Ouais, c'est bon."
+    },
+    {
+      "debut": 1870.56,
+      "fin": 1873.4,
+      "texte": "OK."
+    },
+    {
+      "debut": 1871.36,
+      "fin": 1874.24,
+      "texte": "Ouou, je suis à mon prime dans les"
+    },
+    {
+      "debut": 1873.4,
+      "fin": 1875.28,
+      "texte": "années 80."
+    },
+    {
+      "debut": 1874.24,
+      "fin": 1876.6,
+      "texte": "Ah ouais, tu as ton prime."
+    },
+    {
+      "debut": 1875.28,
+      "fin": 1880.58,
+      "texte": "Je vais choquer de tris et je reviens"
+    },
+    {
+      "debut": 1876.6,
+      "fin": 1880.58,
+      "texte": "là. Vous verrez pas flancher."
+    },
+    {
+      "debut": 1882.12,
+      "fin": 1887.73,
+      "texte": "J'ai trouvé un clic."
+    },
+    {
+      "debut": 1884.96,
+      "fin": 1888.28,
+      "texte": "Et oui,"
+    },
+    {
+      "debut": 1888.28,
+      "fin": 1892.2,
+      "texte": "ils ont mis du savon, c'est sûr."
+    },
+    {
+      "debut": 1908.08,
+      "fin": 1911.37,
+      "texte": "my mind."
+    },
+    {
+      "debut": 1924.68,
+      "fin": 1928.6,
+      "texte": "Ah non, c'est impossible les gars."
+    },
+    {
+      "debut": 1930.24,
+      "fin": 1934.44,
+      "texte": "Tout roule, tout roule."
+    },
+    {
+      "debut": 1932.8,
+      "fin": 1936.48,
+      "texte": "Oui."
+    },
+    {
+      "debut": 1934.44,
+      "fin": 1938.88,
+      "texte": "Oh oui"
+    },
+    {
+      "debut": 1936.48,
+      "fin": 1941.12,
+      "texte": "ouais, c'est ça qui"
+    },
+    {
+      "debut": 1938.88,
+      "fin": 1942.8,
+      "texte": "Ouais."
+    },
+    {
+      "debut": 1941.12,
+      "fin": 1946,
+      "texte": "Ouais, j'ai pété la machine là. Voilà"
+    },
+    {
+      "debut": 1942.8,
+      "fin": 1946,
+      "texte": "mon pote."
+    },
+    {
+      "debut": 1946.92,
+      "fin": 1950.48,
+      "texte": "Voilà."
+    },
+    {
+      "debut": 1947.48,
+      "fin": 1950.48,
+      "texte": "Voilà."
+    },
+    {
+      "debut": 1952.64,
+      "fin": 1955.76,
+      "texte": "Oh oui,"
+    },
+    {
+      "debut": 1966.64,
+      "fin": 1970.56,
+      "texte": "Montréal ferme à 19h, il y a plus rien"
+    },
+    {
+      "debut": 1968.28,
+      "fin": 1971.88,
+      "texte": "dehors à 19h. Mais on a trouvé le peup"
+    },
+    {
+      "debut": 1970.56,
+      "fin": 1972.68,
+      "texte": "Saint-Paul qui apparemment est ouvert"
+    },
+    {
+      "debut": 1971.88,
+      "fin": 1973.8,
+      "texte": "jusqu'à 3h du mat."
+    },
+    {
+      "debut": 1972.68,
+      "fin": 1975.16,
+      "texte": "Apparemment, on peut manger des trucs"
+    },
+    {
+      "debut": 1973.8,
+      "fin": 1977.04,
+      "texte": "cools. Là, c'est soirée DJ, soupe à"
+    },
+    {
+      "debut": 1975.16,
+      "fin": 1978.4,
+      "texte": "l'oignon et fish and chips. C'est comme"
+    },
+    {
+      "debut": 1977.04,
+      "fin": 1980.74,
+      "texte": "ça dans la dans la dans la boîte avec ta"
+    },
+    {
+      "debut": 1978.4,
+      "fin": 1982.76,
+      "texte": "soupe à l'oignon."
+    },
+    {
+      "debut": 1989.84,
+      "fin": 1996.04,
+      "texte": "Bonsoir. Bonsoir. Je vais vous prendre"
+    },
+    {
+      "debut": 1991.68,
+      "fin": 1998,
+      "texte": "une crème dure framboise bleue"
+    },
+    {
+      "debut": 1996.04,
+      "fin": 1998.52,
+      "texte": "un barbeine slush cerise et c'est tout"
+    },
+    {
+      "debut": 1998,
+      "fin": 2000.88,
+      "texte": "pour moi."
+    },
+    {
+      "debut": 1998.52,
+      "fin": 2002.16,
+      "texte": "Moi, je vais vous prendre la splash, une"
+    },
+    {
+      "debut": 2000.88,
+      "fin": 2004.32,
+      "texte": "bouteille d'eau, s'il vous plaît. Moi je"
+    },
+    {
+      "debut": 2002.16,
+      "fin": 2006.92,
+      "texte": "vais vous prendre une crème molle menace"
+    },
+    {
+      "debut": 2004.32,
+      "fin": 2009.4,
+      "texte": "avec euh"
+    },
+    {
+      "debut": 2006.92,
+      "fin": 2012.12,
+      "texte": "marbré, chocolat au lait, trempage,"
+    },
+    {
+      "debut": 2009.4,
+      "fin": 2014.88,
+      "texte": "chocolat noir, caramel salé, arachide,"
+    },
+    {
+      "debut": 2012.12,
+      "fin": 2018.12,
+      "texte": "bonbon coloré, caramel croquant. Tu as"
+    },
+    {
+      "debut": 2014.88,
+      "fin": 2021.32,
+      "texte": "pris toutes les garniturs,"
+    },
+    {
+      "debut": 2018.12,
+      "fin": 2023.12,
+      "texte": "framboise bleue splash Oreo"
+    },
+    {
+      "debut": 2021.32,
+      "fin": 2024.8,
+      "texte": "et c'est fermé encore. Je vais vous"
+    },
+    {
+      "debut": 2023.12,
+      "fin": 2026.24,
+      "texte": "prendre quand même un trempage chocolat"
+    },
+    {
+      "debut": 2024.8,
+      "fin": 2027.92,
+      "texte": "au lait. Pour ma part, je vais vous"
+    },
+    {
+      "debut": 2026.24,
+      "fin": 2028.68,
+      "texte": "prendre le spot pour éclairer après."
+    },
+    {
+      "debut": 2027.92,
+      "fin": 2030.64,
+      "texte": "Moi, je vais vous prendre la petite"
+    },
+    {
+      "debut": 2028.68,
+      "fin": 2031.8,
+      "texte": "deventure. Ça est pas bien. OK. Ben, je"
+    },
+    {
+      "debut": 2030.64,
+      "fin": 2032.6,
+      "texte": "peux plus rien prendre. Moi je vais"
+    },
+    {
+      "debut": 2031.8,
+      "fin": 2036,
+      "texte": "prendre le comptoir là."
+    },
+    {
+      "debut": 2032.6,
+      "fin": 2038.12,
+      "texte": "Je vais prendre juste les les ledes."
+    },
+    {
+      "debut": 2036,
+      "fin": 2039.48,
+      "texte": "Brancher."
+    },
+    {
+      "debut": 2038.12,
+      "fin": 2040.72,
+      "texte": "Bon bah c'est fermé alors. Bah ciao."
+    },
+    {
+      "debut": 2039.48,
+      "fin": 2041.72,
+      "texte": "Bon bah c'est fermé comme toute la vie."
+    },
+    {
+      "debut": 2040.72,
+      "fin": 2043.2,
+      "texte": "Allez h ciao."
+    },
+    {
+      "debut": 2041.72,
+      "fin": 2045.4,
+      "texte": "C'est ciao. Montréal ferme"
+    },
+    {
+      "debut": 2043.2,
+      "fin": 2048.92,
+      "texte": "à la WE to fly. Hey"
+    },
+    {
+      "debut": 2045.4,
+      "fin": 2048.92,
+      "texte": "allez let's go."
+    },
+    {
+      "debut": 2049.04,
+      "fin": 2052.8,
+      "texte": "Montréal ferm 19h."
+    },
+    {
+      "debut": 2050.96,
+      "fin": 2054.52,
+      "texte": "Les gars ils sont allés dormir. Ils sont"
+    },
+    {
+      "debut": 2052.8,
+      "fin": 2056,
+      "texte": "KO les pauvres. il commence à il"
+    },
+    {
+      "debut": 2054.52,
+      "fin": 2057.68,
+      "texte": "commence à fatiguer. Donc ils sont"
+    },
+    {
+      "debut": 2056,
+      "fin": 2059.2,
+      "texte": "retournés au camping-car et on croise"
+    },
+    {
+      "debut": 2057.68,
+      "fin": 2060.44,
+      "texte": "des gens et tout qui parlent avec nous"
+    },
+    {
+      "debut": 2059.2,
+      "fin": 2061.84,
+      "texte": "et qui nous disent \"Putain, vous savez"
+    },
+    {
+      "debut": 2060.44,
+      "fin": 2063.16,
+      "texte": "que si vous allez à la grande roue et"
+    },
+    {
+      "debut": 2061.84,
+      "fin": 2064.84,
+      "texte": "cetera sur le vieux port, donc là on"
+    },
+    {
+      "debut": 2063.16,
+      "fin": 2066.24,
+      "texte": "était tout à l'heure, on revient là,"
+    },
+    {
+      "debut": 2064.84,
+      "fin": 2068,
+      "texte": "vous engendz un petit bateau et puis il"
+    },
+    {
+      "debut": 2066.24,
+      "fin": 2069,
+      "texte": "y a des pédalaux, des trucs qui sont là"
+    },
+    {
+      "debut": 2068,
+      "fin": 2070.6,
+      "texte": "quoi, vous pouvez les prendre.\" Sachant"
+    },
+    {
+      "debut": 2069,
+      "fin": 2072.44,
+      "texte": "que j'avais rencontré des gens qui"
+    },
+    {
+      "debut": 2070.6,
+      "fin": 2073.96,
+      "texte": "bossent dans ça qui nous ont dit \"Venez,"
+    },
+    {
+      "debut": 2072.44,
+      "fin": 2075.88,
+      "texte": "demain tout est gratuit et tout machin.\""
+    },
+    {
+      "debut": 2073.96,
+      "fin": 2077.4,
+      "texte": "Demain, on doit aller faire l'excellente"
+    },
+    {
+      "debut": 2075.88,
+      "fin": 2079.76,
+      "texte": "idée madas qui est allé voir les élans"
+    },
+    {
+      "debut": 2077.4,
+      "fin": 2081.4,
+      "texte": "et les lions, les tigres et tout là."
+    },
+    {
+      "debut": 2079.76,
+      "fin": 2081.8,
+      "texte": "Je suis pas sûr qu' ça frérot. Il y a"
+    },
+    {
+      "debut": 2081.4,
+      "fin": 2082.96,
+      "texte": "pas ça."
+    },
+    {
+      "debut": 2081.8,
+      "fin": 2085.08,
+      "texte": "C'est une réserve d'ici quoi."
+    },
+    {
+      "debut": 2082.96,
+      "fin": 2086.08,
+      "texte": "C'est une réserve naturelle tabernac. Tu"
+    },
+    {
+      "debut": 2085.08,
+      "fin": 2087.92,
+      "texte": "arrêtes l'accent."
+    },
+    {
+      "debut": 2086.08,
+      "fin": 2091.44,
+      "texte": "Mais je me mets dans le truc."
+    },
+    {
+      "debut": 2087.92,
+      "fin": 2091.44,
+      "texte": "En plus, il est pas"
+    },
+    {
+      "debut": 2095.64,
+      "fin": 2098.64,
+      "texte": "trop."
+    },
+    {
+      "debut": 2109.36,
+      "fin": 2114.28,
+      "texte": "Hell yeah I suck to du coup comme on"
+    },
+    {
+      "debut": 2112.6,
+      "fin": 2116.6,
+      "texte": "nous a quand même donné ce petit plug de"
+    },
+    {
+      "debut": 2114.28,
+      "fin": 2118.28,
+      "texte": "les bateaux sur pas accessible quoi. Bon"
+    },
+    {
+      "debut": 2116.6,
+      "fin": 2119.44,
+      "texte": "c'est c'est un enjambage près quoi. Tu"
+    },
+    {
+      "debut": 2118.28,
+      "fin": 2119.84,
+      "texte": "vois il boss dans ça."
+    },
+    {
+      "debut": 2119.44,
+      "fin": 2121.36,
+      "texte": "Ouais"
+    },
+    {
+      "debut": 2119.84,
+      "fin": 2123.92,
+      "texte": "et ils ont dit bah après ils sont"
+    },
+    {
+      "debut": 2121.36,
+      "fin": 2128,
+      "texte": "détachés donc si vous partez demain"
+    },
+    {
+      "debut": 2123.92,
+      "fin": 2128,
+      "texte": "cette nuit vous pouvez peut-être."
+    },
+    {
+      "debut": 2128.04,
+      "fin": 2133.44,
+      "texte": "Et en vrai"
+    },
+    {
+      "debut": 2129.96,
+      "fin": 2133.44,
+      "texte": "et en vrai bah"
+    },
+    {
+      "debut": 2134.32,
+      "fin": 2136.88,
+      "texte": "Ah c'est ça les bateaux"
+    },
+    {
+      "debut": 2135.28,
+      "fin": 2138.24,
+      "texte": "c'est ça ils sont clairement gar"
+    },
+    {
+      "debut": 2136.88,
+      "fin": 2139.6,
+      "texte": "on s'est fait mentir dans gueule"
+    },
+    {
+      "debut": 2138.24,
+      "fin": 2141.28,
+      "texte": "mec c'est un moment privilégié de malade"
+    },
+    {
+      "debut": 2139.6,
+      "fin": 2147,
+      "texte": "si on arrive à naviguer seul là comme ça"
+    },
+    {
+      "debut": 2141.28,
+      "fin": 2147,
+      "texte": "la nuit tout s'attacher à mort à mort"
+    },
+    {
+      "debut": 2150.2,
+      "fin": 2154.04,
+      "texte": "qui t'a dit ça l'idée là qui c'est qui"
+    },
+    {
+      "debut": 2151.76,
+      "fin": 2156.32,
+      "texte": "te l'a donné croisé quelqu'un et il"
+    },
+    {
+      "debut": 2154.04,
+      "fin": 2156.96,
+      "texte": "m'avait demandé si j'avais des pénis"
+    },
+    {
+      "debut": 2156.32,
+      "fin": 2160.12,
+      "texte": "Ouais,"
+    },
+    {
+      "debut": 2156.96,
+      "fin": 2162.76,
+      "texte": "j'ai un seul, c'est un pénis"
+    },
+    {
+      "debut": 2160.12,
+      "fin": 2164.44,
+      "texte": "avec un S. Il a Paris, il m'a dit \"Bon"
+    },
+    {
+      "debut": 2162.76,
+      "fin": 2165.84,
+      "texte": "bah si tu veux, il y a des il y a des"
+    },
+    {
+      "debut": 2164.44,
+      "fin": 2169.84,
+      "texte": "chardeau qui sont à côté de la"
+    },
+    {
+      "debut": 2165.84,
+      "fin": 2169.84,
+      "texte": "mongolfière là-bas qui volent."
+    },
+    {
+      "debut": 2171,
+      "fin": 2174.84,
+      "texte": "Mo, je vais peut-être inventer"
+    },
+    {
+      "debut": 2173.36,
+      "fin": 2176.04,
+      "texte": "la rencontre. Quand bien même on arrive"
+    },
+    {
+      "debut": 2174.84,
+      "fin": 2178.56,
+      "texte": "à rentrer, il a plu, ils sont remplis"
+    },
+    {
+      "debut": 2176.04,
+      "fin": 2181.56,
+      "texte": "d'eau."
+    },
+    {
+      "debut": 2178.56,
+      "fin": 2181.56,
+      "texte": "Euh,"
+    },
+    {
+      "debut": 2182.24,
+      "fin": 2187.6,
+      "texte": "oh, on s'est mis dans un truc là,"
+    },
+    {
+      "debut": 2183.6,
+      "fin": 2189,
+      "texte": "frérot. Et là, bon là normalement"
+    },
+    {
+      "debut": 2187.6,
+      "fin": 2189.64,
+      "texte": "là il peut y avoir un cut"
+    },
+    {
+      "debut": 2189,
+      "fin": 2191.08,
+      "texte": "et on"
+    },
+    {
+      "debut": 2189.64,
+      "fin": 2191.48,
+      "texte": "il y a un truc qui se passe. C'est"
+    },
+    {
+      "debut": 2191.08,
+      "fin": 2192.36,
+      "texte": "ouais"
+    },
+    {
+      "debut": 2191.48,
+      "fin": 2193.8,
+      "texte": "de malade pas"
+    },
+    {
+      "debut": 2192.36,
+      "fin": 2194.8,
+      "texte": "là. Alors en tout cas c'est sûr que là"
+    },
+    {
+      "debut": 2193.8,
+      "fin": 2196.96,
+      "texte": "quand on aura fini de parler, il y aura"
+    },
+    {
+      "debut": 2194.8,
+      "fin": 2197.84,
+      "texte": "un cut et il se passe quelque chose."
+    },
+    {
+      "debut": 2196.96,
+      "fin": 2199.2,
+      "texte": "Il va se pas OK."
+    },
+    {
+      "debut": 2197.84,
+      "fin": 2200.32,
+      "texte": "Ça peut être très décevant comme nous en"
+    },
+    {
+      "debut": 2199.2,
+      "fin": 2200.48,
+      "texte": "train de nous coucher. Non non c'est pas"
+    },
+    {
+      "debut": 2200.32,
+      "fin": 2201.96,
+      "texte": "possible."
+    },
+    {
+      "debut": 2200.48,
+      "fin": 2203.16,
+      "texte": "Comme ça peut être une dinguerie."
+    },
+    {
+      "debut": 2201.96,
+      "fin": 2203.84,
+      "texte": "Ça dépend ce qui se passe là ce qui va"
+    },
+    {
+      "debut": 2203.16,
+      "fin": 2206.6,
+      "texte": "ce qui va se passer."
+    },
+    {
+      "debut": 2203.84,
+      "fin": 2208.8,
+      "texte": "Je le sens bien ce cut mais"
+    },
+    {
+      "debut": 2206.6,
+      "fin": 2210.36,
+      "texte": "au cult là il se passe un truc. Il y"
+    },
+    {
+      "debut": 2208.8,
+      "fin": 2210.72,
+      "texte": "aura un truc peut-être nul et peut-être"
+    },
+    {
+      "debut": 2210.36,
+      "fin": 2212.6,
+      "texte": "top."
+    },
+    {
+      "debut": 2210.72,
+      "fin": 2213.72,
+      "texte": "Et ben là c'est maintenant. Vous faites"
+    },
+    {
+      "debut": 2212.6,
+      "fin": 2214.92,
+      "texte": "les paris là maintenant, vous regardez,"
+    },
+    {
+      "debut": 2213.72,
+      "fin": 2217.76,
+      "texte": "vous êtes en mode \"Putain, je sais pas.\""
+    },
+    {
+      "debut": 2214.92,
+      "fin": 2220.08,
+      "texte": "Je vous laisse un petit peu et on voit"
+    },
+    {
+      "debut": 2217.76,
+      "fin": 2221.79,
+      "texte": "qu'on danse là gentiment dans la rue."
+    },
+    {
+      "debut": 2220.08,
+      "fin": 2223.6,
+      "texte": "Auessus de nous, ça baise à la fenêtre,"
+    },
+    {
+      "debut": 2223.6,
+      "fin": 2229.96,
+      "texte": "ça baise sous nos yeux. On se fait"
+    },
+    {
+      "debut": 2226.52,
+      "fin": 2231,
+      "texte": "baiser par Montréal. Montréal nous come"
+    },
+    {
+      "debut": 2229.96,
+      "fin": 2232.4,
+      "texte": "en dans la Y"
+    },
+    {
+      "debut": 2231,
+      "fin": 2234.72,
+      "texte": "et en hauteur en plus."
+    },
+    {
+      "debut": 2232.4,
+      "fin": 2235.84,
+      "texte": "il nous regarde dans les yeux et"
+    },
+    {
+      "debut": 2234.72,
+      "fin": 2238.28,
+      "texte": "il baise sur la fenêtre. Là, on parle,"
+    },
+    {
+      "debut": 2235.84,
+      "fin": 2239.8,
+      "texte": "il baise"
+    },
+    {
+      "debut": 2238.28,
+      "fin": 2241.28,
+      "texte": "à la fenêtre,"
+    },
+    {
+      "debut": 2239.8,
+      "fin": 2244.68,
+      "texte": "il y a les potes à côté tout. Regarde"
+    },
+    {
+      "debut": 2241.28,
+      "fin": 2245.64,
+      "texte": "Rem là c'est dingue."
+    },
+    {
+      "debut": 2244.68,
+      "fin": 2247.98,
+      "texte": "Les gens baisent"
+    },
+    {
+      "debut": 2245.64,
+      "fin": 2248.48,
+      "texte": "les gens baisent en mode hell yeah."
+    },
+    {
+      "debut": 2248.48,
+      "fin": 2252.68,
+      "texte": "En mode h fuck"
+    },
+    {
+      "debut": 2252.08,
+      "fin": 2253.72,
+      "texte": "é"
+    },
+    {
+      "debut": 2252.68,
+      "fin": 2255.48,
+      "texte": "bon ben nous voilà et on rentre au"
+    },
+    {
+      "debut": 2253.72,
+      "fin": 2259.24,
+      "texte": "camping-car voilà qui pue du cul"
+    },
+    {
+      "debut": 2255.48,
+      "fin": 2259.24,
+      "texte": "qui pue le cul et pu"
+    },
+    {
+      "debut": 2266.24,
+      "fin": 2270.64,
+      "texte": "c'est 7h max. Je suis retourné à 4h."
+    },
+    {
+      "debut": 2272.56,
+      "fin": 2275.84,
+      "texte": "Oh j'ai loupé encore."
+    },
+    {
+      "debut": 2286,
+      "fin": 2288.36,
+      "texte": "Hell"
+    },
+    {
+      "debut": 2303,
+      "fin": 2311.16,
+      "texte": "Here we go."
+    },
+    {
+      "debut": 2306.52,
+      "fin": 2311.16,
+      "texte": "Je suis fatigué. Bah oui."
+    },
+    {
+      "debut": 2315.52,
+      "fin": 2324.56,
+      "texte": "Non non. Laisse prendre laisse prendre"
+    },
+    {
+      "debut": 2318.36,
+      "fin": 2324.56,
+      "texte": "tuarrêtes. OK, faut dormir. P"
+    }
+  ],
+  "balises": [
+    {
+      "t": 45.85,
+      "tag": "cri"
+    },
+    {
+      "t": 92.2,
+      "tag": "rires"
+    },
+    {
+      "t": 110.7,
+      "tag": "musique"
+    },
+    {
+      "t": 125.11,
+      "tag": "musique"
+    },
+    {
+      "t": 130.76,
+      "tag": "musique"
+    },
+    {
+      "t": 130.76,
+      "tag": "chant"
+    },
+    {
+      "t": 133.92,
+      "tag": "chant"
+    },
+    {
+      "t": 142.12,
+      "tag": "musique"
+    },
+    {
+      "t": 147.6,
+      "tag": "musique"
+    },
+    {
+      "t": 147.6,
+      "tag": "chant"
+    },
+    {
+      "t": 153.27,
+      "tag": "chant"
+    },
+    {
+      "t": 153.27,
+      "tag": "musique"
+    },
+    {
+      "t": 174.36,
+      "tag": "musique"
+    },
+    {
+      "t": 261.35,
+      "tag": "musique"
+    },
+    {
+      "t": 286.89,
+      "tag": "rires"
+    },
+    {
+      "t": 302.61,
+      "tag": "grognement"
+    },
+    {
+      "t": 330.12,
+      "tag": "rires"
+    },
+    {
+      "t": 381.21,
+      "tag": "musique"
+    },
+    {
+      "t": 385.8,
+      "tag": "musique"
+    },
+    {
+      "t": 396.93,
+      "tag": "musique"
+    },
+    {
+      "t": 423.72,
+      "tag": "musique"
+    },
+    {
+      "t": 456.54,
+      "tag": "musique"
+    },
+    {
+      "t": 460.16,
+      "tag": "rires"
+    },
+    {
+      "t": 499.72,
+      "tag": "rires"
+    },
+    {
+      "t": 543.66,
+      "tag": "musique"
+    },
+    {
+      "t": 552.83,
+      "tag": "musique"
+    },
+    {
+      "t": 599.33,
+      "tag": "musique"
+    },
+    {
+      "t": 607.32,
+      "tag": "rires"
+    },
+    {
+      "t": 622.26,
+      "tag": "musique"
+    },
+    {
+      "t": 626.19,
+      "tag": "chant"
+    },
+    {
+      "t": 631.04,
+      "tag": "musique"
+    },
+    {
+      "t": 638.63,
+      "tag": "musique"
+    },
+    {
+      "t": 648.46,
+      "tag": "musique"
+    },
+    {
+      "t": 664.76,
+      "tag": "cri"
+    },
+    {
+      "t": 767.67,
+      "tag": "musique"
+    },
+    {
+      "t": 774.32,
+      "tag": "rires"
+    },
+    {
+      "t": 799.76,
+      "tag": "rires"
+    },
+    {
+      "t": 805.66,
+      "tag": "rires"
+    },
+    {
+      "t": 812.12,
+      "tag": "cri"
+    },
+    {
+      "t": 820.76,
+      "tag": "rires"
+    },
+    {
+      "t": 839.06,
+      "tag": "acclamation"
+    },
+    {
+      "t": 839.06,
+      "tag": "cri"
+    },
+    {
+      "t": 840,
+      "tag": "rires"
+    },
+    {
+      "t": 850.2,
+      "tag": "rires"
+    },
+    {
+      "t": 852.16,
+      "tag": "chant"
+    },
+    {
+      "t": 865.26,
+      "tag": "musique"
+    },
+    {
+      "t": 871.16,
+      "tag": "cri"
+    },
+    {
+      "t": 875.75,
+      "tag": "cri"
+    },
+    {
+      "t": 888.19,
+      "tag": "cri"
+    },
+    {
+      "t": 913.08,
+      "tag": "cri"
+    },
+    {
+      "t": 915.04,
+      "tag": "rires"
+    },
+    {
+      "t": 919.52,
+      "tag": "rires"
+    },
+    {
+      "t": 935.44,
+      "tag": "rires"
+    },
+    {
+      "t": 957.76,
+      "tag": "rires"
+    },
+    {
+      "t": 1009.37,
+      "tag": "rires"
+    },
+    {
+      "t": 1022.36,
+      "tag": "rires"
+    },
+    {
+      "t": 1035.57,
+      "tag": "cri"
+    },
+    {
+      "t": 1053.72,
+      "tag": "rires"
+    },
+    {
+      "t": 1086.84,
+      "tag": "rires"
+    },
+    {
+      "t": 1144.3,
+      "tag": "musique"
+    },
+    {
+      "t": 1146.92,
+      "tag": "rires"
+    },
+    {
+      "t": 1152.81,
+      "tag": "rires"
+    },
+    {
+      "t": 1164.6,
+      "tag": "rires"
+    },
+    {
+      "t": 1173.12,
+      "tag": "rires"
+    },
+    {
+      "t": 1181.63,
+      "tag": "rires"
+    },
+    {
+      "t": 1190.8,
+      "tag": "rires"
+    },
+    {
+      "t": 1201.68,
+      "tag": "rires"
+    },
+    {
+      "t": 1217.66,
+      "tag": "rires"
+    },
+    {
+      "t": 1226.24,
+      "tag": "rires"
+    },
+    {
+      "t": 1248.88,
+      "tag": "rires"
+    },
+    {
+      "t": 1273.99,
+      "tag": "musique"
+    },
+    {
+      "t": 1281.19,
+      "tag": "chant"
+    },
+    {
+      "t": 1283.16,
+      "tag": "musique"
+    },
+    {
+      "t": 1340.8,
+      "tag": "musique"
+    },
+    {
+      "t": 1346.69,
+      "tag": "musique"
+    },
+    {
+      "t": 1450.19,
+      "tag": "musique"
+    },
+    {
+      "t": 1450.19,
+      "tag": "cri"
+    },
+    {
+      "t": 1456.74,
+      "tag": "musique"
+    },
+    {
+      "t": 1483.36,
+      "tag": "musique"
+    },
+    {
+      "t": 1483.36,
+      "tag": "chant"
+    },
+    {
+      "t": 1490.04,
+      "tag": "musique"
+    },
+    {
+      "t": 1490.04,
+      "tag": "chant"
+    },
+    {
+      "t": 1502.59,
+      "tag": "musique"
+    },
+    {
+      "t": 1507.17,
+      "tag": "musique"
+    },
+    {
+      "t": 1517.24,
+      "tag": "musique"
+    },
+    {
+      "t": 1517.24,
+      "tag": "chant"
+    },
+    {
+      "t": 1523.55,
+      "tag": "musique"
+    },
+    {
+      "t": 1523.55,
+      "tag": "chant"
+    },
+    {
+      "t": 1534.32,
+      "tag": "musique"
+    },
+    {
+      "t": 1549.16,
+      "tag": "cri"
+    },
+    {
+      "t": 1568.28,
+      "tag": "rires"
+    },
+    {
+      "t": 1575.29,
+      "tag": "musique"
+    },
+    {
+      "t": 1583.15,
+      "tag": "chant"
+    },
+    {
+      "t": 1601.49,
+      "tag": "raclement de gorge"
+    },
+    {
+      "t": 1617.36,
+      "tag": "rires"
+    },
+    {
+      "t": 1644.72,
+      "tag": "grognement"
+    },
+    {
+      "t": 1705.64,
+      "tag": "cri"
+    },
+    {
+      "t": 1710.22,
+      "tag": "cri"
+    },
+    {
+      "t": 1717.43,
+      "tag": "chant"
+    },
+    {
+      "t": 1767.87,
+      "tag": "chant"
+    },
+    {
+      "t": 1784.89,
+      "tag": "chant"
+    },
+    {
+      "t": 1795.38,
+      "tag": "musique"
+    },
+    {
+      "t": 1805.86,
+      "tag": "musique"
+    },
+    {
+      "t": 1813.06,
+      "tag": "musique"
+    },
+    {
+      "t": 1818.8,
+      "tag": "musique"
+    },
+    {
+      "t": 1826.68,
+      "tag": "musique"
+    },
+    {
+      "t": 1838.61,
+      "tag": "musique"
+    },
+    {
+      "t": 1845.16,
+      "tag": "musique"
+    },
+    {
+      "t": 1876.6,
+      "tag": "musique"
+    },
+    {
+      "t": 1887.73,
+      "tag": "rires"
+    },
+    {
+      "t": 1894.28,
+      "tag": "musique"
+    },
+    {
+      "t": 1902.8,
+      "tag": "musique"
+    },
+    {
+      "t": 1908.08,
+      "tag": "musique"
+    },
+    {
+      "t": 1915.24,
+      "tag": "musique"
+    },
+    {
+      "t": 1919.83,
+      "tag": "musique"
+    },
+    {
+      "t": 1959.78,
+      "tag": "musique"
+    },
+    {
+      "t": 1971.88,
+      "tag": "musique"
+    },
+    {
+      "t": 1980.74,
+      "tag": "musique"
+    },
+    {
+      "t": 2036,
+      "tag": "rires"
+    },
+    {
+      "t": 2045.4,
+      "tag": "rires"
+    },
+    {
+      "t": 2085.08,
+      "tag": "musique"
+    },
+    {
+      "t": 2092.75,
+      "tag": "cri"
+    },
+    {
+      "t": 2221.78,
+      "tag": "musique"
+    },
+    {
+      "t": 2247.99,
+      "tag": "rires"
+    },
+    {
+      "t": 2333.14,
+      "tag": "musique"
+    }
+  ],
+  "lignes": [
+    "0:05 Ah, vous êtes là ? Vous voulez savoir ce qui s'est passé dans l'épisode précédent ? Let's go ! Je t'envoie ça, Baba. Regarde le petit récap, Baba. On t'en a mis plein les yeux, baba.",
+    "0:15 Bonjour. Bon, on peut se préparer bouger ou faut qu'on bouge tout de suite ? Bien qu'on bouge.",
+    "0:25 Qui m'a foutu dans la gueule. J'ai pas fait n'importe quoi. C'est c'est une équipe qui a fait n'importe quoi. Ouais. C'est l'équipe qui a merdé.",
+    "0:35 W il y a beaucoup de personnes wouh il un petit truc noir qui fait le contour de la structure. Ça peut toucher ça.",
+    "0:43 Tu mal la per que je t'envoie mon pote. Allez voilà. Oh là là. Oh là là. Max Max. Oh là là là oh le",
+    "0:52 bordel. Moi je vous dirais d'aller vous partez plus peut-être plus derrière.",
+    "1:02 Tu as baisé la caisse ? B la caisse. Oh le constat. Oh mec, les émotions tout le monde.",
+    "1:21 Il y a la propriétaire de la voiture qui nous attend dehors. C'est le moment de payer nos det. On fait le transport.",
+    "1:32 Tu tors sur la table Jordan il y a un gar suis plus les caméras caché je ne suis",
+    "1:55 pas tout le monde.",
+    "2:04 Mr. bring me a dream making the ever seen",
+    "2:14 like roses and clover and tell that his and are over",
+    "2:22 so alone don't have nobody to call my own so please turn on your magic feet Mr.",
+    "2:35 Les gars, il nous fait des signes, hein. Merci.",
+    "2:45 Non, mais elle s'ouvre tout le temps en fait, elle se f du coup je fais genre là tac tac. Tu vois, elle est cassée, je crois.",
+    "2:54 OK, thank you. Salut à tous. On est arrivé à Montréal et on est en train de chercher une place pour garer le camping-car et après on va manger. Ouais.",
+    "3:04 Montréal ! Montréal ! Montréal ! Montréal ! Montréal ! Montréal ! Malheureusement pas le cœur à la fête, c'est très dur. C'est très très dur !",
+    "3:14 Bast ! Bastia va tomber en national. I don't suck to anymore. Allez, on va tous se taire et regardz Théo taper. Préparez-vous, gainez-vous",
+    "3:23 un peu parce ça peut secouer. Et le but, c'est de pas faire une seule réaction au moindre choc. au moindre choc, on ne réagit pas et c'est là où on apprend pas de nos erreurs, c'est qu'à chaque fois c'est Théo qui garde le camping-car quelque",
+    "3:32 part et vous allez voir, j'aime pas avir voir ce rôle alors que je suis je suis pas mauvais. Non non, vous allez voir et vous allez voir que en disant ça du coup, il va se gagner à mort, il va pas taper et on aura pas ce qu'on veut. Après si tu tapes, c'est vraiment dingue",
+    "3:41 ça peut être fou qui tape là parce que il y a pas d'obstacle quoi. Tuas le poteau juste là vraiment la tête de ma mère, je pas fait exprès.",
+    "3:50 La tête de ma mère, je fait exprès. C'est pas le photo que tu as tapé, je crois. C'est la jante sur le Non non, c'est vraiment le poteau qui a stoppé le campingc et là je tout droit",
+    "3:59 là. J'ai voulu garder le camping-car, je l'ai cassé encore. Pha phare phare",
+    "4:07 phare. Je fais tout en douceur pour bien le faire. Je fais quand même mal. Phare phare. J'ai cassé le phare de la voiture.",
+    "4:16 Phare. Voilà. Tu as entendu ? C'est quoi un",
+    "4:25 panneau que tuas tapé ? Puis puis mana ce qui me fait tassur que c'est manas derrière.",
+    "4:33 Je t'assure que c'est très possible très possible. Et vas-y continue, continue. Regarde, c'est le panneau d'en haut. Tu continues. Vas-y. Vas-y. Alors alors tout est tout est drôle parce que tu as tapé un panneau en",
+    "4:42 hauteur où il y a écrit interdiction de se parquer. Voilà et le panneau est maintenant. Non puto",
+    "4:53 continuer à reculer frérot. C'est mort de toute façon. Continue. C'est trop abusé. Tu as encore baisé un truc. Non, tu tuas encore baisé un truc.",
+    "5:03 C'est Est-ce qu'on peut rajouter une règle ? À l'entrée d'une ville, on a plus le droit de conduire. Venir voir ou pas ? En vrai, pas chier, t'inquiète. On voit dans le rétro, ça fait 10 m qu'on voit que ça va taper",
+    "5:11 et et surtout que chaque truc qu'il a tapé a été prévenu avant en mode là il y a un panneau boum. Là, quand il reculé, je lui montre le poteau et boum.",
+    "5:23 Alors, voyons voir. C'est où ? OK, ben on peut se garer du coup. Il y a plus l'interdiction de barqu plus l'interdit. C'est parfait. Tho, tu as enlevé l'interdit. C'est top.",
+    "5:31 Pas le marais, c'est costaud. C'est terrifiant. Désolé. j'ai voulu conduire, j'ai voulu conduire",
+    "5:40 le camping mais j'ai juste cassé. J'ai cassé trois fois le camping-car. J'ai reconduit. Je l'ai cassé une 4rième fois. J'ai conduit peu et je conduire un peu plus ce soir. Faire. OK. Faire mal de",
+    "5:52 dire faire. C'est à toi ça. Ouais, je vais le faire en vrai. Je vais te nonprè je lui donne le mien. Merci.",
+    "6:04 J'ai plus grand chose àendre. Désolé toute la commu. Je vous jure, j'essaie de faire le max et",
+    "6:13 ça me rend fou en fait. On va manger. C'est là-bas.",
+    "6:28 Wesh, il a une masse, il a un pied de B dans le sac. Une masse dans la main. The Last of Us. Oui. The Last of Ah ouais, c'est The Last of Us à bord.",
+    "6:44 Je pas en train de me filmer en fait.",
+    "6:54 Max enquêteur et il a vu, regarde quelqu'un est tombé ici. Avait elle avait son sac. C'était quoi ? Une femme ou un homme ? Une femme. Pourquoi ? Parce que chewinggum un peu rose comme ça.",
+    "7:04 Chewing-gum donc pour avoir toujours une bonne haleine un peu bien le gloss ou le truc qui est tombé. Tac. Elle est tombée là. Et pourquoi elle est tombé ?",
+    "7:12 Parce qu'elle é train de faire du tapis de course là. Tapis. Ouais. tapis de course à ce momentl après elle a fait quoi après",
+    "7:22 manger les sandwich voulait du sandwich extra s'arrête là let's go papa",
+    "7:39 quand même. Je vous regardais tous dans une vidéo hier. C'est le vidéo les fromages avec avec",
+    "7:47 moi mais toi j'ai vu c'est une autre vidéo de ma carlito. Elle a de je tous vu à gauche à droite. C'est fou ça. Vous voulez venir manger ? Ferm",
+    "8:04 je mange ça ça fonc à Philadelphie. Tuas pas marre de tout filmer de Philadelphie tu dis ? Non. J'aime bien mo faire ça. Pourquoi tu fais ça ? Je sais pas. J'aime bien filmer. Ça fait des petits souvenirs et tout mais j'aime bien. Tu les gardes en souvenir ?",
+    "8:13 Ouais. OK. Ça te dérange moi quand je fais je comprends pas le principe de filmer tout ce qu'on fait. I don't care. Poutine Philis.",
+    "8:22 Tu prends poutine et Philip. Non. Je voulais prendre une poutine à siphilis. Si tu prends une poutine, moi je prends une Zelenski. Comme ça c'est un peu Moi je prends une Gobles et go. Wouh",
+    "8:31 belle goble. Je crois que c'est des petites patates. Ah vas-y frère. Ah j'ai faim à mort frère. J'ai faim à mort frère.",
+    "8:39 Attends mais tu etil non c'est juste un supplément. On est jamais allé au bout de ce que c'est la viande",
+    "8:49 un peu Ah ou c'est incroyable. Je veux bien prendre la poutine et et aussi mais non c'est là là",
+    "8:59 je crois f les",
+    "9:14 à quoi la poutine tu la prends la poupouignon je pense parce que nous on prend une poutine et à côté on prend aussi un mauvais choix on prend deux plats chacun ça peut être balaise. Non mais il comprend pas. Toi",
+    "9:23 aussi tu es comprend la notif 2 1 vous laav notif et leement direct vous per supp quelle équipe maintenant enlève le maillot. Tu m'enlèves ce maillot tu mets tshirt",
+    "9:32 régular. Ah c'est dur ouais merde Max. Ah c'est dur à mort. Et là donc il passe en quoi là du coup ? National nationalement ça devient un club",
+    "9:40 faud dégager le truc de son épaule là. W",
+    "10:02 par tu tiens pardon quoi ton personnage ou mec tu es tellement ce tonton avec c'est trop grave",
+    "10:12 il y a son fils qui joue en 15 et tu avais tu avais le bras sur la ressemble à mon père son fils Il y a son fils en U15, il le filme, il filme son ressemble vraiment à mon père.",
+    "10:31 L'eau,",
+    "10:57 c'est top. J'adore l'eau. J'adore boire de l'eau. Surtout que sur le voyage, on boit pas assez d'eau et du coup, c'est top de boire de l'eau. Et j'ai acheté ma petite eau grâce à mesdames et messieurs la rvolute.",
+    "11:09 Oui, comme je vous l'ai dit sur le premier épisode, évidemment ma carte révolute m'accompagne sur tout le voyage. J'ai changé mes euros en dollar canadien, donc je me prends pas la tête. Je sais que je peux payer tout ce que je",
+    "11:18 veux sans frais cacher. Et ça, ça fait plaisir à mort. Ça fait que je suis tranquille. Revolute, je vous en parle très régulièrement. Vous le savez, je suis moi-même client chez Revolute. Ils ont été le meilleur banque en ligne au",
+    "11:27 monde et ils nous régalent toujours. Là par exemple, si vous créez un compte avec mon lien comme d'habitude qui est en description, Revolute vous offre 20 € et vous êtes directement dans le tirage au sort pour gagner 10000 €. Pour créer",
+    "11:38 un compte, c'est méga simple et rapide. Vous pouvez choisir une carte standard gratuite ou alors comme moi, une carte métal personnalisée. Et c'est d'ailleurs l'application la plus téléchargée en France. Et avec cet appli, vous pouvez",
+    "11:48 gérer votre argent archi facilement. Vous pouvez épargner, vous pouvez changer de devise, enfin bref, il y a beaucoup de choses à faire. Avec l'abonnement Revolute Metal, vous allez avoir des abonnements directement comme",
+    "11:56 l'équipe Kind Gold ou même Uber One. Donc tout ça, c'est vraiment top. Et il y a un truc qui est vraiment cool à mort, c'est Revolute Ado. Si vous avez moins de 18 ans, vos parents peuvent",
+    "12:04 vous créer un compte à vous et le gérer depuis le leur c'est pratique, c'est sécurisé et puis bah ça permet aux jeunes de savoir gérer leur argent doucement quoi. C'est top la famille. Si",
+    "12:13 vous avez pas encore Rvolute comme d'habitude évidemment le lien est en description. 20 € offert à la création du compte et vous serez directement dans un tirage au sort pour remporter 10000 balles. Ça c'est dingue. Merci",
+    "12:21 infiniment de nous accompagner sur cette aventure d'une manière assez conséquente donc c'est vraiment top. Merci infiniment. On va pouvoir continuer. Pour l'anecdote, ce petit parc, c'est le",
+    "12:29 même créateur. Je sais pas si on dit un architecte pour Ah oui, c'est Virgile Lablo. Non, c'est celui qui a fait central par en gros c'est sa maquette. Ça peut que brouillon vu la gueule du",
+    "12:39 parc. Mes doigts me font mal.",
+    "12:47 Petite barbichette. Petite barbichette. Petite barbichette. Petite barb barbette. Barb. C'est juste du bully. C'est quoi ? Oh les deux.",
+    "12:59 Alors alors hein gros con. Ah non c'est Ouais tu me la rends. Ouais ouais encore encore.",
+    "13:08 Mais elle est où la voiture qui fait ça ? Retour en 1984.",
+    "13:21 Bien jusqu'à moi.",
+    "13:32 W Mais quoi ? Mais gros mais gros mais gros gros, mais gros mais gros ou on voit mort, on voit",
+    "13:41 mais c'est quoi ce chewinggum de la chamb ? Comment ça se fait qu'il ne met pas ça le chingum ? Il est ga",
+    "13:51 la vie de ma mère, je me mets en je regarde c'est pas aussi long.",
+    "14:00 Oh non la peau de couille. Ah non il y a une peau de couille. Oh génial. Comment il s'appelle déjà ? Faut qu'il y aille. Je le connais pas ce",
+    "14:09 genre.",
+    "14:27 Tu tu tombes de tout en haut de l'immeuble. Ah stop",
+    "14:38 mais ouais c'est super haut ou quoi ? ton bilan pendant bilan Ouais, je t' cri ça tient qu' avec des petits pilones ça fait trop peur. Arrive",
+    "14:46 au milieu ça tient que par des pilon les gars le coping qui a réussi vous avez pas le droit de le",
+    "15:01 OK Manas. Manas tu es là ou pas ? Tu es là ou pas ? Je vais te choquer sur celle-là. Vas-y frère. POV la rue barrée. La rue elle est elle est barrée.",
+    "15:11 ! Oh le petit gars le tout petit gar,",
+    "15:20 je t'ai vu comme ça. Pétard, tu es en pétard. Je te tape un check en tout cas.",
+    "15:29 Ah là là, merde. J'ai raté au Ouais, tu Ça va bien ? C'est pas July, c'est ça ? C'est pas l'autre vo",
+    "15:39 comment il s'appelle lui là ? Vu arrivver à 10 km. Je te kiffe mec, toi aussi t'inquiète. J'ai oublié ton nom mais on est ensemble mon frère. Merci beaucoup",
+    "15:50 rentrer pour se balade. C'est dingue. Oh shitcuser",
+    "16:01 ma gueule. de mettre les mecs ont touch.",
+    "16:11 Merci les gars, merci pour l'accueil shoute à ta gueule gros. Il parle beaucoup",
+    "16:20 qui va derrière frère. Vas-y fait un 2 3 là et un devant frère. Tu vas devant frérot. Ah ouais frère frère. Vas-y.",
+    "16:31 Ah frère, j'ai cassé un K dans une voiture si petite la voiture. Viens, on va à l'hôtel, frère. Ça rien à voir. Ouais frère un simple hôtel pour être trop marrant en séquence.",
+    "16:40 Un bain un bain un bain d'eau chaude avec une petite bombl qui s'enua. Ah ouais en mode hell en mode hell yeah. Vraiment c'est ton confort au max quoi.",
+    "16:52 I wish by Allez qu'est-ce que tu wish ? Ah ouais on peut faire quoi ? I wish by I wish by J'aimerais que demain on voit des",
+    "17:01 animaux qui s'approprie truc c'est approprié s'approprie l'idée deproprié",
+    "17:09 mana ça a donné une idée géniale. Mana çait une idée top wou wou wier",
+    "17:18 il a accéléré depuis W c'est trop cool en gros là il a accéléré à mort. Ouais, je voudrais mais si tuas rien. Tuas rien",
+    "17:27 rien frère. Frérot si tuas rien ça veut dire que tu es au max. C'est dire que tu es trop bien. Tuas rien même pas une douche et tout c'est trop bien. Je sais pas. Wish que ça continue comme ça que tu wishes",
+    "17:36 ce moment si on l'avait pris en commun. Ah oui tu vas bien ? Ça va ça va plaisir.",
+    "17:44 Salut. Ça va ou quoi ? Ça va bien tranquille. Alors du coup à Montréal à Montréal petit coup et puis on part demain. Ah ouais on est en retentrée pendant on enchaîne.",
+    "17:53 OK. OK. Ouais super. Je fais de la vidéo. Peut-être passer Instagram à un de vous si jamais vous êtes à Montréal. Moi je peux genre vous suivre style vlog style",
+    "18:04 même en train de prendre son job là. Sous ma gueule frérot. Je te lâche jamais jamais je te lâche. C'est beau.",
+    "18:12 Vérifie quand même le prix du gars parce que il y a un monde où on gagne un peu d'oseille. Ouais frère, tu payes pas Max c'est son argent c'est le mien. Je le paye pas non plus.",
+    "18:21 Bon bah voilà ça je veux pas être plus rentable que ça. C'est moi qui le paye. Ah ouais d'accord. OK. Ouais. Non je suis bien avec j'ai jamais vu mais c'est top. Bon ben on reste comme ça. On touche à",
+    "18:29 rien alors. On enchaîne alors. H tu prends un crédit à la banque royale. Bonjour Louis X. Voilà c'est quat éc les intérêts. Bam bam bam bam bam. Let's go",
+    "18:39 Montréal. Wou. Ah c'est chiant ça. C'est vraiment chiant. Hey guys, the streetor",
+    "18:49 sorry sorry. On a pas le droit d'être statique. Ouais.",
+    "19:15 Ça va ? Après, on fait un selfie genre euh n'importe qui. Ouais, un selfie. Est-ce que je peux avec vous ? Ouais, carrément.",
+    "19:27 Jamais.",
+    "19:37 Bah tu sais quoi ? Fil-moi ton numéro et je t'appellerai sur ton tel quand on l'a quand quand on l'a retrouvé. Elle elle a pas relevé le paradoxe.",
+    "19:46 Bah tiens, tu en a un nouveau là. Elle a récupéré un téléphone. C'est qui ? Ouais bah c'est c'est le 6e. C'est le 6e.",
+    "19:54 Je peux pas appeler votre ami s'il vous plaît. Je le connais pas moi. Moi je les connais pas. Tu connais toi ? Non. L'arnaque. L'arnaque montait parfaitement.",
+    "20:03 L'arnaque super bien volé. C'est que des sil. Je suis désolé, je sais pas ce qui m'a pris. Maxim on peut prendre une photo ? Elle était elle était profondément",
+    "20:11 inquiète les gars. Va pleurer. Prom. Non, je suis désolé, c'est horrible, je suis horrible, je suis horrible.",
+    "20:20 Je suis horrible, c'était une blague. Vous pouvez pas en fait. Ah non, je suis horrible. C'était une blague. Je m'en veux. Tu doas être trop déçu de me rencontrer.",
+    "20:30 Non, c'est pas correct du tout ça. Je l' sem Ouais, bien sûr. Vas-y, tiens, je la prends si tu veux. J'ai fait un truc horrible. Alors,",
+    "20:38 commencé à faire en fait, je pars demain et tout, j'aurais pas le temps d'attendre et tout. Moi, je lui ai dit, elle a pas capté. Je dis \"Pah passe-moi ton numéro comme ça quand on lâche t'appelle pour la vanne.\" Et elle fait",
+    "20:47 \"Mais je pars demain\". C'est horrible même des tests. En fait, je pense que ouais, je pense qu'il y a je pense que ça perdu.",
+    "20:55 Ça valait le coup de perdre un abonné ou pas pour la pour la mort. Mais tu m' gagner tellement avec perdu 10 de retrouver. Tu m' gagner tellement avec parce qu'en plus dans son téléphone j'ai pris plein de photos. On a pris de foot avecas.",
+    "21:03 Attends ser redescendu. Va kiffer. J'ai l'impression qu'on t'a v 15 fois.",
+    "21:15 Ah ouais.",
+    "21:25 C'est quoi ? Je je dit c'est quoi le mieux le meilleur truc là pour sortir samedi soir ici là en sachant qu'on est arrivé c'est comment on fait mal les villes on est arrivé à Montréal à",
+    "21:36 vraiment 15h bien tu vois qu'en fait on allé trop loin dans Montréal on était là où on a mangé c'était vraiment loin donc on s'est mangé encore une heure de route",
+    "21:45 pour venir dans le centre centre on avait pas conscience de la grandeur du truc donc on est arrivé en tout le temps de se garer machin machin 19h tout est fermé tac tac et du coup je dis bah quit",
+    "21:56 à Voilà, on est là le soir, on s'envoit à Montréal by Night et c'est où là le mieux genre \"Oh la longueur je te mets alors tu m'as juste demandé la vie de ma mère tu m'endors c'est le premier",
+    "22:04 tunnel qui où tu m'endors j'ai senti gars wou je t' m'a juste demandé elle a dit quoi ? En gros, vieux port, c'est top ce soir. Vieux port, mais ton vieux con va. Casse-toi. Il est fou. Mais c'est trop",
+    "22:13 fou. Je te demande un truc, tu m'insultes. Vieux port. Pignouf.",
+    "22:32 Tu as vu la bagnole ? La bagnole, elle est belle. La Dacia là, elle est exceptionnelle hein. Ouais. Dacia",
+    "22:42 en rouge comme ça, métallisé. c'est une voiture. On nous emmène au vieux port. Cach. On va au vieux port. C'est au vieux port. J'ai senti que tu avais My bad. J'ai",
+    "22:50 vraiment cru c'était moi. Le tu m'as insulté de pinouf et tout. J'ai senti que Pouf. Ah ouais, on",
+    "22:58 tout ferme à 23h. On aura jamais le temps de voir une ville cool. La Toronto, c'est un équivalent New York. la big ville c'est Toronto. Mais je pensais que Montréal",
+    "23:06 c'était genre Paris genre tu vois à Paris même. C'est ça en vrai. Qu'est-ce que tu aurais fait ? Euh je serais allé chez moi je pense et j'aurais regardé une série. OK. OK.",
+    "23:16 À tous à tous à Montréal visite à Montréal. À Montréal, on peut aller faire du roller. Une petite boîte de nuit en mode roller",
+    "23:25 comme les années 80. Une boîte de nuit à roller. Il y a la grande roue qui est juste là qui ferme dans 45 minutes. On s'envoie une petite grande roue. La ville ferme ses portes à 23h. Mais ce",
+    "23:34 qui serait génial, c'est qu'au roller, il y a un truc où on peut manger la bonne et là ça serait exceptionnel. Mais tu imagines manger en un steak en mangeant ? En roulant ? Non. Tu tu tu peux leser. Non,",
+    "23:43 tu r Non, tu tu rolles, tu rolles, tu rolles pendant une petite demi-heure, une demi-heure, tu rolles. Après, tu vas à côté. Non, sinon, tu poses ton assiette sur le côté, tu fais un tour et à chaque tour",
+    "23:53 là, tu reviens. Ah il est dur à couper.",
+    "24:05 15 minutes. Let's go la grand trou. Allez, faisons des trucs à Montréal. Let's go. Montpelier",
+    "24:14 monal. Bienvenue dans la roulette mécanique hydraulique volante. Bienvenue. OK, c'est parti.",
+    "24:23 Bienvenue dans le char roulant mobile. Bienvenue dans le char. K les chars qui montent dans le sky qui vient de taper les clouds. Wouh ! Toi, c'est très En fait, nous quand on",
+    "24:33 le fait, ça va. Toi, quand tu fais, c'est raciste. Je sais pas comment expliquer. OK. OK. Vas-y. No offense. No offense. Ah là là, c'est pas correct. Ça met en",
+    "24:42 calice. Je vais jouer ma musique. Voyez ou pas ? prent pour du bétail et je sais les gars",
+    "24:50 je sais il se prennent pour la kou bou les gars sur la j'entends plus j'entends quoi",
+    "25:09 les gars c'est un bê de hit en vrai c'est un hit de fou en vrai c'estp ouais je parlais de voyer je parlais de voyer voyer Pendant que tu f",
+    "25:17 tu veux faire toi et tu m'as d'abord c'est pour la vie",
+    "25:30 c'est un de hit un classique chez nous voir ce qui se",
+    "25:40 alcooique",
+    "25:49 Ça se passe à ça.",
+    "26:00 Non, stop. Stop. Frère, la tête de ma mère, j'ai la tête",
+    "26:08 dans le cul. La tête de ma mère, j'ai la tête dans le cul. Sortez de là. J'ai la tête dans le cul.",
+    "26:36 Ah, ça repart. Ah, on s'arrête pas. Ah, vas-y. Ça repart une fois. Allez, c'est reparti.",
+    "26:45 Vite, vite, il arrive. Vite, ouais. Viensas, viens. Ouais,",
+    "26:54 ouais. Viens frère, j'arrive frère. Viens frère. Ouais. Viens frère. OK, let's go. Let's go. Regarde",
+    "27:06 frère, c'est fermé tout. Ouais. Attends, viens de secondes. Quoi ? Je parler en Ouais.",
+    "27:39 you down. What going on that beautiful mind? I'm on your magical mystery bride",
+    "27:48 and I'm so diy. know what me but I'll be all",
+    "27:57 my head under andingine you crazy and out of my minduse",
+    "28:11 all of me loves all of you love your curves and",
+    "28:39 Fini, c'est fini. Bravo Max. Bravo. Cétait intense frérot ce que tu enle",
+    "28:48 dans là. Bah je sais pas, je vous ai vous faire kiffer. Ça m'a eu. Moi j'ai kiffé. Moi j'ai adoré gars. OK. Bah je sais pas, j'ai s une ambiance.",
+    "28:57 Ah non, j'ai adoré. Tu as vraiment kiffé ? Non mais tu as choqué en fait. OK, c'est parce que vous pensiez pas que j'allais chanter. Bah je pensais que tu allais juste chanter, rigoler au bout de 10 secondes et voilà. Tu vois ? Bah non,",
+    "29:05 il nous envoyé tout le single quoi. J'étais en mode prest ou j'ai vu chaud. C'est vraiment tuas choqué. Merci.",
+    "29:13 Tu peux être fier de toi. Merci. On se relance un applause pour moi peut-être. Bien sûr. chauffeur au bout de 5 minutes de",
+    "29:21 silence qui lance la musique sur Spotify.",
+    "29:59 Je m'enculer frère. Frérot, let's go. Ça marche bien c'est bien.",
+    "30:08 Les gens ils font ça comme ça sont tous graus à mort. Je suis Shrek, je m'arrête là moi.",
+    "30:18 OK, c'est bon les gars, ça va. Mec, c'est physique à mort. Comment il on dirait on est dans SSX. Les jeunes",
+    "30:26 qui reprennent un peu la discipline. C'est bien, ça fait plaisir. C'est bien. Ça s'était perdu ces dernières années là. C'est ça. Oui, ça va frère.",
+    "30:39 On est cool à mort. Mais cool la mort. Regarde ton visage.",
+    "30:52 Ouais, dessus. Ah non mais non, c'est les deux. Mais non,",
+    "31:00 pas beau hein. Non, frère, je peux plus rien faire. Faisli un coco. C'est",
+    "31:10 OK. Ouais, c'est bon. OK. Ouou, je suis à mon prime dans les années 80. Ah ouais, tu as ton prime. Je vais choquer de tris et je reviens là. Vous verrez pas flancher.",
+    "31:22 J'ai trouvé un clic. Et oui, ils ont mis du savon, c'est sûr.",
+    "31:48 my mind.",
+    "32:05 Ah non, c'est impossible les gars. Tout roule, tout roule.",
+    "32:13 Oui. Oh oui ouais, c'est ça qui Ouais.",
+    "32:21 Ouais, j'ai pété la machine là. Voilà mon pote. Voilà. Voilà.",
+    "32:33 Oh oui,",
+    "32:47 Montréal ferme à 19h, il y a plus rien dehors à 19h. Mais on a trouvé le peup Saint-Paul qui apparemment est ouvert jusqu'à 3h du mat. Apparemment, on peut manger des trucs cools. Là, c'est soirée DJ, soupe à",
+    "32:55 l'oignon et fish and chips. C'est comme ça dans la dans la dans la boîte avec ta soupe à l'oignon.",
+    "33:10 Bonsoir. Bonsoir. Je vais vous prendre une crème dure framboise bleue un barbeine slush cerise et c'est tout",
+    "33:18 pour moi. Moi, je vais vous prendre la splash, une bouteille d'eau, s'il vous plaît. Moi je vais vous prendre une crème molle menace avec euh",
+    "33:27 marbré, chocolat au lait, trempage, chocolat noir, caramel salé, arachide, bonbon coloré, caramel croquant. Tu as pris toutes les garniturs,",
+    "33:38 framboise bleue splash Oreo et c'est fermé encore. Je vais vous prendre quand même un trempage chocolat au lait. Pour ma part, je vais vous",
+    "33:46 prendre le spot pour éclairer après. Moi, je vais vous prendre la petite deventure. Ça est pas bien. OK. Ben, je peux plus rien prendre. Moi je vais prendre le comptoir là. Je vais prendre juste les les ledes.",
+    "33:56 Brancher. Bon bah c'est fermé alors. Bah ciao. Bon bah c'est fermé comme toute la vie. Allez h ciao. C'est ciao. Montréal ferme à la WE to fly. Hey",
+    "34:05 allez let's go. Montréal ferm 19h. Les gars ils sont allés dormir. Ils sont KO les pauvres. il commence à il",
+    "34:15 commence à fatiguer. Donc ils sont retournés au camping-car et on croise des gens et tout qui parlent avec nous et qui nous disent \"Putain, vous savez que si vous allez à la grande roue et cetera sur le vieux port, donc là on",
+    "34:23 était tout à l'heure, on revient là, vous engendz un petit bateau et puis il y a des pédalaux, des trucs qui sont là quoi, vous pouvez les prendre.\" Sachant que j'avais rencontré des gens qui bossent dans ça qui nous ont dit \"Venez,",
+    "34:32 demain tout est gratuit et tout machin.\" Demain, on doit aller faire l'excellente idée madas qui est allé voir les élans et les lions, les tigres et tout là. Je suis pas sûr qu' ça frérot. Il y a",
+    "34:41 pas ça. C'est une réserve d'ici quoi. C'est une réserve naturelle tabernac. Tu arrêtes l'accent. Mais je me mets dans le truc. En plus, il est pas",
+    "34:56 trop.",
+    "35:09 Hell yeah I suck to du coup comme on nous a quand même donné ce petit plug de les bateaux sur pas accessible quoi. Bon c'est c'est un enjambage près quoi. Tu",
+    "35:18 vois il boss dans ça. Ouais et ils ont dit bah après ils sont détachés donc si vous partez demain cette nuit vous pouvez peut-être.",
+    "35:28 Et en vrai et en vrai bah Ah c'est ça les bateaux c'est ça ils sont clairement gar",
+    "35:37 on s'est fait mentir dans gueule mec c'est un moment privilégié de malade si on arrive à naviguer seul là comme ça la nuit tout s'attacher à mort à mort",
+    "35:50 qui t'a dit ça l'idée là qui c'est qui te l'a donné croisé quelqu'un et il m'avait demandé si j'avais des pénis Ouais, j'ai un seul, c'est un pénis",
+    "36:00 avec un S. Il a Paris, il m'a dit \"Bon bah si tu veux, il y a des il y a des chardeau qui sont à côté de la mongolfière là-bas qui volent.",
+    "36:11 Mo, je vais peut-être inventer la rencontre. Quand bien même on arrive à rentrer, il a plu, ils sont remplis d'eau. Euh,",
+    "36:22 oh, on s'est mis dans un truc là, frérot. Et là, bon là normalement là il peut y avoir un cut et on il y a un truc qui se passe. C'est",
+    "36:31 ouais de malade pas là. Alors en tout cas c'est sûr que là quand on aura fini de parler, il y aura un cut et il se passe quelque chose. Il va se pas OK. Ça peut être très décevant comme nous en",
+    "36:39 train de nous coucher. Non non c'est pas possible. Comme ça peut être une dinguerie. Ça dépend ce qui se passe là ce qui va ce qui va se passer. Je le sens bien ce cut mais au cult là il se passe un truc. Il y",
+    "36:49 aura un truc peut-être nul et peut-être top. Et ben là c'est maintenant. Vous faites les paris là maintenant, vous regardez, vous êtes en mode \"Putain, je sais pas.\" Je vous laisse un petit peu et on voit",
+    "36:58 qu'on danse là gentiment dans la rue. Auessus de nous, ça baise à la fenêtre, ça baise sous nos yeux. On se fait",
+    "37:07 baiser par Montréal. Montréal nous come en dans la Y et en hauteur en plus. il nous regarde dans les yeux et",
+    "37:15 il baise sur la fenêtre. Là, on parle, il baise à la fenêtre, il y a les potes à côté tout. Regarde Rem là c'est dingue.",
+    "37:25 Les gens baisent les gens baisent en mode hell yeah. En mode h fuck é bon ben nous voilà et on rentre au",
+    "37:34 camping-car voilà qui pue du cul qui pue le cul et pu",
+    "37:46 c'est 7h max. Je suis retourné à 4h. Oh j'ai loupé encore.",
+    "38:06 Hell",
+    "38:23 Here we go. Je suis fatigué. Bah oui.",
+    "38:36 Non non. Laisse prendre laisse prendre tuarrêtes. OK, faut dormir. P"
+  ]
+}

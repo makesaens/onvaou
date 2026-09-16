@@ -1,0 +1,92 @@
+{
+  "ep": "ep4",
+  "maillons": [
+    {
+      "maillon": "M1",
+      "debut": "2026-09-16T16:23:23.188Z",
+      "ok": true,
+      "videoId": "sIGByUaPZrs",
+      "dureeS": 54,
+      "sousTitres": [
+        "captions.fr-orig.json3",
+        "captions.fr.json3"
+      ],
+      "video": true,
+      "vues": 28336,
+      "fin": "2026-09-16T16:24:17.620Z"
+    },
+    {
+      "maillon": "M2",
+      "debut": "2026-09-16T16:24:17.714Z",
+      "ok": true,
+      "source": "youtube-auto:captions.fr-orig.json3",
+      "segments": 939,
+      "mots": 5037,
+      "balises": {
+        "cri": 14,
+        "rires": 36,
+        "musique": 56,
+        "chant": 15,
+        "grognement": 2,
+        "acclamation": 1,
+        "raclement de gorge": 1
+      },
+      "fin": "2026-09-16T16:24:17.729Z",
+      "dureeS": 0
+    },
+    {
+      "maillon": "M3",
+      "debut": "2026-09-16T16:24:17.769Z",
+      "ok": true,
+      "rires": 36,
+      "minuteLaPlusDrole": "19:00",
+      "plans": 607,
+      "hitsLexique": 55,
+      "fin": "2026-09-16T16:24:59.180Z",
+      "dureeS": 41
+    },
+    {
+      "maillon": "M4",
+      "debut": "2026-09-16T16:24:59.225Z",
+      "ok": true,
+      "moments": 38,
+      "rejets": 0,
+      "chapitres": 12,
+      "parType": {
+        "GALERE": 4,
+        "OBJET": 1,
+        "VILLE": 2,
+        "CITATION": 15,
+        "IMPACT_CAMION": 4,
+        "SPONSOR": 1,
+        "RENCONTRE": 5,
+        "DECISION": 3,
+        "REFERENCE": 3
+      },
+      "fin": "2026-09-16T16:32:23.243Z",
+      "dureeS": 444
+    },
+    {
+      "maillon": "M7",
+      "debut": "2026-09-16T16:32:23.482Z",
+      "ok": true,
+      "etapes": [
+        "Montréal"
+      ],
+      "km": 255,
+      "mentions": 1,
+      "fin": "2026-09-16T16:32:23.484Z",
+      "dureeS": 0
+    },
+    {
+      "maillon": "M9",
+      "debut": "2026-09-16T16:32:23.528Z",
+      "ok": true,
+      "verdict": "GO",
+      "bloquants": [],
+      "moments": 38,
+      "fin": "2026-09-16T16:32:23.566Z",
+      "dureeS": 0
+    }
+  ]
+}
