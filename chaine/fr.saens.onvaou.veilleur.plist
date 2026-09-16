@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>fr.saens.onvaou.veilleur</string>
+  <key>ProgramArguments</key><array><string>/Users/saen-sserif/.nvm/versions/node/v24.15.0/bin/node</string><string>/Users/saen-sserif/onvaou/chaine/m0-veilleur.mjs</string></array>
+  <key>WorkingDirectory</key><string>/Users/saen-sserif/onvaou</string>
+  <key>StartInterval</key><integer>300</integer>
+  <key>RunAtLoad</key><true/>
+  <key>StandardOutPath</key><string>/Users/saen-sserif/onvaou/cache/launchd.out</string>
+  <key>StandardErrorPath</key><string>/Users/saen-sserif/onvaou/cache/launchd.err</string>
+  <key>EnvironmentVariables</key><dict><key>PATH</key><string>/Users/saen-sserif/.nvm/versions/node/v24.15.0/bin:/usr/bin:/bin:/usr/local/bin</string><key>HOME</key><string>/Users/saen-sserif</string></dict>
+</dict></plist>

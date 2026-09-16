@@ -1,0 +1,10 @@
+{
+  "channelId": "UCEUZRSYr1a2hnBfnpWslFeQ",
+  "saison": 7,
+  "titreMotif": "ON VA O",
+  "ffmpegDir": "/Users/saen-sserif/onvaou/.venv/lib/python3.12/site-packages/static_ffmpeg/bin/darwin_arm64",
+  "userAgent": "onvaou-fan-site/0.1 (projet independant; contact: guigs.prat@gmail.com)",
+  "claudeModel": "claude-sonnet-5",
+  "ntfyTopic": "",
+  "pagesUrl": "https://makesaens.github.io/onvaou/"
+}

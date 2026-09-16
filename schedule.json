@@ -1,0 +1,15 @@
+{
+  "saison": 7,
+  "episodesAnnonces": 6,
+  "cadence": [
+    { "jour": "mercredi", "heure": "18:00", "tz": "Europe/Paris" },
+    { "jour": "samedi", "heure": "11:00", "tz": "Europe/Paris" }
+  ],
+  "prevus": [
+    { "ep": 4, "date": "2026-09-16T18:00:00+02:00" },
+    { "ep": 5, "date": "2026-09-19T11:00:00+02:00" },
+    { "ep": 6, "date": "2026-09-23T18:00:00+02:00" }
+  ],
+  "destinationFinale": "Toronto",
+  "note": "Cadence déduite des trois premiers épisodes ; ce sont des prévisions, pas des annonces officielles."
+}

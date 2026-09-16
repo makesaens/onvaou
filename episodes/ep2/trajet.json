@@ -1,0 +1,51 @@
+{
+  "ep": 2,
+  "videoId": "LFJkky0MAnA",
+  "etapes": [
+    {
+      "ville": "Québec",
+      "lat": 46.8137431,
+      "lon": -71.2084061,
+      "libelle": "Québec, Agglomération de Québec",
+      "debut": 2636,
+      "fin": 2644,
+      "action": "arrivee",
+      "citation": "Il est 3h13. On pensait ne jamais arriver à Québec ? On est à Québec déjà. Ça c'est dingue.",
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2634"
+    }
+  ],
+  "troncons": [],
+  "mentions": [
+    {
+      "ville": "Québec",
+      "debut": 163,
+      "citation": "Aujourd'hui, j'ai regardé sur GPS, il nous reste 7h30 de route pour Québec. Si on part maintenant en pleine balle et qu'on s'arrête pas"
+    },
+    {
+      "ville": "Montréal",
+      "debut": 255,
+      "citation": "qu'on se régale pendant le voyage sans vous régaler vous, que ce soit à Québec, à Montréal, à Otawa,"
+    },
+    {
+      "ville": "Ottawa",
+      "debut": 255,
+      "citation": "qu'on se régale pendant le voyage sans vous régaler vous, que ce soit à Québec, à Montréal, à Otawa,"
+    },
+    {
+      "ville": "Paris",
+      "debut": 411,
+      "citation": "et plus on avance plus les demandes respecte pas le projet. Oui de ouf. Ah oui va. Prenez-moi le billet retour pour Paris."
+    },
+    {
+      "ville": "Québec",
+      "debut": 1885,
+      "citation": "Ah j'ai merdé. On pourra jamais aller à Québec. Onira jamais dans cette disait on ne"
+    },
+    {
+      "ville": "Montréal",
+      "debut": 2847,
+      "citation": "on se la kiffe. Une petite partie de la journée parce que on a pris un retard monstre finalement et après on enchaîne à Montéal."
+    }
+  ],
+  "kmEpisode": 0
+}

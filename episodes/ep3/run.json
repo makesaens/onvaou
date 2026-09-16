@@ -1,0 +1,94 @@
+{
+  "ep": "ep3",
+  "maillons": [
+    {
+      "maillon": "M2",
+      "debut": "2026-09-16T13:32:41.248Z",
+      "ok": true,
+      "source": "youtube-auto:captions.fr-orig.json3",
+      "segments": 1231,
+      "mots": 6824,
+      "balises": {
+        "musique": 43,
+        "rires": 68,
+        "applaudissements": 1,
+        "cri": 6,
+        "chant": 6,
+        "raclement de gorge": 2,
+        "grognement": 3,
+        "acclamation": 7,
+        "pleurs": 1
+      },
+      "fin": "2026-09-16T13:32:41.257Z",
+      "dureeS": 0
+    },
+    {
+      "maillon": "M1",
+      "debut": "2026-09-16T13:34:18.385Z",
+      "ok": true,
+      "videoId": "kDwuuudq-Hk",
+      "dureeS": 48,
+      "sousTitres": [
+        "captions.fr-orig.json3",
+        "captions.fr.json3"
+      ],
+      "video": true,
+      "vues": 2758485,
+      "fin": "2026-09-16T13:35:06.690Z"
+    },
+    {
+      "maillon": "M3",
+      "debut": "2026-09-16T13:36:03.154Z",
+      "ok": true,
+      "rires": 68,
+      "minuteLaPlusDrole": "28:30",
+      "plans": 799,
+      "hitsLexique": 50,
+      "fin": "2026-09-16T13:36:35.885Z",
+      "dureeS": 33
+    },
+    {
+      "maillon": "M4",
+      "debut": "2026-09-16T13:41:28.522Z",
+      "ok": true,
+      "moments": 40,
+      "rejets": 0,
+      "chapitres": 12,
+      "parType": {
+        "OBJET": 2,
+        "GALERE": 6,
+        "REFERENCE": 5,
+        "CITATION": 15,
+        "SPONSOR": 1,
+        "RENCONTRE": 3,
+        "VILLE": 3,
+        "IMPACT_CAMION": 4,
+        "DECISION": 1
+      },
+      "fin": "2026-09-16T13:49:50.081Z",
+      "dureeS": 502
+    },
+    {
+      "maillon": "M7",
+      "debut": "2026-09-16T13:51:29.501Z",
+      "ok": true,
+      "etapes": [
+        "Québec"
+      ],
+      "km": 0,
+      "mentions": 1,
+      "fin": "2026-09-16T13:51:29.502Z",
+      "dureeS": 0
+    },
+    {
+      "maillon": "M9",
+      "debut": "2026-09-16T13:51:29.539Z",
+      "ok": true,
+      "verdict": "GO",
+      "bloquants": [],
+      "moments": 40,
+      "fin": "2026-09-16T13:51:29.554Z",
+      "dureeS": 0
+    }
+  ]
+}

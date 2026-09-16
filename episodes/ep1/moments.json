@@ -1,0 +1,641 @@
+{
+  "ep": 1,
+  "videoId": "sJZBUk0nO5E",
+  "modele": "claude-sonnet-5",
+  "chapitres": [
+    {
+      "titre": "Introduction et présentation du concept On va où",
+      "debut": 0,
+      "fin": 174
+    },
+    {
+      "titre": "Retrouvailles à l'aéroport et échange de cadeaux",
+      "debut": 174,
+      "fin": 466
+    },
+    {
+      "titre": "Arrivée à Halifax et sponsor Revolut",
+      "debut": 466,
+      "fin": 762
+    },
+    {
+      "titre": "Installation à l'hôtel et répartition des chambres",
+      "debut": 762,
+      "fin": 1024
+    },
+    {
+      "titre": "Atelier team building raté",
+      "debut": 1024,
+      "fin": 1293
+    },
+    {
+      "titre": "Boutique souvenirs et soirée à l'hôtel",
+      "debut": 1293,
+      "fin": 1737
+    },
+    {
+      "titre": "Récupération du camping-car",
+      "debut": 1737,
+      "fin": 2254
+    },
+    {
+      "titre": "Courses à Walmart et installation dans le camping-car",
+      "debut": 2254,
+      "fin": 2884
+    },
+    {
+      "titre": "Sponsor café Noolata et recherche de nourriture",
+      "debut": 2884,
+      "fin": 3243
+    },
+    {
+      "titre": "Nuit agitée et histoire des crocs volées",
+      "debut": 3243,
+      "fin": 3513
+    },
+    {
+      "titre": "Commande de fast-food sous la pluie",
+      "debut": 3513,
+      "fin": 3602
+    },
+    {
+      "titre": "Recherche d'un lieu pour la nuit et toilettes portables",
+      "debut": 3602,
+      "fin": 4033
+    }
+  ],
+  "moments": [
+    {
+      "type": "VILLE",
+      "debut": 100,
+      "fin": 100,
+      "citation": "Donc il y a eu une sélection comme ça qui s'est faite et puis après le point GPS est tombé ici.",
+      "qui": "Djilsi",
+      "confiance": 0.8,
+      "detail": {
+        "ville": "Toronto",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=98"
+    },
+    {
+      "type": "DECISION",
+      "debut": 100,
+      "fin": 100,
+      "citation": "Donc il y a eu une sélection comme ça qui s'est faite et puis après le point GPS est tombé ici.",
+      "qui": "Djilsi",
+      "confiance": 0.8,
+      "detail": {
+        "quoi": "détermination du point GPS final à Toronto qui fixe l'itinéraire du voyage"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=98"
+    },
+    {
+      "type": "CITATION",
+      "debut": 92,
+      "fin": 92,
+      "citation": "Manage, je t'encule frère. C'est abusé frère de rigoler mais frère, on a fait des intros qui durent deux jours des fois",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "vanne sur la longueur des intros de la chaîne"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=90"
+    },
+    {
+      "type": "VILLE",
+      "debut": 139,
+      "fin": 139,
+      "citation": "Et donc avec le temps qu'on a, l'itinéraire est le suivant. On va partir d'Alifat en Nouvelle-Écosse. On va remonter pendant un bon moment",
+      "qui": "Djilsi",
+      "confiance": 0.85,
+      "detail": {
+        "ville": "Halifax",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=137"
+    },
+    {
+      "type": "VILLE",
+      "debut": 147,
+      "fin": 147,
+      "citation": "jusqu'à Québec. Québec. Une fois qu'on sera passé à Québec, direction Montréal.",
+      "qui": "Djilsi",
+      "confiance": 0.85,
+      "detail": {
+        "ville": "Québec",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=145"
+    },
+    {
+      "type": "VILLE",
+      "debut": 147,
+      "fin": 147,
+      "citation": "Une fois qu'on sera passé à Québec, direction Montréal. De Montréal, on quitte le",
+      "qui": "Djilsi",
+      "confiance": 0.85,
+      "detail": {
+        "ville": "Montréal",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=145"
+    },
+    {
+      "type": "VILLE",
+      "debut": 165,
+      "fin": 165,
+      "citation": "rejoindre Ottawa. Et après Otawa, la destination finale Toronto. Le point GPS se situe quelque",
+      "qui": "Djilsi",
+      "confiance": 0.85,
+      "detail": {
+        "ville": "Ottawa",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=163"
+    },
+    {
+      "type": "VILLE",
+      "debut": 174,
+      "fin": 174,
+      "citation": "part dans la ville de Toronto et ça sera là le point final de notre voyage.",
+      "qui": "Djilsi",
+      "confiance": 0.85,
+      "detail": {
+        "ville": "Toronto",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=172"
+    },
+    {
+      "type": "CITATION",
+      "debut": 247,
+      "fin": 247,
+      "citation": "Ma tête. Pourquoi elle est allongé comme ça ? Pourquoi elle est le bad long ma tête ? Elle est b le logo de la Juve.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "moquerie sur un cadeau au logo de la Juventus"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=245"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 247,
+      "fin": 247,
+      "citation": "Ma tête. Pourquoi elle est allongé comme ça ? Pourquoi elle est le bad long ma tête ? Elle est b le logo de la Juve.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "reference": "la Juve (Juventus)",
+        "type": "marque"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=245"
+    },
+    {
+      "type": "CITATION",
+      "debut": 302,
+      "fin": 302,
+      "citation": "Ah c'est Stinky. Stinky. Spinky, c'est vraiment pénis puant là.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "surnom donné au t-shirt cadeau de Jordan"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=300"
+    },
+    {
+      "type": "CITATION",
+      "debut": 320,
+      "fin": 320,
+      "citation": "Ah il est dur lui. Ah il est serré en plus il est serré de malade. Sky pénis là. Skinny pénis carrément.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "moquerie sur le t-shirt trop serré"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=318"
+    },
+    {
+      "type": "CITATION",
+      "debut": 369,
+      "fin": 369,
+      "citation": "Vous savez quoi ? Sid va plus s'en sortir parce que Sid il est français son t-shirt. Nous international.",
+      "qui": null,
+      "confiance": 0.65,
+      "detail": {
+        "pourquoi": "blague sur le t-shirt embarrassant que Sid devra porter en France"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=367"
+    },
+    {
+      "type": "GALERE",
+      "debut": 466,
+      "fin": 466,
+      "citation": "Je te jure. C'est ma mère, elle m'apprend qu'elle a",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "quoi": "annonce inattendue au téléphone à l'arrivée"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=464"
+    },
+    {
+      "type": "SPONSOR",
+      "debut": 660,
+      "fin": 660,
+      "citation": "Honnêtement révolute à l'étranger ça te simplifie la vie à mort.",
+      "qui": "Djilsi",
+      "confiance": 0.85,
+      "detail": {
+        "marque": "Revolut"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=658"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 619,
+      "fin": 619,
+      "citation": "Bah en fait c'est juste que moi je me dis que si on meurt tous Squeezie il est un peu dans la merde niveau guest.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "reference": "Squeezie",
+        "type": "personnalite"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=617"
+    },
+    {
+      "type": "VILLE",
+      "debut": 631,
+      "fin": 631,
+      "citation": "OK, on est à l'IFAX. Let's go, ça commence. Et ce qui est génial aussi, c'est que je suis au Canada.",
+      "qui": "Djilsi",
+      "confiance": 0.8,
+      "detail": {
+        "ville": "Halifax",
+        "action": "arrivee"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=629"
+    },
+    {
+      "type": "CITATION",
+      "debut": 816,
+      "fin": 816,
+      "citation": "percé à l'international jusqu'à Alifax frérot. Oui, on a vu sur la mer. Non mais les gars, je f et juste la main sur le tromblon, tu vas la garder ou pas ?",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "pourquoi": "private joke autour du surnom tromblon"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=814"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1051,
+      "fin": 1051,
+      "citation": "J'étais dans la douche et je me suis dit bien sûr qu'on se connaît mais il y a des poils. Il y a des poils.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "blague sur les poils pendant le discours de team building"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=1049"
+    },
+    {
+      "type": "OBJET",
+      "debut": 1463,
+      "fin": 1463,
+      "citation": "Tu es sûr ? Moi j'ai oublié la carte d'hôtel dans la chambre.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "objet": "carte d'hôtel",
+        "sort": "oublie"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=1461"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1512,
+      "fin": 1512,
+      "citation": "Bah comme je dit Caprio, je vais te peindre là. Je vais faire le je vais faire le tableau là.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "référence détournée pour justifier un dessin improvisé"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=1510"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 1512,
+      "fin": 1512,
+      "citation": "Bah comme je dit Caprio, je vais te peindre là. Je vais faire le je vais faire le tableau là.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "reference": "Caprio (Di Caprio)",
+        "type": "personnalite"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=1510"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1549,
+      "fin": 1549,
+      "citation": "Mais de merde, c'est pas mal. Non non pas c'est pas mal. Non mais gars, le talent que tu as,",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "compliment surpris sur le dessin improvisé"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=1547"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1617,
+      "fin": 1617,
+      "citation": "Les gars, je vous jure que j'ai eu l'impression sur terre. Je sur mon lit de mort. Personne qui s'allonge là, elle ferme les yeux, elle met un son aléatoire",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "jeu du son aléatoire allongé les yeux fermés"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=1615"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1768,
+      "fin": 1768,
+      "citation": "On était en train de dire que tho il a il a toute l'attitude d'un mec qui est super bilingue mais que quand il parle anglais ça prend pas des masslais.",
+      "qui": null,
+      "confiance": 0.65,
+      "detail": {
+        "pourquoi": "moquerie sur le niveau d'anglais de Théodort"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=1766"
+    },
+    {
+      "type": "GALERE",
+      "debut": 2301,
+      "fin": 2301,
+      "citation": "J'ai pas tourné le contact. j'ai gâché la vente. Ça prend pas. J'ai gâché la vente. Tu faire quoi ?",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "quoi": "le camping-car ne démarre pas, problème de contact électrique"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=2299"
+    },
+    {
+      "type": "OBJET",
+      "debut": 2410,
+      "fin": 2410,
+      "citation": "Il manque la la nourriture de Théo. Il manque un burger. Un burger ? Bah c'est 80 % des fois.",
+      "qui": null,
+      "confiance": 0.65,
+      "detail": {
+        "objet": "burger",
+        "sort": "perdu"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=2408"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2498,
+      "fin": 2498,
+      "citation": "Mais gars, ça c'est un produit à bulles. Ah c'est un produit à bull. On met dans le pot d'échappe et comme ça",
+      "qui": null,
+      "confiance": 0.65,
+      "detail": {
+        "pourquoi": "blague sur mettre du produit à bulles dans le pot d'échappement"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=2496"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 2227,
+      "fin": 2227,
+      "citation": "Tu as vu dans la chambre des secrets le chien à trois têtes c'est moi frère la trappe là je devant la",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "reference": "la Chambre des secrets (Harry Potter)",
+        "type": "film"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=2225"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 2555,
+      "fin": 2555,
+      "citation": "Il y a du shampoing ce soir. Non mais attends, tu peux pas faire ça. Tu es Luigi sous stéroïde.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "reference": "Luigi",
+        "type": "autre"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=2553"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 2944,
+      "fin": 2944,
+      "citation": "Il sait pas quoi faire. Il chante l'î national des États-Unis. Maxou, Jordi, Théo.",
+      "qui": null,
+      "confiance": 0.65,
+      "detail": {
+        "reference": "hymne national des États-Unis",
+        "type": "musique"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=2942"
+    },
+    {
+      "type": "SPONSOR",
+      "debut": 3024,
+      "fin": 3024,
+      "citation": "Regarde ici. Là s'affiche la marque de ce café là. C'est la marque de notre ami Maxou.",
+      "qui": "Djilsi",
+      "confiance": 0.8,
+      "detail": {
+        "marque": "Noolata"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3022"
+    },
+    {
+      "type": "GALERE",
+      "debut": 3225,
+      "fin": 3225,
+      "citation": "Il y a rien à se mettre sous la dents. Rien. Oh on a merdé à mort. Pourquoi on a pas pris de bouffe ?",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "quoi": "ils réalisent qu'ils n'ont rien acheté à manger malgré 2h30 à Walmart"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3223"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2791,
+      "fin": 2791,
+      "citation": "C'est du gén àer les gars les gars ça c'était un pur délire de ger mais un délire mais geros",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "pourquoi": "fou rire général après une bêtise dans le Walmart"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=2789"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2809,
+      "fin": 2809,
+      "citation": "Les gars, on a commencé à boyer, ça les a rendu la mec la transance qu'il y a eu",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "pourquoi": "fou rire collectif après avoir aboyé dans le magasin"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=2807"
+    },
+    {
+      "type": "CITATION",
+      "debut": 3243,
+      "fin": 3243,
+      "citation": "Non non non non. J'ai c Maxim réveille-toi. Ma il me rend dingue le bruit là dingue.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "agacement nocturne à cause d'un bruit"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3241"
+    },
+    {
+      "type": "OBJET",
+      "debut": 3271,
+      "fin": 3271,
+      "citation": "Qui c'est che là Jordan depuis tout à l'heure il chière quelqu'un m'a volé mes croc je les ai perdu tout simplement.",
+      "qui": null,
+      "confiance": 0.65,
+      "detail": {
+        "objet": "crocs",
+        "sort": "perdu"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3269"
+    },
+    {
+      "type": "CITATION",
+      "debut": 3414,
+      "fin": 3414,
+      "citation": "Lui, il faut pas l'écouter. Lui, il faut pas que je l'écoute. Le mec sobre, je l'écoute.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "blague sur ne pas faire confiance à un copilote éméché pour la route"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3412"
+    },
+    {
+      "type": "CITATION",
+      "debut": 3482,
+      "fin": 3482,
+      "citation": "il v mouillé ça va être chiant. Oh, ils sont trempés.",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "pourquoi": "retour trempés de la commande sous la pluie"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3480"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 3634,
+      "fin": 3634,
+      "citation": "Quand c'est tout la société ça paye bien regarde Mario comment il roule sur l'or.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "reference": "Mario",
+        "type": "autre"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3632"
+    },
+    {
+      "type": "GALERE",
+      "debut": 3748,
+      "fin": 3748,
+      "citation": "contexte, ça fait genre 1h30 qu'on cherche où se poser. C'est des maisons partout, des trucs sympa comme tout.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "quoi": "galère pour trouver un endroit où stationner le camping-car pour la nuit"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3746"
+    },
+    {
+      "type": "DECISION",
+      "debut": 2052,
+      "fin": 2052,
+      "citation": "On met des règles. On installe les règles du campingc juste. Est-ce que tu peux mettre ça dessus ?",
+      "qui": null,
+      "confiance": 0.65,
+      "detail": {
+        "quoi": "instauration des règles de vie à bord du camping-car (copilote obligatoire, interdiction de faire caca)"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=2050"
+    },
+    {
+      "type": "RENCONTRE",
+      "debut": 1915,
+      "fin": 1915,
+      "citation": "Viens, on lui demande de juste faire un sample et on le met dans le son.",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "personne": null,
+        "contexte": "rencontre avec le gérant de l'hôtel qui chante pour eux"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=1913"
+    },
+    {
+      "type": "CITATION",
+      "debut": 3864,
+      "fin": 3864,
+      "citation": "Il est là où il y a une flash. Tu ch casse-toi, casse-toi, casse-toi, casse-toi, casse-toi, casse-toi. Je",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "running gag casse-toi pendant qu'un pote va aux toilettes portables"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3862"
+    },
+    {
+      "type": "CITATION",
+      "debut": 3989,
+      "fin": 3989,
+      "citation": "On te regarde, on cherche comme ça avec la can. Tu fais \"Casse-toi, casse-toi, casse-toi !\" Et c'est vrai qu'on est penché à mort.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "suite du running gag casse-toi filmé à la lampe torche"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=3987"
+    },
+    {
+      "type": "GALERE",
+      "debut": 4007,
+      "fin": 4007,
+      "citation": "Ouais, je me suis douché à l'eau glacée. Ouais, j'ai très froid. Ouais. Info numéro 2, le camping-car est penché, du coup ça s'évacue pas.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "quoi": "douche glacée et camping-car mal stationné qui empêche l'évacuation d'eau"
+      },
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=4005"
+    }
+  ],
+  "rejets": [],
+  "coutUSD": 0.7370973999999999
+}

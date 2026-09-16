@@ -1,0 +1,91 @@
+{
+  "ep": "ep1",
+  "maillons": [
+    {
+      "maillon": "M1",
+      "debut": "2026-09-16T13:32:41.459Z",
+      "ok": true,
+      "videoId": "sJZBUk0nO5E",
+      "dureeS": 48,
+      "sousTitres": [
+        "captions.fr-orig.json3",
+        "captions.fr.json3"
+      ],
+      "video": true,
+      "vues": 6419357,
+      "fin": "2026-09-16T13:33:29.933Z"
+    },
+    {
+      "maillon": "M2",
+      "debut": "2026-09-16T13:34:36.917Z",
+      "ok": true,
+      "source": "youtube-auto:captions.fr-orig.json3",
+      "segments": 1763,
+      "mots": 9655,
+      "balises": {
+        "rires": 130,
+        "musique": 42,
+        "chant": 8,
+        "raclement de gorge": 4,
+        "cri": 14,
+        "grognement": 2,
+        "acclamation": 1
+      },
+      "fin": "2026-09-16T13:34:36.932Z",
+      "dureeS": 0
+    },
+    {
+      "maillon": "M3",
+      "debut": "2026-09-16T13:34:37.140Z",
+      "ok": true,
+      "rires": 130,
+      "minuteLaPlusDrole": "46:30",
+      "plans": 1070,
+      "hitsLexique": 54,
+      "fin": "2026-09-16T13:35:27.099Z",
+      "dureeS": 50
+    },
+    {
+      "maillon": "M4",
+      "debut": "2026-09-16T13:36:49.319Z",
+      "ok": true,
+      "moments": 46,
+      "rejets": 0,
+      "chapitres": 12,
+      "parType": {
+        "VILLE": 7,
+        "DECISION": 2,
+        "CITATION": 19,
+        "REFERENCE": 7,
+        "GALERE": 5,
+        "SPONSOR": 2,
+        "OBJET": 3,
+        "RENCONTRE": 1
+      },
+      "fin": "2026-09-16T13:41:15.140Z",
+      "dureeS": 266
+    },
+    {
+      "maillon": "M7",
+      "debut": "2026-09-16T13:51:29.320Z",
+      "ok": true,
+      "etapes": [
+        "Halifax"
+      ],
+      "km": 0,
+      "mentions": 6,
+      "fin": "2026-09-16T13:51:29.321Z",
+      "dureeS": 0
+    },
+    {
+      "maillon": "M9",
+      "debut": "2026-09-16T13:51:29.359Z",
+      "ok": true,
+      "verdict": "GO",
+      "bloquants": [],
+      "moments": 46,
+      "fin": "2026-09-16T13:51:29.374Z",
+      "dureeS": 0
+    }
+  ]
+}

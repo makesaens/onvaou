@@ -1,0 +1,32 @@
+{
+  "halifax": {
+    "nom": "Halifax",
+    "lat": 44.648618,
+    "lon": -63.5859487,
+    "libelle": "Halifax, Halifax Regional Municipality"
+  },
+  "toronto": {
+    "nom": "Toronto",
+    "lat": 43.6534817,
+    "lon": -79.3839347,
+    "libelle": "Toronto, Golden Horseshoe"
+  },
+  "quebec": {
+    "nom": "Québec",
+    "lat": 46.8137431,
+    "lon": -71.2084061,
+    "libelle": "Québec, Agglomération de Québec"
+  },
+  "montreal": {
+    "nom": "Montréal",
+    "lat": 45.5031824,
+    "lon": -73.5698065,
+    "libelle": "Montréal, Agglomération de Montréal"
+  },
+  "ottawa": {
+    "nom": "Ottawa",
+    "lat": 45.4208777,
+    "lon": -75.6901106,
+    "libelle": "Ottawa, Eastern Ontario"
+  }
+}

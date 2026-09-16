@@ -1,0 +1,51 @@
+{
+  "ep": 1,
+  "videoId": "sJZBUk0nO5E",
+  "etapes": [
+    {
+      "ville": "Halifax",
+      "lat": 44.648618,
+      "lon": -63.5859487,
+      "libelle": "Halifax, Halifax Regional Municipality",
+      "debut": 631,
+      "fin": 631,
+      "action": "arrivee",
+      "citation": "OK, on est à l'IFAX. Let's go, ça commence. Et ce qui est génial aussi, c'est que je suis au Canada.",
+      "lien": "https://youtu.be/sJZBUk0nO5E?t=629"
+    }
+  ],
+  "troncons": [],
+  "mentions": [
+    {
+      "ville": "Toronto",
+      "debut": 100,
+      "citation": "Donc il y a eu une sélection comme ça qui s'est faite et puis après le point GPS est tombé ici."
+    },
+    {
+      "ville": "Halifax",
+      "debut": 139,
+      "citation": "Et donc avec le temps qu'on a, l'itinéraire est le suivant. On va partir d'Alifat en Nouvelle-Écosse. On va remonter pendant un bon moment"
+    },
+    {
+      "ville": "Québec",
+      "debut": 147,
+      "citation": "jusqu'à Québec. Québec. Une fois qu'on sera passé à Québec, direction Montréal."
+    },
+    {
+      "ville": "Montréal",
+      "debut": 147,
+      "citation": "Une fois qu'on sera passé à Québec, direction Montréal. De Montréal, on quitte le"
+    },
+    {
+      "ville": "Ottawa",
+      "debut": 165,
+      "citation": "rejoindre Ottawa. Et après Otawa, la destination finale Toronto. Le point GPS se situe quelque"
+    },
+    {
+      "ville": "Toronto",
+      "debut": 174,
+      "citation": "part dans la ville de Toronto et ça sera là le point final de notre voyage."
+    }
+  ],
+  "kmEpisode": 0
+}

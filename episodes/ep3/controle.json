@@ -1,0 +1,46 @@
+{
+  "verdict": "GO",
+  "controles": [
+    {
+      "nom": "transcript complet",
+      "ok": true,
+      "detail": "dernier segment 44:56 / 45:07"
+    },
+    {
+      "nom": "assez de moments",
+      "ok": true,
+      "detail": "40 moments"
+    },
+    {
+      "nom": "timecodes dans la vidéo",
+      "ok": true,
+      "detail": "0 hors durée"
+    },
+    {
+      "nom": "citations verbatim",
+      "ok": true,
+      "detail": "0 introuvables (0 déjà rejetées par M4)"
+    },
+    {
+      "nom": "étapes prouvées par une citation",
+      "ok": true,
+      "detail": "toutes"
+    },
+    {
+      "nom": "zones d impact valides",
+      "ok": true,
+      "detail": "4 impacts"
+    },
+    {
+      "nom": "chapitres sans trou",
+      "ok": true,
+      "detail": "12 chapitres"
+    },
+    {
+      "nom": "étapes géocodées",
+      "ok": true,
+      "detail": "Québec"
+    }
+  ],
+  "bloquants": []
+}

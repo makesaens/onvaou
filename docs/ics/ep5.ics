@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onvaou//FR
+BEGIN:VEVENT
+UID:onvaou7-ep5@makesaens.github.io
+DTSTAMP:20260916T135129Z
+DTSTART:20260919T090000Z
+DTEND:20260919T100000Z
+SUMMARY:On va où 7 · épisode 5 (prévision)
+DESCRIPTION:Sortie prévue sur la chaîne de Djilsi. https://makesaens.github.io/onvaou/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Épisode 5 dans 30 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR

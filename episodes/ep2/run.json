@@ -1,0 +1,90 @@
+{
+  "ep": "ep2",
+  "maillons": [
+    {
+      "maillon": "M1",
+      "debut": "2026-09-16T13:33:29.977Z",
+      "ok": true,
+      "videoId": "LFJkky0MAnA",
+      "dureeS": 48,
+      "sousTitres": [
+        "captions.fr-orig.json3",
+        "captions.fr.json3"
+      ],
+      "video": true,
+      "vues": 3760556,
+      "fin": "2026-09-16T13:34:18.344Z"
+    },
+    {
+      "maillon": "M2",
+      "debut": "2026-09-16T13:34:36.969Z",
+      "ok": true,
+      "source": "youtube-auto:captions.fr-orig.json3",
+      "segments": 1476,
+      "mots": 8345,
+      "balises": {
+        "musique": 29,
+        "rires": 57,
+        "gémissement": 1,
+        "grognement": 6,
+        "chant": 1,
+        "cri": 3,
+        "raclement de gorge": 2
+      },
+      "fin": "2026-09-16T13:34:36.981Z",
+      "dureeS": 0
+    },
+    {
+      "maillon": "M3",
+      "debut": "2026-09-16T13:35:27.139Z",
+      "ok": true,
+      "rires": 57,
+      "minuteLaPlusDrole": "20:30",
+      "plans": 819,
+      "hitsLexique": 65,
+      "fin": "2026-09-16T13:36:03.111Z",
+      "dureeS": 36
+    },
+    {
+      "maillon": "M4",
+      "debut": "2026-09-16T13:41:28.522Z",
+      "ok": true,
+      "moments": 33,
+      "rejets": 2,
+      "chapitres": 12,
+      "parType": {
+        "CITATION": 12,
+        "VILLE": 7,
+        "SPONSOR": 1,
+        "REFERENCE": 3,
+        "DRONE": 2,
+        "OBJET": 4,
+        "GALERE": 4
+      },
+      "fin": "2026-09-16T13:46:22.880Z",
+      "dureeS": 294
+    },
+    {
+      "maillon": "M7",
+      "debut": "2026-09-16T13:50:50.419Z",
+      "ok": true,
+      "etapes": [
+        "Québec"
+      ],
+      "km": 0,
+      "mentions": 6,
+      "fin": "2026-09-16T13:50:50.419Z",
+      "dureeS": 0
+    },
+    {
+      "maillon": "M9",
+      "debut": "2026-09-16T13:51:29.452Z",
+      "ok": true,
+      "verdict": "GO",
+      "bloquants": [],
+      "moments": 33,
+      "fin": "2026-09-16T13:51:29.465Z",
+      "dureeS": 0
+    }
+  ]
+}

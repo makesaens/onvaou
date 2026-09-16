@@ -1,0 +1,11 @@
+.venv/
+.env
+episodes/*/video.mp4
+episodes/*/captions.*.json3
+episodes/*/whisper.json
+episodes/*/frames/
+cache/*.lock
+cache/*.log
+cache/launchd.*
+node_modules/
+.DS_Store

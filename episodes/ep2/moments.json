@@ -1,0 +1,543 @@
+{
+  "ep": 2,
+  "videoId": "LFJkky0MAnA",
+  "modele": "claude-sonnet-5",
+  "chapitres": [
+    {
+      "titre": "Rituel du matin et règle du camping-car",
+      "debut": 8,
+      "fin": 100
+    },
+    {
+      "titre": "Réveil en forêt et petit-déjeuner",
+      "debut": 100,
+      "fin": 163
+    },
+    {
+      "titre": "Calcul de la route et publicité Vinted",
+      "debut": 163,
+      "fin": 352
+    },
+    {
+      "titre": "Chanson et chronique I Wish Boy",
+      "debut": 352,
+      "fin": 420
+    },
+    {
+      "titre": "Bilan du deuxième team building",
+      "debut": 420,
+      "fin": 758
+    },
+    {
+      "titre": "Repas au restaurant et jeu des animaux",
+      "debut": 758,
+      "fin": 1018
+    },
+    {
+      "titre": "Pause course et improvisation en forêt",
+      "debut": 1018,
+      "fin": 1177
+    },
+    {
+      "titre": "Crash et récupération du drone",
+      "debut": 1177,
+      "fin": 1481
+    },
+    {
+      "titre": "Route de nuit vers Québec et métaphores desserts",
+      "debut": 1481,
+      "fin": 1766
+    },
+    {
+      "titre": "Mécanisme bloqué et télé cassée dans le camping-car",
+      "debut": 1766,
+      "fin": 2373
+    },
+    {
+      "titre": "Fuite d'eau et écopage de la cuve",
+      "debut": 2373,
+      "fin": 2604
+    },
+    {
+      "titre": "Arrivée de nuit à Québec",
+      "debut": 2604,
+      "fin": 2924
+    }
+  ],
+  "moments": [
+    {
+      "type": "CITATION",
+      "debut": 40,
+      "fin": 50,
+      "citation": "Non non non. Let's go. On instaure une règle. Pour moi la règle la plus importante. No caca. On peut prendre un chiot et dehors.",
+      "propre": "Non, non, non. Let's go. On instaure une règle. Pour moi la règle la plus importante : no caca. On peut prendre un chiot et dehors.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "règle absurde instaurée en ouverture d'épisode, running gag sur les toilettes"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=38"
+    },
+    {
+      "type": "CITATION",
+      "debut": 58,
+      "fin": 71,
+      "citation": "Deux quarter paint, s'il vous plaît. Quo combo. Un combo s'il te plaît. Jamais de la vie, je vais chier là.",
+      "propre": "Deux quarter pounds, s'il vous plaît. Quoi, combo ? Un combo s'il te plaît. Jamais de la vie, je vais chier là.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "commande de fast-food absurde enchaînée sur la blague des toilettes"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=56"
+    },
+    {
+      "type": "VILLE",
+      "debut": 163,
+      "fin": 173,
+      "citation": "Aujourd'hui, j'ai regardé sur GPS, il nous reste 7h30 de route pour Québec. Si on part maintenant en pleine balle et qu'on s'arrête pas",
+      "propre": "Aujourd'hui, j'ai regardé sur GPS, il nous reste 7h30 de route pour Québec. Si on part maintenant en pleine balle et qu'on ne s'arrête pas",
+      "qui": "Djilsi",
+      "confiance": 0.8,
+      "detail": {
+        "ville": "Québec",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=161"
+    },
+    {
+      "type": "SPONSOR",
+      "debut": 247,
+      "fin": 255,
+      "citation": "pouvoir acheter plein de souvenirs et c'est trop cool parce que en plus sur cet épisode, c'est Vinted qui nous accompagne. Merci beaucoup Vinted, c'est la famille à mort, vous les connaissez.",
+      "propre": "pouvoir acheter plein de souvenirs et c'est trop cool parce qu'en plus sur cet épisode, c'est Vinted qui nous accompagne. Merci beaucoup Vinted, c'est la famille à mort, vous les connaissez.",
+      "qui": "Djilsi",
+      "confiance": 0.85,
+      "detail": {
+        "marque": "Vinted"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=245"
+    },
+    {
+      "type": "VILLE",
+      "debut": 255,
+      "fin": 265,
+      "citation": "qu'on se régale pendant le voyage sans vous régaler vous, que ce soit à Québec, à Montréal, à Otawa,",
+      "propre": "qu'on se régale pendant le voyage sans vous régaler vous, que ce soit à Québec, à Montréal, à Ottawa,",
+      "qui": "Djilsi",
+      "confiance": 0.6,
+      "detail": {
+        "ville": "Montréal",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=253"
+    },
+    {
+      "type": "VILLE",
+      "debut": 255,
+      "fin": 265,
+      "citation": "qu'on se régale pendant le voyage sans vous régaler vous, que ce soit à Québec, à Montréal, à Otawa,",
+      "propre": "qu'on se régale pendant le voyage sans vous régaler vous, que ce soit à Québec, à Montréal, à Ottawa,",
+      "qui": "Djilsi",
+      "confiance": 0.6,
+      "detail": {
+        "ville": "Ottawa",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=253"
+    },
+    {
+      "type": "VILLE",
+      "debut": 411,
+      "fin": 420,
+      "citation": "et plus on avance plus les demandes respecte pas le projet. Oui de ouf. Ah oui va. Prenez-moi le billet retour pour Paris.",
+      "propre": "et plus on avance, plus les demandes respectent pas le projet. Oui, de ouf. Ah oui, va. Prenez-moi le billet retour pour Paris.",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "ville": "Paris",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=409"
+    },
+    {
+      "type": "CITATION",
+      "debut": 383,
+      "fin": 393,
+      "citation": "Ah ! OK, il est quoi ? 1250, c'est l'heure de I Wish by. I wish by.",
+      "propre": "Ah ! OK, il est quoi ? 12h50, c'est l'heure de I Wish Boy. I Wish Boy.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "lancement de la chronique récurrente I Wish Boy"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=381"
+    },
+    {
+      "type": "CITATION",
+      "debut": 429,
+      "fin": 438,
+      "citation": "J'ai fait un gros gros gros gros coup de sang hier sur Théo quand il a volé mes chaussures. Je te jure la tête de ma mère, je vais te mettre une patate.",
+      "propre": "J'ai fait un gros, gros, gros, gros coup de sang hier sur Théo quand il a volé mes chaussures. Je te jure, la tête de ma mère, je vais te mettre une patate.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "récit d'un clash pendant le précédent team building, ton exagérément dramatique"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=427"
+    },
+    {
+      "type": "CITATION",
+      "debut": 535,
+      "fin": 544,
+      "citation": "Manas, qu'est-ce que tu as fait de mal hier ? Le PQ dans la forêt, je sais pas quand il y a des exemples",
+      "propre": "Manas, qu'est-ce que tu as fait de mal hier ? Le PQ dans la forêt, je sais pas, quand il y a des exemples",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "introduction comique du mea culpa de Manas sur le papier toilette laissé dans la forêt"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=533"
+    },
+    {
+      "type": "CITATION",
+      "debut": 570,
+      "fin": 579,
+      "citation": "J'ai cru que j'étais sur un vrai chiotte. Sur ça que je m'excuse, je le ferai plus.",
+      "propre": "J'ai cru que j'étais sur un vrai chiotte. Sur ça, je m'excuse, je le ferai plus.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "confession absurde sur les toilettes de camping mal utilisées"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=568"
+    },
+    {
+      "type": "CITATION",
+      "debut": 758,
+      "fin": 766,
+      "citation": "Ah je me kiffe les mecs. ça fait plaisir. Ah vous me kiffe à mort les gars. Les gars on va manger à Miramichi. Ça vous va ?",
+      "propre": "Ah, je me kiffe les mecs, ça fait plaisir. Ah, vous me kiffez à mort les gars. Les gars, on va manger à Miramichi. Ça vous va ?",
+      "qui": "Djilsi",
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "transition euphorique vers la pause resto"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=756"
+    },
+    {
+      "type": "CITATION",
+      "debut": 812,
+      "fin": 820,
+      "citation": "Je sais pas quoi manger. J'arrive pas à lire. C'est vrai ce qu'on disait tout à l'heure, j'arrive pas à lire.",
+      "propre": "Je sais pas quoi manger, j'arrive pas à lire. C'est vrai, ce qu'on disait tout à l'heure, j'arrive pas à lire.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "gag sur la fatigue au moment de commander"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=810"
+    },
+    {
+      "type": "CITATION",
+      "debut": 909,
+      "fin": 918,
+      "citation": "Manas ressemble à un petit koala et je capte et je capte à mort.",
+      "propre": "Manas ressemble à un petit koala et je capte, et je capte à mort.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "pourquoi": "jeu des animaux, comparaison de Manas à un koala"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=907"
+    },
+    {
+      "type": "CITATION",
+      "debut": 927,
+      "fin": 937,
+      "citation": "Vois par an et c'est vraiment un tourbillon d'anus. Un tourbillon d'anus. C'est faxime.",
+      "propre": "Vu par an, c'est vraiment un tourbillon d'anus. Un tourbillon d'anus. C'est Maxime.",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "pourquoi": "surnom absurde donné à Maxime pendant le jeu des animaux"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=925"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 962,
+      "fin": 974,
+      "citation": "Mais tu vois quand fait comme ça pr une loine. Tu ressembles à la mère de Simba. La mère de Simba à une lionne en fait.",
+      "propre": "Mais tu vois, quand tu fais comme ça pour une lionne. Tu ressembles à la mère de Simba. La mère de Simba, une lionne en fait.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "reference": "Le Roi Lion (Simba)",
+        "type": "film"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=960"
+    },
+    {
+      "type": "DRONE",
+      "debut": 1345,
+      "fin": 1354,
+      "citation": "Le drone est dans un arbre là. quelque part dans un arbre et en vrai on a juste à trouver l'arbre.",
+      "propre": "Le drone est dans un arbre là, quelque part dans un arbre, et en vrai on a juste à trouver l'arbre.",
+      "qui": null,
+      "confiance": 0.8,
+      "detail": {
+        "sort": "coincé dans un arbre après un crash, l'équipe part à sa recherche"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=1343"
+    },
+    {
+      "type": "DRONE",
+      "debut": 1463,
+      "fin": 1472,
+      "citation": "Oui oui. J'ai jamais pas craché un drone de ma vie. Let's go bien joué.",
+      "propre": "Oui, oui. Je n'ai jamais crashé un drone de ma vie. Let's go, bien joué.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "sort": "récupéré avec succès à l'aide d'un bâton après être resté coincé dans l'arbre"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=1461"
+    },
+    {
+      "type": "OBJET",
+      "debut": 1238,
+      "fin": 1248,
+      "citation": "Max il va adorer ce bâton ben je le ramène tiens tout me dégoûte ce qu'il y a dessus",
+      "propre": "Max, il va adorer ce bâton, ben je le ramène. Tiens, tout me dégoûte, ce qu'il y a dessus.",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "objet": "bâton trouvé en forêt",
+        "sort": "retrouve"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=1236"
+    },
+    {
+      "type": "OBJET",
+      "debut": 1724,
+      "fin": 1735,
+      "citation": "Il y a dans le lavabo des pantoufles. Tu as tout retourné nique sa mère. Tu as tout le camping.",
+      "propre": "Il y a dans le lavabo des pantoufles. Tu as tout retourné, nique sa mère. Tu as retourné tout le camping.",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "objet": "pantoufles",
+        "sort": "retrouve"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=1722"
+    },
+    {
+      "type": "GALERE",
+      "debut": 1826,
+      "fin": 1835,
+      "citation": "pas d'ace. Il a pas un truc derrière lui qui est tombé, un truc qui bloque et qui a décalé le truc. Il y a forcément un truc en fait.",
+      "propre": "pas d'accès. Il y a un truc derrière qui est tombé, un truc qui bloque et qui a décalé le mécanisme. Il y a forcément un truc en fait.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "quoi": "un mécanisme du camping-car (tiroir/lit escamotable) se bloque et ne veut plus se refermer"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=1824"
+    },
+    {
+      "type": "VILLE",
+      "debut": 1885,
+      "fin": 1894,
+      "citation": "Ah j'ai merdé. On pourra jamais aller à Québec. Onira jamais dans cette disait on ne",
+      "propre": "Ah, j'ai merdé. On pourra jamais aller à Québec. On n'ira jamais, on ne",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "ville": "Québec",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=1883"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 1808,
+      "fin": 1817,
+      "citation": "C'est c'est les la boutique des trois balets d' Harry Potter un peu. Oui mais arrête de tout remettre Harry Potter.",
+      "propre": "C'est, c'est la boutique des trois balais d'Harry Potter un peu. Oui, mais arrête de tout ramener à Harry Potter.",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "reference": "Harry Potter",
+        "type": "film"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=1806"
+    },
+    {
+      "type": "OBJET",
+      "debut": 2067,
+      "fin": 2077,
+      "citation": "3 2 1 E. Stop. Stop. La télé. La télé. Non non non non non. C'est pas possible.",
+      "propre": "3, 2, 1, et... Stop ! Stop ! La télé ! La télé ! Non, non, non, non, non. C'est pas possible.",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "objet": "télé du camping-car",
+        "sort": "casse"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2065"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 2234,
+      "fin": 2245,
+      "citation": "Il manque le plombier. Les deux prénoms plombier 1 et plombier 2. Mario Luigi.",
+      "propre": "Il manque le plombier. Les deux prénoms : plombier 1 et plombier 2, Mario et Luigi.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "reference": "Mario et Luigi (Super Mario)",
+        "type": "autre"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2232"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2299,
+      "fin": 2308,
+      "citation": "Oh, ça me dégoûte à mort. Mais c'est quand tout Oh non, ça me dégage. Ma faute encore.",
+      "propre": "Oh, ça me dégoûte à mort. Mais c'est... Oh non, ça me dégoûte. Ma faute encore.",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "pourquoi": "réaction exagérée après une nouvelle mésaventure attribuée à sa faute"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2297"
+    },
+    {
+      "type": "GALERE",
+      "debut": 2273,
+      "fin": 2281,
+      "citation": "Quelqu'un a laissé ouvert dans la salle de bain le robinet. On a plus d'eau dans le camping-car.",
+      "propre": "Quelqu'un a laissé ouvert le robinet dans la salle de bain. On n'a plus d'eau dans le camping-car.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "quoi": "le robinet de la salle de bain est resté ouvert, vidant toute la réserve d'eau du camping-car"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2271"
+    },
+    {
+      "type": "GALERE",
+      "debut": 2373,
+      "fin": 2384,
+      "citation": "c'est ce qui est sûr c'est que la cuve est remplie. La cuve est remplie. La cuve ça déborde.",
+      "propre": "Ce qui est sûr, c'est que la cuve est remplie. La cuve est remplie. La cuve, ça déborde.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "quoi": "la cuve des eaux usées est pleine et commence à déborder"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2371"
+    },
+    {
+      "type": "GALERE",
+      "debut": 2393,
+      "fin": 2401,
+      "citation": "Le bac d'eau est rempli. Donc là c'est bouché. Et donc quand on va rouler, l'eau va s'écouler dans le camping.",
+      "propre": "Le bac d'eau est rempli, donc là c'est bouché. Et donc, quand on va rouler, l'eau va s'écouler dans le camping-car.",
+      "qui": null,
+      "confiance": 0.7,
+      "detail": {
+        "quoi": "le bac de douche est plein et bouché, l'eau risque de se répandre dans le camping-car pendant la route"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2391"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2544,
+      "fin": 2553,
+      "citation": "Tu es en train de débaucher Manass sous mes yeux. Si tu veux un CDI, je peux t'offrir ça quand tu veux.",
+      "propre": "Tu es en train de débaucher Manas sous mes yeux. Si tu veux un CDI, je peux t'offrir ça quand tu veux.",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "pourquoi": "blague sur une tentative de débauchage de Manas en pleine scène tendre"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2542"
+    },
+    {
+      "type": "VILLE",
+      "debut": 2636,
+      "fin": 2644,
+      "citation": "Il est 3h13. On pensait ne jamais arriver à Québec ? On est à Québec déjà. Ça c'est dingue.",
+      "propre": "Il est 3h13. On pensait ne jamais arriver à Québec ? On est à Québec déjà. Ça, c'est dingue.",
+      "qui": null,
+      "confiance": 0.85,
+      "detail": {
+        "ville": "Québec",
+        "action": "arrivee"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2634"
+    },
+    {
+      "type": "OBJET",
+      "debut": 2662,
+      "fin": 2671,
+      "citation": "On a plus d'eau. Le bac à douche il est il déborde. La télé est cassée. Oui ça va.",
+      "propre": "On n'a plus d'eau. Le bac à douche, il déborde. La télé est cassée. Oui, ça va.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "objet": "télé du camping-car",
+        "sort": "casse"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2660"
+    },
+    {
+      "type": "VILLE",
+      "debut": 2847,
+      "fin": 2855,
+      "citation": "on se la kiffe. Une petite partie de la journée parce que on a pris un retard monstre finalement et après on enchaîne à Montéal.",
+      "propre": "on se la kiffe. Une petite partie de la journée, parce qu'on a pris un retard monstre finalement, et après on enchaîne à Montréal.",
+      "qui": "Djilsi",
+      "confiance": 0.65,
+      "detail": {
+        "ville": "Montréal",
+        "action": "mention"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2845"
+    }
+  ],
+  "rejets": [
+    {
+      "type": "CITATION",
+      "debut": 2225,
+      "fin": 2234,
+      "citation": "Force, c'est qu'on arrive à Québec un moment. C'est pas c'est pas bien. Il va se passer quelque chose frérot.",
+      "propre": "Forcément, on va arriver à Québec à un moment. C'est pas bon signe. Il va se passer quelque chose, frérot.",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "pourquoi": "running gag sur une malédiction paranormale qui empêcherait le groupe d'arriver à Québec"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2223",
+      "rejet": "citation introuvable dans le transcript"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2767,
+      "fin": 2775,
+      "citation": "Je vais chier dans le FUT. C'est ça que tu t'es dit. tu as de la chance que j'ai pas un klaxon sur moi.",
+      "propre": "Je vais chier dans le FUT, c'est ça que tu t'es dit. Tu as de la chance que je n'aie pas un klaxon sur moi.",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "pourquoi": "vanne nocturne sur le parking, dans un moment de fatigue générale"
+      },
+      "lien": "https://youtu.be/LFJkky0MAnA?t=2765",
+      "rejet": "citation introuvable dans le transcript"
+    }
+  ],
+  "coutUSD": 0.7269784
+}

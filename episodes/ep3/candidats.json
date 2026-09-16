@@ -1,0 +1,4029 @@
+{
+  "ep": 3,
+  "fenetreS": 30,
+  "courbeRire": [
+    {
+      "t": 0,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 30,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 60,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 90,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 120,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 150,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 180,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 210,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 240,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 270,
+      "rires": 0,
+      "cris": 1
+    },
+    {
+      "t": 300,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 330,
+      "rires": 0,
+      "cris": 1
+    },
+    {
+      "t": 360,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 390,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 420,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 450,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 480,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 510,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 540,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 570,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 600,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 630,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 660,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 690,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 720,
+      "rires": 0,
+      "cris": 1
+    },
+    {
+      "t": 750,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 780,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 810,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 840,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 870,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 900,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 930,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 960,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 990,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1020,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1050,
+      "rires": 0,
+      "cris": 1
+    },
+    {
+      "t": 1080,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1110,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1140,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1170,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1200,
+      "rires": 0,
+      "cris": 1
+    },
+    {
+      "t": 1230,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1260,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 1290,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1320,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1350,
+      "rires": 3,
+      "cris": 1
+    },
+    {
+      "t": 1380,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 1410,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1440,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1470,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1500,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1530,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1560,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1590,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1620,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1650,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1680,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 1710,
+      "rires": 4,
+      "cris": 0
+    },
+    {
+      "t": 1740,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 1770,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 1800,
+      "rires": 4,
+      "cris": 0
+    },
+    {
+      "t": 1830,
+      "rires": 3,
+      "cris": 0
+    },
+    {
+      "t": 1860,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 1890,
+      "rires": 4,
+      "cris": 0
+    },
+    {
+      "t": 1920,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 1950,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 1980,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2010,
+      "rires": 0,
+      "cris": 1
+    },
+    {
+      "t": 2040,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2070,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2100,
+      "rires": 0,
+      "cris": 2
+    },
+    {
+      "t": 2130,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2160,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2190,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2220,
+      "rires": 0,
+      "cris": 1
+    },
+    {
+      "t": 2250,
+      "rires": 0,
+      "cris": 1
+    },
+    {
+      "t": 2280,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2310,
+      "rires": 0,
+      "cris": 3
+    },
+    {
+      "t": 2340,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 2370,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2400,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2430,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 2460,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 2490,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2520,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 2550,
+      "rires": 4,
+      "cris": 0
+    },
+    {
+      "t": 2580,
+      "rires": 0,
+      "cris": 0
+    },
+    {
+      "t": 2610,
+      "rires": 2,
+      "cris": 0
+    },
+    {
+      "t": 2640,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 2670,
+      "rires": 1,
+      "cris": 0
+    },
+    {
+      "t": 2700,
+      "rires": 0,
+      "cris": 0
+    }
+  ],
+  "pics": [
+    {
+      "t": 1710,
+      "rires": 4,
+      "cris": 0,
+      "score": 8
+    },
+    {
+      "t": 1800,
+      "rires": 4,
+      "cris": 0,
+      "score": 8
+    },
+    {
+      "t": 1890,
+      "rires": 4,
+      "cris": 0,
+      "score": 8
+    },
+    {
+      "t": 2550,
+      "rires": 4,
+      "cris": 0,
+      "score": 8
+    },
+    {
+      "t": 1350,
+      "rires": 3,
+      "cris": 1,
+      "score": 7
+    },
+    {
+      "t": 840,
+      "rires": 2,
+      "cris": 0,
+      "score": 4
+    },
+    {
+      "t": 1260,
+      "rires": 2,
+      "cris": 0,
+      "score": 4
+    },
+    {
+      "t": 2340,
+      "rires": 2,
+      "cris": 0,
+      "score": 4
+    },
+    {
+      "t": 2430,
+      "rires": 2,
+      "cris": 0,
+      "score": 4
+    },
+    {
+      "t": 2610,
+      "rires": 2,
+      "cris": 0,
+      "score": 4
+    }
+  ],
+  "lexique": [
+    {
+      "t": 76.4,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "Voilà. Et là, c'est sûr il est mort."
+    },
+    {
+      "t": 320.48,
+      "famille": "presentation",
+      "terme": "c'est lui",
+      "texte": "vi dire que c'est lui hein."
+    },
+    {
+      "t": 344.64,
+      "famille": "presentation",
+      "terme": "c'est lui",
+      "texte": "c'est lui à mor"
+    },
+    {
+      "t": 348.84,
+      "famille": "presentation",
+      "terme": "c'est lui",
+      "texte": "mais oui, c'est lui. Regarde, je je peux"
+    },
+    {
+      "t": 431.56,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "il a laissé traîner à mort comme ça."
+    },
+    {
+      "t": 491.56,
+      "famille": "presentation",
+      "terme": "c'est lui",
+      "texte": "non moi c'est lui."
+    },
+    {
+      "t": 492.8,
+      "famille": "presentation",
+      "terme": "c'est lui",
+      "texte": "Ah c'est lui."
+    },
+    {
+      "t": 574.64,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "toi tu es sportif à mort."
+    },
+    {
+      "t": 613.92,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "dedans à mort. à chaque fois. Le vrai"
+    },
+    {
+      "t": 627.4,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "sensible à mort, franchement je vous le"
+    },
+    {
+      "t": 850.28,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "On fait un petit retri au Québec."
+    },
+    {
+      "t": 857.48,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "Québec Québec, toi tu es canadien. Moi"
+    },
+    {
+      "t": 901.76,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "le Québec libre"
+    },
+    {
+      "t": 994.72,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "on est on est à Québec dans la région"
+    },
+    {
+      "t": 997.56,
+      "famille": "ville",
+      "terme": "québec",
+      "texte": "québec avec la Québec mobilent"
+    },
+    {
+      "t": 1008.28,
+      "famille": "choc",
+      "terme": "rétro",
+      "texte": "confiance. J'ai pas de rétro he."
+    },
+    {
+      "t": 1081.4,
+      "famille": "choc",
+      "terme": "casse",
+      "texte": "on a dit casse-toi. On a dit casse-toi."
+    },
+    {
+      "t": 1105.72,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "sert à rien. Vous êtes mort dans 3h30 4h"
+    },
+    {
+      "t": 1108.4,
+      "famille": "ville",
+      "terme": "Montréal",
+      "texte": "max. Faut qu'on soit à Montréal."
+    },
+    {
+      "t": 1110.48,
+      "famille": "choc",
+      "terme": "casse",
+      "texte": "Donc on se casse"
+    },
+    {
+      "t": 1111.72,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "et on aura pas vu Québec."
+    },
+    {
+      "t": 1113.72,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "qu'on à Québec parce qu'on peut pas"
+    },
+    {
+      "t": 1114.52,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "rouler à Québec."
+    },
+    {
+      "t": 1158.44,
+      "famille": "choc",
+      "terme": "carrosserie",
+      "texte": "notion de carrosserie et qui est"
+    },
+    {
+      "t": 1181.24,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "c'est pas très grave. Québec, Canada,"
+    },
+    {
+      "t": 1182.8,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "Québec, Canada, Québec, Canada, Québec,"
+    },
+    {
+      "t": 1191.28,
+      "famille": "ville",
+      "terme": "Montréal",
+      "texte": "Montréal tout de suite. Mais là à"
+    },
+    {
+      "t": 1192.12,
+      "famille": "ville",
+      "terme": "Montréal",
+      "texte": "Montréal ce soir quelque chose de très"
+    },
+    {
+      "t": 1193.92,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "Vous avez kiffé Québec ? Bah fil un peu"
+    },
+    {
+      "t": 1205.72,
+      "famille": "ville",
+      "terme": "Montréal",
+      "texte": "Allez on sur Montréal."
+    },
+    {
+      "t": 1317.8,
+      "famille": "galere",
+      "terme": "essence",
+      "texte": "ça va pas le faire niveau essence."
+    },
+    {
+      "t": 1430.88,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "C'est mort."
+    },
+    {
+      "t": 1508.4,
+      "famille": "presentation",
+      "terme": "je vous présente",
+      "texte": "frérot. Bam, je vous présente Harpin"
+    },
+    {
+      "t": 1510.08,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "l'Épine. Au Québec, ici c'est une resta"
+    },
+    {
+      "t": 1524.36,
+      "famille": "ville",
+      "terme": "Québec",
+      "texte": "aimé Québec Canada pour l'instant."
+    },
+    {
+      "t": 1634.36,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "regardent et tout j'ai honte à mort."
+    },
+    {
+      "t": 1708.08,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "honte. C'est la honte à mort. C'est la"
+    },
+    {
+      "t": 1709.48,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "honte à mort hon"
+    },
+    {
+      "t": 1727.44,
+      "famille": "choc",
+      "terme": "choc",
+      "texte": "Ton regard quand tu as senti le choc. Ah"
+    },
+    {
+      "t": 1795.12,
+      "famille": "objet",
+      "terme": "perdu",
+      "texte": "On vous a perdu rapidement en 2"
+    },
+    {
+      "t": 1795.12,
+      "famille": "galere",
+      "terme": "perdu",
+      "texte": "On vous a perdu rapidement en 2"
+    },
+    {
+      "t": 1893.52,
+      "famille": "objet",
+      "terme": "Mort",
+      "texte": "Mort"
+    },
+    {
+      "t": 1894.2,
+      "famille": "presentation",
+      "terme": "c'est lui",
+      "texte": "c'est lui qui a qui a arrêté le"
+    },
+    {
+      "t": 1961.56,
+      "famille": "objet",
+      "terme": "mort",
+      "texte": "c'est chimique à mort."
+    },
+    {
+      "t": 2000.8,
+      "famille": "presentation",
+      "terme": "c'est lui",
+      "texte": "est comme ça. Et s'il faut, c'est lui."
+    },
+    {
+      "t": 2013.04,
+      "famille": "galere",
+      "terme": "batterie",
+      "texte": "la batterie c'est une planche de bois,"
+    },
+    {
+      "t": 2342.92,
+      "famille": "choc",
+      "terme": "casse",
+      "texte": "payer nos dettes. OK. Moi je me casse."
+    },
+    {
+      "t": 2392.68,
+      "famille": "choc",
+      "terme": "casse",
+      "texte": "Écoute, ne casse pas les couilles s'il"
+    },
+    {
+      "t": 2583.2,
+      "famille": "objet",
+      "terme": "perdu",
+      "texte": "que ça rigole, tu as perdu n'importe"
+    },
+    {
+      "t": 2583.2,
+      "famille": "galere",
+      "terme": "perdu",
+      "texte": "que ça rigole, tu as perdu n'importe"
+    }
+  ],
+  "plans": [
+    {
+      "debut": 0,
+      "fin": 22.12
+    },
+    {
+      "debut": 22.12,
+      "fin": 23.36
+    },
+    {
+      "debut": 23.36,
+      "fin": 25.28
+    },
+    {
+      "debut": 25.28,
+      "fin": 26.72
+    },
+    {
+      "debut": 26.72,
+      "fin": 28.24
+    },
+    {
+      "debut": 28.24,
+      "fin": 29.68
+    },
+    {
+      "debut": 29.68,
+      "fin": 32.08
+    },
+    {
+      "debut": 32.08,
+      "fin": 33.88
+    },
+    {
+      "debut": 33.88,
+      "fin": 35.92
+    },
+    {
+      "debut": 35.92,
+      "fin": 37.52
+    },
+    {
+      "debut": 37.52,
+      "fin": 40.24
+    },
+    {
+      "debut": 40.24,
+      "fin": 41.12
+    },
+    {
+      "debut": 41.12,
+      "fin": 43.36
+    },
+    {
+      "debut": 43.36,
+      "fin": 50
+    },
+    {
+      "debut": 50,
+      "fin": 51.8
+    },
+    {
+      "debut": 51.8,
+      "fin": 53.32
+    },
+    {
+      "debut": 53.32,
+      "fin": 54.2
+    },
+    {
+      "debut": 54.2,
+      "fin": 55.08
+    },
+    {
+      "debut": 55.08,
+      "fin": 57.2
+    },
+    {
+      "debut": 57.2,
+      "fin": 59.4
+    },
+    {
+      "debut": 59.4,
+      "fin": 63.64
+    },
+    {
+      "debut": 63.64,
+      "fin": 68
+    },
+    {
+      "debut": 68,
+      "fin": 72.52
+    },
+    {
+      "debut": 72.52,
+      "fin": 75.4
+    },
+    {
+      "debut": 75.4,
+      "fin": 77.4
+    },
+    {
+      "debut": 77.4,
+      "fin": 79.72
+    },
+    {
+      "debut": 79.72,
+      "fin": 83.52
+    },
+    {
+      "debut": 83.52,
+      "fin": 85.2
+    },
+    {
+      "debut": 85.2,
+      "fin": 86.52
+    },
+    {
+      "debut": 86.52,
+      "fin": 90.84
+    },
+    {
+      "debut": 90.84,
+      "fin": 93.08
+    },
+    {
+      "debut": 93.08,
+      "fin": 93.88
+    },
+    {
+      "debut": 93.88,
+      "fin": 97.36
+    },
+    {
+      "debut": 97.36,
+      "fin": 105
+    },
+    {
+      "debut": 105,
+      "fin": 105.64
+    },
+    {
+      "debut": 105.64,
+      "fin": 108.28
+    },
+    {
+      "debut": 108.28,
+      "fin": 109
+    },
+    {
+      "debut": 109,
+      "fin": 110.56
+    },
+    {
+      "debut": 110.56,
+      "fin": 114.96
+    },
+    {
+      "debut": 114.96,
+      "fin": 118.12
+    },
+    {
+      "debut": 118.12,
+      "fin": 120.32
+    },
+    {
+      "debut": 120.32,
+      "fin": 122.36
+    },
+    {
+      "debut": 122.36,
+      "fin": 124.56
+    },
+    {
+      "debut": 124.56,
+      "fin": 126.64
+    },
+    {
+      "debut": 126.64,
+      "fin": 132.4
+    },
+    {
+      "debut": 132.4,
+      "fin": 133.76
+    },
+    {
+      "debut": 133.76,
+      "fin": 136.08
+    },
+    {
+      "debut": 136.08,
+      "fin": 138.32
+    },
+    {
+      "debut": 138.32,
+      "fin": 140.92
+    },
+    {
+      "debut": 140.92,
+      "fin": 143.68
+    },
+    {
+      "debut": 143.68,
+      "fin": 144.8
+    },
+    {
+      "debut": 144.8,
+      "fin": 146.52
+    },
+    {
+      "debut": 146.52,
+      "fin": 148.32
+    },
+    {
+      "debut": 148.32,
+      "fin": 151.64
+    },
+    {
+      "debut": 151.64,
+      "fin": 156.44
+    },
+    {
+      "debut": 156.44,
+      "fin": 164.28
+    },
+    {
+      "debut": 164.28,
+      "fin": 168.28
+    },
+    {
+      "debut": 168.28,
+      "fin": 169.48
+    },
+    {
+      "debut": 169.48,
+      "fin": 171.92
+    },
+    {
+      "debut": 171.92,
+      "fin": 173.8
+    },
+    {
+      "debut": 173.8,
+      "fin": 174.96
+    },
+    {
+      "debut": 174.96,
+      "fin": 177.88
+    },
+    {
+      "debut": 177.88,
+      "fin": 179.08
+    },
+    {
+      "debut": 179.08,
+      "fin": 182.28
+    },
+    {
+      "debut": 182.28,
+      "fin": 183.88
+    },
+    {
+      "debut": 183.88,
+      "fin": 189.04
+    },
+    {
+      "debut": 189.04,
+      "fin": 190
+    },
+    {
+      "debut": 190,
+      "fin": 191.28
+    },
+    {
+      "debut": 191.28,
+      "fin": 197.36
+    },
+    {
+      "debut": 197.36,
+      "fin": 198.76
+    },
+    {
+      "debut": 198.76,
+      "fin": 199.88
+    },
+    {
+      "debut": 199.88,
+      "fin": 200.92
+    },
+    {
+      "debut": 200.92,
+      "fin": 202.52
+    },
+    {
+      "debut": 202.52,
+      "fin": 204.76
+    },
+    {
+      "debut": 204.76,
+      "fin": 206.32
+    },
+    {
+      "debut": 206.32,
+      "fin": 210.28
+    },
+    {
+      "debut": 210.28,
+      "fin": 214
+    },
+    {
+      "debut": 214,
+      "fin": 215.24
+    },
+    {
+      "debut": 215.24,
+      "fin": 218.88
+    },
+    {
+      "debut": 218.88,
+      "fin": 220.6
+    },
+    {
+      "debut": 220.6,
+      "fin": 221.36
+    },
+    {
+      "debut": 221.36,
+      "fin": 231.36
+    },
+    {
+      "debut": 231.36,
+      "fin": 234.2
+    },
+    {
+      "debut": 234.2,
+      "fin": 236.64
+    },
+    {
+      "debut": 236.64,
+      "fin": 238.24
+    },
+    {
+      "debut": 238.24,
+      "fin": 240.88
+    },
+    {
+      "debut": 240.88,
+      "fin": 243.28
+    },
+    {
+      "debut": 243.28,
+      "fin": 244.12
+    },
+    {
+      "debut": 244.12,
+      "fin": 246
+    },
+    {
+      "debut": 246,
+      "fin": 247.48
+    },
+    {
+      "debut": 247.48,
+      "fin": 248.96
+    },
+    {
+      "debut": 248.96,
+      "fin": 253.68
+    },
+    {
+      "debut": 253.68,
+      "fin": 255.36
+    },
+    {
+      "debut": 255.36,
+      "fin": 256.72
+    },
+    {
+      "debut": 256.72,
+      "fin": 260.16
+    },
+    {
+      "debut": 260.16,
+      "fin": 263.72
+    },
+    {
+      "debut": 263.72,
+      "fin": 268.16
+    },
+    {
+      "debut": 268.16,
+      "fin": 277.6
+    },
+    {
+      "debut": 277.6,
+      "fin": 279.24
+    },
+    {
+      "debut": 279.24,
+      "fin": 282.2
+    },
+    {
+      "debut": 282.2,
+      "fin": 283.24
+    },
+    {
+      "debut": 283.24,
+      "fin": 291
+    },
+    {
+      "debut": 291,
+      "fin": 293.08
+    },
+    {
+      "debut": 293.08,
+      "fin": 294.96
+    },
+    {
+      "debut": 294.96,
+      "fin": 296.8
+    },
+    {
+      "debut": 296.8,
+      "fin": 301.96
+    },
+    {
+      "debut": 301.96,
+      "fin": 304.6
+    },
+    {
+      "debut": 304.6,
+      "fin": 306.76
+    },
+    {
+      "debut": 306.76,
+      "fin": 308.2
+    },
+    {
+      "debut": 308.2,
+      "fin": 309.64
+    },
+    {
+      "debut": 309.64,
+      "fin": 310.52
+    },
+    {
+      "debut": 310.52,
+      "fin": 312.56
+    },
+    {
+      "debut": 312.56,
+      "fin": 313.56
+    },
+    {
+      "debut": 313.56,
+      "fin": 315.68
+    },
+    {
+      "debut": 315.68,
+      "fin": 318.48
+    },
+    {
+      "debut": 318.48,
+      "fin": 321.08
+    },
+    {
+      "debut": 321.08,
+      "fin": 325.96
+    },
+    {
+      "debut": 325.96,
+      "fin": 328.24
+    },
+    {
+      "debut": 328.24,
+      "fin": 330.16
+    },
+    {
+      "debut": 330.16,
+      "fin": 331.48
+    },
+    {
+      "debut": 331.48,
+      "fin": 332.92
+    },
+    {
+      "debut": 332.92,
+      "fin": 341.04
+    },
+    {
+      "debut": 341.04,
+      "fin": 343.28
+    },
+    {
+      "debut": 343.28,
+      "fin": 345.84
+    },
+    {
+      "debut": 345.84,
+      "fin": 353
+    },
+    {
+      "debut": 353,
+      "fin": 354.8
+    },
+    {
+      "debut": 354.8,
+      "fin": 357.36
+    },
+    {
+      "debut": 357.36,
+      "fin": 360.24
+    },
+    {
+      "debut": 360.24,
+      "fin": 362.6
+    },
+    {
+      "debut": 362.6,
+      "fin": 364.48
+    },
+    {
+      "debut": 364.48,
+      "fin": 365.88
+    },
+    {
+      "debut": 365.88,
+      "fin": 367.04
+    },
+    {
+      "debut": 367.04,
+      "fin": 368.88
+    },
+    {
+      "debut": 368.88,
+      "fin": 392.16
+    },
+    {
+      "debut": 392.16,
+      "fin": 407.88
+    },
+    {
+      "debut": 407.88,
+      "fin": 410.12
+    },
+    {
+      "debut": 410.12,
+      "fin": 414.2
+    },
+    {
+      "debut": 414.2,
+      "fin": 418.4
+    },
+    {
+      "debut": 418.4,
+      "fin": 433.36
+    },
+    {
+      "debut": 433.36,
+      "fin": 434.84
+    },
+    {
+      "debut": 434.84,
+      "fin": 436.28
+    },
+    {
+      "debut": 436.28,
+      "fin": 440.08
+    },
+    {
+      "debut": 440.08,
+      "fin": 452.52
+    },
+    {
+      "debut": 452.52,
+      "fin": 453.96
+    },
+    {
+      "debut": 453.96,
+      "fin": 459.6
+    },
+    {
+      "debut": 459.6,
+      "fin": 460.36
+    },
+    {
+      "debut": 460.36,
+      "fin": 462.08
+    },
+    {
+      "debut": 462.08,
+      "fin": 463.04
+    },
+    {
+      "debut": 463.04,
+      "fin": 464.88
+    },
+    {
+      "debut": 464.88,
+      "fin": 482
+    },
+    {
+      "debut": 482,
+      "fin": 486.44
+    },
+    {
+      "debut": 486.44,
+      "fin": 489.16
+    },
+    {
+      "debut": 489.16,
+      "fin": 495
+    },
+    {
+      "debut": 495,
+      "fin": 497.2
+    },
+    {
+      "debut": 497.2,
+      "fin": 499.04
+    },
+    {
+      "debut": 499.04,
+      "fin": 519.92
+    },
+    {
+      "debut": 519.92,
+      "fin": 527.76
+    },
+    {
+      "debut": 527.76,
+      "fin": 537.56
+    },
+    {
+      "debut": 537.56,
+      "fin": 540.64
+    },
+    {
+      "debut": 540.64,
+      "fin": 547.44
+    },
+    {
+      "debut": 547.44,
+      "fin": 550.64
+    },
+    {
+      "debut": 550.64,
+      "fin": 552.16
+    },
+    {
+      "debut": 552.16,
+      "fin": 555.96
+    },
+    {
+      "debut": 555.96,
+      "fin": 563.16
+    },
+    {
+      "debut": 563.16,
+      "fin": 566.08
+    },
+    {
+      "debut": 566.08,
+      "fin": 570.8
+    },
+    {
+      "debut": 570.8,
+      "fin": 571.96
+    },
+    {
+      "debut": 571.96,
+      "fin": 573.72
+    },
+    {
+      "debut": 573.72,
+      "fin": 578.84
+    },
+    {
+      "debut": 578.84,
+      "fin": 581.64
+    },
+    {
+      "debut": 581.64,
+      "fin": 584.08
+    },
+    {
+      "debut": 584.08,
+      "fin": 585.16
+    },
+    {
+      "debut": 585.16,
+      "fin": 587
+    },
+    {
+      "debut": 587,
+      "fin": 589.52
+    },
+    {
+      "debut": 589.52,
+      "fin": 591.4
+    },
+    {
+      "debut": 591.4,
+      "fin": 592.28
+    },
+    {
+      "debut": 592.28,
+      "fin": 593
+    },
+    {
+      "debut": 593,
+      "fin": 597.56
+    },
+    {
+      "debut": 597.56,
+      "fin": 601.72
+    },
+    {
+      "debut": 601.72,
+      "fin": 604.8
+    },
+    {
+      "debut": 604.8,
+      "fin": 607.92
+    },
+    {
+      "debut": 607.92,
+      "fin": 610.72
+    },
+    {
+      "debut": 610.72,
+      "fin": 614.96
+    },
+    {
+      "debut": 614.96,
+      "fin": 616.32
+    },
+    {
+      "debut": 616.32,
+      "fin": 618.32
+    },
+    {
+      "debut": 618.32,
+      "fin": 620.88
+    },
+    {
+      "debut": 620.88,
+      "fin": 622.4
+    },
+    {
+      "debut": 622.4,
+      "fin": 623.08
+    },
+    {
+      "debut": 623.08,
+      "fin": 625.64
+    },
+    {
+      "debut": 625.64,
+      "fin": 628.12
+    },
+    {
+      "debut": 628.12,
+      "fin": 631.72
+    },
+    {
+      "debut": 631.72,
+      "fin": 635.52
+    },
+    {
+      "debut": 635.52,
+      "fin": 637.52
+    },
+    {
+      "debut": 637.52,
+      "fin": 642.24
+    },
+    {
+      "debut": 642.24,
+      "fin": 644.16
+    },
+    {
+      "debut": 644.16,
+      "fin": 646.52
+    },
+    {
+      "debut": 646.52,
+      "fin": 654.24
+    },
+    {
+      "debut": 654.24,
+      "fin": 656.24
+    },
+    {
+      "debut": 656.24,
+      "fin": 657.44
+    },
+    {
+      "debut": 657.44,
+      "fin": 659.88
+    },
+    {
+      "debut": 659.88,
+      "fin": 664.12
+    },
+    {
+      "debut": 664.12,
+      "fin": 669.52
+    },
+    {
+      "debut": 669.52,
+      "fin": 672.88
+    },
+    {
+      "debut": 672.88,
+      "fin": 675.68
+    },
+    {
+      "debut": 675.68,
+      "fin": 680.64
+    },
+    {
+      "debut": 680.64,
+      "fin": 681.4
+    },
+    {
+      "debut": 681.4,
+      "fin": 701.4
+    },
+    {
+      "debut": 701.4,
+      "fin": 706.04
+    },
+    {
+      "debut": 706.04,
+      "fin": 708.12
+    },
+    {
+      "debut": 708.12,
+      "fin": 710.8
+    },
+    {
+      "debut": 710.8,
+      "fin": 714.68
+    },
+    {
+      "debut": 714.68,
+      "fin": 718.88
+    },
+    {
+      "debut": 718.88,
+      "fin": 733.76
+    },
+    {
+      "debut": 733.76,
+      "fin": 736.2
+    },
+    {
+      "debut": 736.2,
+      "fin": 738.16
+    },
+    {
+      "debut": 738.16,
+      "fin": 740.44
+    },
+    {
+      "debut": 740.44,
+      "fin": 742.64
+    },
+    {
+      "debut": 742.64,
+      "fin": 744.8
+    },
+    {
+      "debut": 744.8,
+      "fin": 747.08
+    },
+    {
+      "debut": 747.08,
+      "fin": 749.24
+    },
+    {
+      "debut": 749.24,
+      "fin": 750.96
+    },
+    {
+      "debut": 750.96,
+      "fin": 752.28
+    },
+    {
+      "debut": 752.28,
+      "fin": 753.36
+    },
+    {
+      "debut": 753.36,
+      "fin": 759.4
+    },
+    {
+      "debut": 759.4,
+      "fin": 765.32
+    },
+    {
+      "debut": 765.32,
+      "fin": 766.2
+    },
+    {
+      "debut": 766.2,
+      "fin": 781.56
+    },
+    {
+      "debut": 781.56,
+      "fin": 782.88
+    },
+    {
+      "debut": 782.88,
+      "fin": 785.48
+    },
+    {
+      "debut": 785.48,
+      "fin": 786.64
+    },
+    {
+      "debut": 786.64,
+      "fin": 788.12
+    },
+    {
+      "debut": 788.12,
+      "fin": 789.76
+    },
+    {
+      "debut": 789.76,
+      "fin": 798.24
+    },
+    {
+      "debut": 798.24,
+      "fin": 799.72
+    },
+    {
+      "debut": 799.72,
+      "fin": 804.56
+    },
+    {
+      "debut": 804.56,
+      "fin": 807.12
+    },
+    {
+      "debut": 807.12,
+      "fin": 813.12
+    },
+    {
+      "debut": 813.12,
+      "fin": 815.12
+    },
+    {
+      "debut": 815.12,
+      "fin": 818.6
+    },
+    {
+      "debut": 818.6,
+      "fin": 822.84
+    },
+    {
+      "debut": 822.84,
+      "fin": 825.28
+    },
+    {
+      "debut": 825.28,
+      "fin": 825.92
+    },
+    {
+      "debut": 825.92,
+      "fin": 826.52
+    },
+    {
+      "debut": 826.52,
+      "fin": 833.04
+    },
+    {
+      "debut": 833.04,
+      "fin": 834.32
+    },
+    {
+      "debut": 834.32,
+      "fin": 835.8
+    },
+    {
+      "debut": 835.8,
+      "fin": 839.36
+    },
+    {
+      "debut": 839.36,
+      "fin": 847.92
+    },
+    {
+      "debut": 847.92,
+      "fin": 850
+    },
+    {
+      "debut": 850,
+      "fin": 855.32
+    },
+    {
+      "debut": 855.32,
+      "fin": 858.28
+    },
+    {
+      "debut": 858.28,
+      "fin": 859.92
+    },
+    {
+      "debut": 859.92,
+      "fin": 861.96
+    },
+    {
+      "debut": 861.96,
+      "fin": 874.64
+    },
+    {
+      "debut": 874.64,
+      "fin": 876.56
+    },
+    {
+      "debut": 876.56,
+      "fin": 882.84
+    },
+    {
+      "debut": 882.84,
+      "fin": 892.8
+    },
+    {
+      "debut": 892.8,
+      "fin": 894.8
+    },
+    {
+      "debut": 894.8,
+      "fin": 895.84
+    },
+    {
+      "debut": 895.84,
+      "fin": 905.36
+    },
+    {
+      "debut": 905.36,
+      "fin": 908.84
+    },
+    {
+      "debut": 908.84,
+      "fin": 910.56
+    },
+    {
+      "debut": 910.56,
+      "fin": 911.28
+    },
+    {
+      "debut": 911.28,
+      "fin": 914.08
+    },
+    {
+      "debut": 914.08,
+      "fin": 914.96
+    },
+    {
+      "debut": 914.96,
+      "fin": 918.24
+    },
+    {
+      "debut": 918.24,
+      "fin": 919.36
+    },
+    {
+      "debut": 919.36,
+      "fin": 920.8
+    },
+    {
+      "debut": 920.8,
+      "fin": 921.48
+    },
+    {
+      "debut": 921.48,
+      "fin": 942.84
+    },
+    {
+      "debut": 942.84,
+      "fin": 943.64
+    },
+    {
+      "debut": 943.64,
+      "fin": 944.48
+    },
+    {
+      "debut": 944.48,
+      "fin": 945.68
+    },
+    {
+      "debut": 945.68,
+      "fin": 947.88
+    },
+    {
+      "debut": 947.88,
+      "fin": 952.48
+    },
+    {
+      "debut": 952.48,
+      "fin": 955.68
+    },
+    {
+      "debut": 955.68,
+      "fin": 961.36
+    },
+    {
+      "debut": 961.36,
+      "fin": 965.64
+    },
+    {
+      "debut": 965.64,
+      "fin": 967.12
+    },
+    {
+      "debut": 967.12,
+      "fin": 968.44
+    },
+    {
+      "debut": 968.44,
+      "fin": 973.16
+    },
+    {
+      "debut": 973.16,
+      "fin": 974.2
+    },
+    {
+      "debut": 974.2,
+      "fin": 979.8
+    },
+    {
+      "debut": 979.8,
+      "fin": 981.4
+    },
+    {
+      "debut": 981.4,
+      "fin": 986.92
+    },
+    {
+      "debut": 986.92,
+      "fin": 988.84
+    },
+    {
+      "debut": 988.84,
+      "fin": 990.32
+    },
+    {
+      "debut": 990.32,
+      "fin": 991.28
+    },
+    {
+      "debut": 991.28,
+      "fin": 998.4
+    },
+    {
+      "debut": 998.4,
+      "fin": 999.8
+    },
+    {
+      "debut": 999.8,
+      "fin": 1000.88
+    },
+    {
+      "debut": 1000.88,
+      "fin": 1001.76
+    },
+    {
+      "debut": 1001.76,
+      "fin": 1003.16
+    },
+    {
+      "debut": 1003.16,
+      "fin": 1003.92
+    },
+    {
+      "debut": 1003.92,
+      "fin": 1007.28
+    },
+    {
+      "debut": 1007.28,
+      "fin": 1009.12
+    },
+    {
+      "debut": 1009.12,
+      "fin": 1016.52
+    },
+    {
+      "debut": 1016.52,
+      "fin": 1019.88
+    },
+    {
+      "debut": 1019.88,
+      "fin": 1032.92
+    },
+    {
+      "debut": 1032.92,
+      "fin": 1037.24
+    },
+    {
+      "debut": 1037.24,
+      "fin": 1039.12
+    },
+    {
+      "debut": 1039.12,
+      "fin": 1040.76
+    },
+    {
+      "debut": 1040.76,
+      "fin": 1048.6
+    },
+    {
+      "debut": 1048.6,
+      "fin": 1051.68
+    },
+    {
+      "debut": 1051.68,
+      "fin": 1054.96
+    },
+    {
+      "debut": 1054.96,
+      "fin": 1055.56
+    },
+    {
+      "debut": 1055.56,
+      "fin": 1058.72
+    },
+    {
+      "debut": 1058.72,
+      "fin": 1065.04
+    },
+    {
+      "debut": 1065.04,
+      "fin": 1067.84
+    },
+    {
+      "debut": 1067.84,
+      "fin": 1068.88
+    },
+    {
+      "debut": 1068.88,
+      "fin": 1076.92
+    },
+    {
+      "debut": 1076.92,
+      "fin": 1084.68
+    },
+    {
+      "debut": 1084.68,
+      "fin": 1091.72
+    },
+    {
+      "debut": 1091.72,
+      "fin": 1102.28
+    },
+    {
+      "debut": 1102.28,
+      "fin": 1112.76
+    },
+    {
+      "debut": 1112.76,
+      "fin": 1115.04
+    },
+    {
+      "debut": 1115.04,
+      "fin": 1126.52
+    },
+    {
+      "debut": 1126.52,
+      "fin": 1131.68
+    },
+    {
+      "debut": 1131.68,
+      "fin": 1138.52
+    },
+    {
+      "debut": 1138.52,
+      "fin": 1139.52
+    },
+    {
+      "debut": 1139.52,
+      "fin": 1144.32
+    },
+    {
+      "debut": 1144.32,
+      "fin": 1146.52
+    },
+    {
+      "debut": 1146.52,
+      "fin": 1154.88
+    },
+    {
+      "debut": 1154.88,
+      "fin": 1156.84
+    },
+    {
+      "debut": 1156.84,
+      "fin": 1161.92
+    },
+    {
+      "debut": 1161.92,
+      "fin": 1163.52
+    },
+    {
+      "debut": 1163.52,
+      "fin": 1167.8
+    },
+    {
+      "debut": 1167.8,
+      "fin": 1170.84
+    },
+    {
+      "debut": 1170.84,
+      "fin": 1180.44
+    },
+    {
+      "debut": 1180.44,
+      "fin": 1181.84
+    },
+    {
+      "debut": 1181.84,
+      "fin": 1190.24
+    },
+    {
+      "debut": 1190.24,
+      "fin": 1193.84
+    },
+    {
+      "debut": 1193.84,
+      "fin": 1204.16
+    },
+    {
+      "debut": 1204.16,
+      "fin": 1205.4
+    },
+    {
+      "debut": 1205.4,
+      "fin": 1211.84
+    },
+    {
+      "debut": 1211.84,
+      "fin": 1222.72
+    },
+    {
+      "debut": 1222.72,
+      "fin": 1236.6
+    },
+    {
+      "debut": 1236.6,
+      "fin": 1237.32
+    },
+    {
+      "debut": 1237.32,
+      "fin": 1243.64
+    },
+    {
+      "debut": 1243.64,
+      "fin": 1245.08
+    },
+    {
+      "debut": 1245.08,
+      "fin": 1246.28
+    },
+    {
+      "debut": 1246.28,
+      "fin": 1247.36
+    },
+    {
+      "debut": 1247.36,
+      "fin": 1248.4
+    },
+    {
+      "debut": 1248.4,
+      "fin": 1249.56
+    },
+    {
+      "debut": 1249.56,
+      "fin": 1250.56
+    },
+    {
+      "debut": 1250.56,
+      "fin": 1251.68
+    },
+    {
+      "debut": 1251.68,
+      "fin": 1252.76
+    },
+    {
+      "debut": 1252.76,
+      "fin": 1253.72
+    },
+    {
+      "debut": 1253.72,
+      "fin": 1254.72
+    },
+    {
+      "debut": 1254.72,
+      "fin": 1256.16
+    },
+    {
+      "debut": 1256.16,
+      "fin": 1257
+    },
+    {
+      "debut": 1257,
+      "fin": 1258.12
+    },
+    {
+      "debut": 1258.12,
+      "fin": 1261.04
+    },
+    {
+      "debut": 1261.04,
+      "fin": 1284.56
+    },
+    {
+      "debut": 1284.56,
+      "fin": 1286.76
+    },
+    {
+      "debut": 1286.76,
+      "fin": 1287.68
+    },
+    {
+      "debut": 1287.68,
+      "fin": 1315.84
+    },
+    {
+      "debut": 1315.84,
+      "fin": 1319.52
+    },
+    {
+      "debut": 1319.52,
+      "fin": 1321.92
+    },
+    {
+      "debut": 1321.92,
+      "fin": 1324.16
+    },
+    {
+      "debut": 1324.16,
+      "fin": 1327.72
+    },
+    {
+      "debut": 1327.72,
+      "fin": 1330.24
+    },
+    {
+      "debut": 1330.24,
+      "fin": 1331.72
+    },
+    {
+      "debut": 1331.72,
+      "fin": 1332.32
+    },
+    {
+      "debut": 1332.32,
+      "fin": 1333.56
+    },
+    {
+      "debut": 1333.56,
+      "fin": 1338.56
+    },
+    {
+      "debut": 1338.56,
+      "fin": 1341.88
+    },
+    {
+      "debut": 1341.88,
+      "fin": 1345.08
+    },
+    {
+      "debut": 1345.08,
+      "fin": 1347.48
+    },
+    {
+      "debut": 1347.48,
+      "fin": 1348.28
+    },
+    {
+      "debut": 1348.28,
+      "fin": 1350.04
+    },
+    {
+      "debut": 1350.04,
+      "fin": 1353.04
+    },
+    {
+      "debut": 1353.04,
+      "fin": 1359.84
+    },
+    {
+      "debut": 1359.84,
+      "fin": 1366.8
+    },
+    {
+      "debut": 1366.8,
+      "fin": 1367.8
+    },
+    {
+      "debut": 1367.8,
+      "fin": 1389.4
+    },
+    {
+      "debut": 1389.4,
+      "fin": 1392.36
+    },
+    {
+      "debut": 1392.36,
+      "fin": 1411.2
+    },
+    {
+      "debut": 1411.2,
+      "fin": 1423.16
+    },
+    {
+      "debut": 1423.16,
+      "fin": 1431.32
+    },
+    {
+      "debut": 1431.32,
+      "fin": 1434.68
+    },
+    {
+      "debut": 1434.68,
+      "fin": 1439.92
+    },
+    {
+      "debut": 1439.92,
+      "fin": 1460.48
+    },
+    {
+      "debut": 1460.48,
+      "fin": 1463.76
+    },
+    {
+      "debut": 1463.76,
+      "fin": 1469.36
+    },
+    {
+      "debut": 1469.36,
+      "fin": 1477.72
+    },
+    {
+      "debut": 1477.72,
+      "fin": 1480.32
+    },
+    {
+      "debut": 1480.32,
+      "fin": 1483.04
+    },
+    {
+      "debut": 1483.04,
+      "fin": 1483.88
+    },
+    {
+      "debut": 1483.88,
+      "fin": 1484.72
+    },
+    {
+      "debut": 1484.72,
+      "fin": 1485.48
+    },
+    {
+      "debut": 1485.48,
+      "fin": 1487.44
+    },
+    {
+      "debut": 1487.44,
+      "fin": 1490.32
+    },
+    {
+      "debut": 1490.32,
+      "fin": 1494.32
+    },
+    {
+      "debut": 1494.32,
+      "fin": 1497.84
+    },
+    {
+      "debut": 1497.84,
+      "fin": 1503.04
+    },
+    {
+      "debut": 1503.04,
+      "fin": 1504.76
+    },
+    {
+      "debut": 1504.76,
+      "fin": 1508.68
+    },
+    {
+      "debut": 1508.68,
+      "fin": 1511.92
+    },
+    {
+      "debut": 1511.92,
+      "fin": 1520.28
+    },
+    {
+      "debut": 1520.28,
+      "fin": 1523.68
+    },
+    {
+      "debut": 1523.68,
+      "fin": 1527
+    },
+    {
+      "debut": 1527,
+      "fin": 1532.36
+    },
+    {
+      "debut": 1532.36,
+      "fin": 1533.68
+    },
+    {
+      "debut": 1533.68,
+      "fin": 1534.4
+    },
+    {
+      "debut": 1534.4,
+      "fin": 1535.92
+    },
+    {
+      "debut": 1535.92,
+      "fin": 1541.68
+    },
+    {
+      "debut": 1541.68,
+      "fin": 1543.28
+    },
+    {
+      "debut": 1543.28,
+      "fin": 1546.48
+    },
+    {
+      "debut": 1546.48,
+      "fin": 1547.84
+    },
+    {
+      "debut": 1547.84,
+      "fin": 1549.52
+    },
+    {
+      "debut": 1549.52,
+      "fin": 1551.88
+    },
+    {
+      "debut": 1551.88,
+      "fin": 1554.08
+    },
+    {
+      "debut": 1554.08,
+      "fin": 1555.68
+    },
+    {
+      "debut": 1555.68,
+      "fin": 1561.36
+    },
+    {
+      "debut": 1561.36,
+      "fin": 1567.12
+    },
+    {
+      "debut": 1567.12,
+      "fin": 1569.12
+    },
+    {
+      "debut": 1569.12,
+      "fin": 1571.52
+    },
+    {
+      "debut": 1571.52,
+      "fin": 1574.92
+    },
+    {
+      "debut": 1574.92,
+      "fin": 1577.44
+    },
+    {
+      "debut": 1577.44,
+      "fin": 1578.68
+    },
+    {
+      "debut": 1578.68,
+      "fin": 1586.8
+    },
+    {
+      "debut": 1586.8,
+      "fin": 1604.64
+    },
+    {
+      "debut": 1604.64,
+      "fin": 1607.6
+    },
+    {
+      "debut": 1607.6,
+      "fin": 1614.4
+    },
+    {
+      "debut": 1614.4,
+      "fin": 1616.32
+    },
+    {
+      "debut": 1616.32,
+      "fin": 1618.64
+    },
+    {
+      "debut": 1618.64,
+      "fin": 1623.92
+    },
+    {
+      "debut": 1623.92,
+      "fin": 1624.88
+    },
+    {
+      "debut": 1624.88,
+      "fin": 1626.4
+    },
+    {
+      "debut": 1626.4,
+      "fin": 1628.2
+    },
+    {
+      "debut": 1628.2,
+      "fin": 1629.44
+    },
+    {
+      "debut": 1629.44,
+      "fin": 1636.16
+    },
+    {
+      "debut": 1636.16,
+      "fin": 1641.92
+    },
+    {
+      "debut": 1641.92,
+      "fin": 1643.08
+    },
+    {
+      "debut": 1643.08,
+      "fin": 1645
+    },
+    {
+      "debut": 1645,
+      "fin": 1650.28
+    },
+    {
+      "debut": 1650.28,
+      "fin": 1652.92
+    },
+    {
+      "debut": 1652.92,
+      "fin": 1659.68
+    },
+    {
+      "debut": 1659.68,
+      "fin": 1661.6
+    },
+    {
+      "debut": 1661.6,
+      "fin": 1664.64
+    },
+    {
+      "debut": 1664.64,
+      "fin": 1668.08
+    },
+    {
+      "debut": 1668.08,
+      "fin": 1669.68
+    },
+    {
+      "debut": 1669.68,
+      "fin": 1671.08
+    },
+    {
+      "debut": 1671.08,
+      "fin": 1673
+    },
+    {
+      "debut": 1673,
+      "fin": 1674.28
+    },
+    {
+      "debut": 1674.28,
+      "fin": 1679.84
+    },
+    {
+      "debut": 1679.84,
+      "fin": 1683.24
+    },
+    {
+      "debut": 1683.24,
+      "fin": 1686.68
+    },
+    {
+      "debut": 1686.68,
+      "fin": 1691.56
+    },
+    {
+      "debut": 1691.56,
+      "fin": 1692.8
+    },
+    {
+      "debut": 1692.8,
+      "fin": 1695.76
+    },
+    {
+      "debut": 1695.76,
+      "fin": 1698.12
+    },
+    {
+      "debut": 1698.12,
+      "fin": 1701.28
+    },
+    {
+      "debut": 1701.28,
+      "fin": 1702.12
+    },
+    {
+      "debut": 1702.12,
+      "fin": 1706.92
+    },
+    {
+      "debut": 1706.92,
+      "fin": 1712.36
+    },
+    {
+      "debut": 1712.36,
+      "fin": 1716
+    },
+    {
+      "debut": 1716,
+      "fin": 1718.16
+    },
+    {
+      "debut": 1718.16,
+      "fin": 1721.44
+    },
+    {
+      "debut": 1721.44,
+      "fin": 1723.88
+    },
+    {
+      "debut": 1723.88,
+      "fin": 1726.24
+    },
+    {
+      "debut": 1726.24,
+      "fin": 1732.68
+    },
+    {
+      "debut": 1732.68,
+      "fin": 1734.96
+    },
+    {
+      "debut": 1734.96,
+      "fin": 1737.32
+    },
+    {
+      "debut": 1737.32,
+      "fin": 1740.6
+    },
+    {
+      "debut": 1740.6,
+      "fin": 1743.16
+    },
+    {
+      "debut": 1743.16,
+      "fin": 1749.04
+    },
+    {
+      "debut": 1749.04,
+      "fin": 1754.88
+    },
+    {
+      "debut": 1754.88,
+      "fin": 1764.4
+    },
+    {
+      "debut": 1764.4,
+      "fin": 1770.64
+    },
+    {
+      "debut": 1770.64,
+      "fin": 1773.16
+    },
+    {
+      "debut": 1773.16,
+      "fin": 1783.88
+    },
+    {
+      "debut": 1783.88,
+      "fin": 1785.2
+    },
+    {
+      "debut": 1785.2,
+      "fin": 1790.04
+    },
+    {
+      "debut": 1790.04,
+      "fin": 1799.56
+    },
+    {
+      "debut": 1799.56,
+      "fin": 1815.4
+    },
+    {
+      "debut": 1815.4,
+      "fin": 1820
+    },
+    {
+      "debut": 1820,
+      "fin": 1835.84
+    },
+    {
+      "debut": 1835.84,
+      "fin": 1849.28
+    },
+    {
+      "debut": 1849.28,
+      "fin": 1856.4
+    },
+    {
+      "debut": 1856.4,
+      "fin": 1857.92
+    },
+    {
+      "debut": 1857.92,
+      "fin": 1867.44
+    },
+    {
+      "debut": 1867.44,
+      "fin": 1868.56
+    },
+    {
+      "debut": 1868.56,
+      "fin": 1871.88
+    },
+    {
+      "debut": 1871.88,
+      "fin": 1875.48
+    },
+    {
+      "debut": 1875.48,
+      "fin": 1876.6
+    },
+    {
+      "debut": 1876.6,
+      "fin": 1878.32
+    },
+    {
+      "debut": 1878.32,
+      "fin": 1882.88
+    },
+    {
+      "debut": 1882.88,
+      "fin": 1885.08
+    },
+    {
+      "debut": 1885.08,
+      "fin": 1886.16
+    },
+    {
+      "debut": 1886.16,
+      "fin": 1890.76
+    },
+    {
+      "debut": 1890.76,
+      "fin": 1900.44
+    },
+    {
+      "debut": 1900.44,
+      "fin": 1905.4
+    },
+    {
+      "debut": 1905.4,
+      "fin": 1907.88
+    },
+    {
+      "debut": 1907.88,
+      "fin": 1910
+    },
+    {
+      "debut": 1910,
+      "fin": 1912.4
+    },
+    {
+      "debut": 1912.4,
+      "fin": 1918.28
+    },
+    {
+      "debut": 1918.28,
+      "fin": 1923.6
+    },
+    {
+      "debut": 1923.6,
+      "fin": 1925.6
+    },
+    {
+      "debut": 1925.6,
+      "fin": 1930.64
+    },
+    {
+      "debut": 1930.64,
+      "fin": 1943.36
+    },
+    {
+      "debut": 1943.36,
+      "fin": 1944.36
+    },
+    {
+      "debut": 1944.36,
+      "fin": 1946.24
+    },
+    {
+      "debut": 1946.24,
+      "fin": 1967.92
+    },
+    {
+      "debut": 1967.92,
+      "fin": 1970.28
+    },
+    {
+      "debut": 1970.28,
+      "fin": 1971.96
+    },
+    {
+      "debut": 1971.96,
+      "fin": 1973.8
+    },
+    {
+      "debut": 1973.8,
+      "fin": 1977.6
+    },
+    {
+      "debut": 1977.6,
+      "fin": 1980.52
+    },
+    {
+      "debut": 1980.52,
+      "fin": 1982.84
+    },
+    {
+      "debut": 1982.84,
+      "fin": 1984.4
+    },
+    {
+      "debut": 1984.4,
+      "fin": 1985.92
+    },
+    {
+      "debut": 1985.92,
+      "fin": 1987.52
+    },
+    {
+      "debut": 1987.52,
+      "fin": 1989.04
+    },
+    {
+      "debut": 1989.04,
+      "fin": 1990.24
+    },
+    {
+      "debut": 1990.24,
+      "fin": 1991.92
+    },
+    {
+      "debut": 1991.92,
+      "fin": 1993.48
+    },
+    {
+      "debut": 1993.48,
+      "fin": 1995.48
+    },
+    {
+      "debut": 1995.48,
+      "fin": 1997.04
+    },
+    {
+      "debut": 1997.04,
+      "fin": 1999
+    },
+    {
+      "debut": 1999,
+      "fin": 1999.8
+    },
+    {
+      "debut": 1999.8,
+      "fin": 2004.28
+    },
+    {
+      "debut": 2004.28,
+      "fin": 2005.92
+    },
+    {
+      "debut": 2005.92,
+      "fin": 2007.04
+    },
+    {
+      "debut": 2007.04,
+      "fin": 2009.12
+    },
+    {
+      "debut": 2009.12,
+      "fin": 2011.08
+    },
+    {
+      "debut": 2011.08,
+      "fin": 2013
+    },
+    {
+      "debut": 2013,
+      "fin": 2019.72
+    },
+    {
+      "debut": 2019.72,
+      "fin": 2020.76
+    },
+    {
+      "debut": 2020.76,
+      "fin": 2022.16
+    },
+    {
+      "debut": 2022.16,
+      "fin": 2024.24
+    },
+    {
+      "debut": 2024.24,
+      "fin": 2025.8
+    },
+    {
+      "debut": 2025.8,
+      "fin": 2027.76
+    },
+    {
+      "debut": 2027.76,
+      "fin": 2030.12
+    },
+    {
+      "debut": 2030.12,
+      "fin": 2036.24
+    },
+    {
+      "debut": 2036.24,
+      "fin": 2040.8
+    },
+    {
+      "debut": 2040.8,
+      "fin": 2044.6
+    },
+    {
+      "debut": 2044.6,
+      "fin": 2046.92
+    },
+    {
+      "debut": 2046.92,
+      "fin": 2049.84
+    },
+    {
+      "debut": 2049.84,
+      "fin": 2050.52
+    },
+    {
+      "debut": 2050.52,
+      "fin": 2051.72
+    },
+    {
+      "debut": 2051.72,
+      "fin": 2053.28
+    },
+    {
+      "debut": 2053.28,
+      "fin": 2054.08
+    },
+    {
+      "debut": 2054.08,
+      "fin": 2055.52
+    },
+    {
+      "debut": 2055.52,
+      "fin": 2056.32
+    },
+    {
+      "debut": 2056.32,
+      "fin": 2058.52
+    },
+    {
+      "debut": 2058.52,
+      "fin": 2059.36
+    },
+    {
+      "debut": 2059.36,
+      "fin": 2060.44
+    },
+    {
+      "debut": 2060.44,
+      "fin": 2061.24
+    },
+    {
+      "debut": 2061.24,
+      "fin": 2063.08
+    },
+    {
+      "debut": 2063.08,
+      "fin": 2064.96
+    },
+    {
+      "debut": 2064.96,
+      "fin": 2067.72
+    },
+    {
+      "debut": 2067.72,
+      "fin": 2070.32
+    },
+    {
+      "debut": 2070.32,
+      "fin": 2074.6
+    },
+    {
+      "debut": 2074.6,
+      "fin": 2075.68
+    },
+    {
+      "debut": 2075.68,
+      "fin": 2082.4
+    },
+    {
+      "debut": 2082.4,
+      "fin": 2087.72
+    },
+    {
+      "debut": 2087.72,
+      "fin": 2091.52
+    },
+    {
+      "debut": 2091.52,
+      "fin": 2092.4
+    },
+    {
+      "debut": 2092.4,
+      "fin": 2094.76
+    },
+    {
+      "debut": 2094.76,
+      "fin": 2095.52
+    },
+    {
+      "debut": 2095.52,
+      "fin": 2109.12
+    },
+    {
+      "debut": 2109.12,
+      "fin": 2111.48
+    },
+    {
+      "debut": 2111.48,
+      "fin": 2112.16
+    },
+    {
+      "debut": 2112.16,
+      "fin": 2113.2
+    },
+    {
+      "debut": 2113.2,
+      "fin": 2115.48
+    },
+    {
+      "debut": 2115.48,
+      "fin": 2116.52
+    },
+    {
+      "debut": 2116.52,
+      "fin": 2117.72
+    },
+    {
+      "debut": 2117.72,
+      "fin": 2120.2
+    },
+    {
+      "debut": 2120.2,
+      "fin": 2122.84
+    },
+    {
+      "debut": 2122.84,
+      "fin": 2124.4
+    },
+    {
+      "debut": 2124.4,
+      "fin": 2126.8
+    },
+    {
+      "debut": 2126.8,
+      "fin": 2129.04
+    },
+    {
+      "debut": 2129.04,
+      "fin": 2130.6
+    },
+    {
+      "debut": 2130.6,
+      "fin": 2137.8
+    },
+    {
+      "debut": 2137.8,
+      "fin": 2140.08
+    },
+    {
+      "debut": 2140.08,
+      "fin": 2142.32
+    },
+    {
+      "debut": 2142.32,
+      "fin": 2149.76
+    },
+    {
+      "debut": 2149.76,
+      "fin": 2156.08
+    },
+    {
+      "debut": 2156.08,
+      "fin": 2159.12
+    },
+    {
+      "debut": 2159.12,
+      "fin": 2160.28
+    },
+    {
+      "debut": 2160.28,
+      "fin": 2165.76
+    },
+    {
+      "debut": 2165.76,
+      "fin": 2167.56
+    },
+    {
+      "debut": 2167.56,
+      "fin": 2169.24
+    },
+    {
+      "debut": 2169.24,
+      "fin": 2175.12
+    },
+    {
+      "debut": 2175.12,
+      "fin": 2176.32
+    },
+    {
+      "debut": 2176.32,
+      "fin": 2178.12
+    },
+    {
+      "debut": 2178.12,
+      "fin": 2179.72
+    },
+    {
+      "debut": 2179.72,
+      "fin": 2180.48
+    },
+    {
+      "debut": 2180.48,
+      "fin": 2181.56
+    },
+    {
+      "debut": 2181.56,
+      "fin": 2185.4
+    },
+    {
+      "debut": 2185.4,
+      "fin": 2189.36
+    },
+    {
+      "debut": 2189.36,
+      "fin": 2190.6
+    },
+    {
+      "debut": 2190.6,
+      "fin": 2193.16
+    },
+    {
+      "debut": 2193.16,
+      "fin": 2194.8
+    },
+    {
+      "debut": 2194.8,
+      "fin": 2196.2
+    },
+    {
+      "debut": 2196.2,
+      "fin": 2197.4
+    },
+    {
+      "debut": 2197.4,
+      "fin": 2199.04
+    },
+    {
+      "debut": 2199.04,
+      "fin": 2200.44
+    },
+    {
+      "debut": 2200.44,
+      "fin": 2201.92
+    },
+    {
+      "debut": 2201.92,
+      "fin": 2207
+    },
+    {
+      "debut": 2207,
+      "fin": 2211.04
+    },
+    {
+      "debut": 2211.04,
+      "fin": 2212.84
+    },
+    {
+      "debut": 2212.84,
+      "fin": 2214.84
+    },
+    {
+      "debut": 2214.84,
+      "fin": 2216.92
+    },
+    {
+      "debut": 2216.92,
+      "fin": 2225.12
+    },
+    {
+      "debut": 2225.12,
+      "fin": 2229.04
+    },
+    {
+      "debut": 2229.04,
+      "fin": 2231.04
+    },
+    {
+      "debut": 2231.04,
+      "fin": 2232.48
+    },
+    {
+      "debut": 2232.48,
+      "fin": 2234.16
+    },
+    {
+      "debut": 2234.16,
+      "fin": 2235.52
+    },
+    {
+      "debut": 2235.52,
+      "fin": 2237.2
+    },
+    {
+      "debut": 2237.2,
+      "fin": 2240.28
+    },
+    {
+      "debut": 2240.28,
+      "fin": 2241.92
+    },
+    {
+      "debut": 2241.92,
+      "fin": 2243.36
+    },
+    {
+      "debut": 2243.36,
+      "fin": 2249.32
+    },
+    {
+      "debut": 2249.32,
+      "fin": 2250.48
+    },
+    {
+      "debut": 2250.48,
+      "fin": 2252.12
+    },
+    {
+      "debut": 2252.12,
+      "fin": 2253.76
+    },
+    {
+      "debut": 2253.76,
+      "fin": 2255.64
+    },
+    {
+      "debut": 2255.64,
+      "fin": 2256.68
+    },
+    {
+      "debut": 2256.68,
+      "fin": 2261.32
+    },
+    {
+      "debut": 2261.32,
+      "fin": 2264.72
+    },
+    {
+      "debut": 2264.72,
+      "fin": 2267.12
+    },
+    {
+      "debut": 2267.12,
+      "fin": 2273.72
+    },
+    {
+      "debut": 2273.72,
+      "fin": 2275.72
+    },
+    {
+      "debut": 2275.72,
+      "fin": 2277.12
+    },
+    {
+      "debut": 2277.12,
+      "fin": 2278
+    },
+    {
+      "debut": 2278,
+      "fin": 2279.92
+    },
+    {
+      "debut": 2279.92,
+      "fin": 2281.36
+    },
+    {
+      "debut": 2281.36,
+      "fin": 2282.24
+    },
+    {
+      "debut": 2282.24,
+      "fin": 2283.36
+    },
+    {
+      "debut": 2283.36,
+      "fin": 2285.12
+    },
+    {
+      "debut": 2285.12,
+      "fin": 2286.12
+    },
+    {
+      "debut": 2286.12,
+      "fin": 2287.12
+    },
+    {
+      "debut": 2287.12,
+      "fin": 2288.2
+    },
+    {
+      "debut": 2288.2,
+      "fin": 2288.84
+    },
+    {
+      "debut": 2288.84,
+      "fin": 2290.96
+    },
+    {
+      "debut": 2290.96,
+      "fin": 2294.76
+    },
+    {
+      "debut": 2294.76,
+      "fin": 2295.6
+    },
+    {
+      "debut": 2295.6,
+      "fin": 2296.48
+    },
+    {
+      "debut": 2296.48,
+      "fin": 2299.28
+    },
+    {
+      "debut": 2299.28,
+      "fin": 2301
+    },
+    {
+      "debut": 2301,
+      "fin": 2302.44
+    },
+    {
+      "debut": 2302.44,
+      "fin": 2303.72
+    },
+    {
+      "debut": 2303.72,
+      "fin": 2305.68
+    },
+    {
+      "debut": 2305.68,
+      "fin": 2308.48
+    },
+    {
+      "debut": 2308.48,
+      "fin": 2313.92
+    },
+    {
+      "debut": 2313.92,
+      "fin": 2314.8
+    },
+    {
+      "debut": 2314.8,
+      "fin": 2317.04
+    },
+    {
+      "debut": 2317.04,
+      "fin": 2317.84
+    },
+    {
+      "debut": 2317.84,
+      "fin": 2319.92
+    },
+    {
+      "debut": 2319.92,
+      "fin": 2326.96
+    },
+    {
+      "debut": 2326.96,
+      "fin": 2329.24
+    },
+    {
+      "debut": 2329.24,
+      "fin": 2331.4
+    },
+    {
+      "debut": 2331.4,
+      "fin": 2333.64
+    },
+    {
+      "debut": 2333.64,
+      "fin": 2335
+    },
+    {
+      "debut": 2335,
+      "fin": 2336.16
+    },
+    {
+      "debut": 2336.16,
+      "fin": 2337.32
+    },
+    {
+      "debut": 2337.32,
+      "fin": 2340.4
+    },
+    {
+      "debut": 2340.4,
+      "fin": 2343.44
+    },
+    {
+      "debut": 2343.44,
+      "fin": 2347.16
+    },
+    {
+      "debut": 2347.16,
+      "fin": 2349.72
+    },
+    {
+      "debut": 2349.72,
+      "fin": 2351.68
+    },
+    {
+      "debut": 2351.68,
+      "fin": 2373.88
+    },
+    {
+      "debut": 2373.88,
+      "fin": 2383.32
+    },
+    {
+      "debut": 2383.32,
+      "fin": 2391.16
+    },
+    {
+      "debut": 2391.16,
+      "fin": 2396.32
+    },
+    {
+      "debut": 2396.32,
+      "fin": 2399.48
+    },
+    {
+      "debut": 2399.48,
+      "fin": 2416.68
+    },
+    {
+      "debut": 2416.68,
+      "fin": 2423.4
+    },
+    {
+      "debut": 2423.4,
+      "fin": 2448.2
+    },
+    {
+      "debut": 2448.2,
+      "fin": 2451.04
+    },
+    {
+      "debut": 2451.04,
+      "fin": 2457.16
+    },
+    {
+      "debut": 2457.16,
+      "fin": 2468.04
+    },
+    {
+      "debut": 2468.04,
+      "fin": 2472.08
+    },
+    {
+      "debut": 2472.08,
+      "fin": 2477.04
+    },
+    {
+      "debut": 2477.04,
+      "fin": 2481.04
+    },
+    {
+      "debut": 2481.04,
+      "fin": 2484.68
+    },
+    {
+      "debut": 2484.68,
+      "fin": 2485.6
+    },
+    {
+      "debut": 2485.6,
+      "fin": 2487.04
+    },
+    {
+      "debut": 2487.04,
+      "fin": 2490.36
+    },
+    {
+      "debut": 2490.36,
+      "fin": 2491.24
+    },
+    {
+      "debut": 2491.24,
+      "fin": 2492.32
+    },
+    {
+      "debut": 2492.32,
+      "fin": 2494.24
+    },
+    {
+      "debut": 2494.24,
+      "fin": 2505.92
+    },
+    {
+      "debut": 2505.92,
+      "fin": 2509.12
+    },
+    {
+      "debut": 2509.12,
+      "fin": 2511.6
+    },
+    {
+      "debut": 2511.6,
+      "fin": 2512.92
+    },
+    {
+      "debut": 2512.92,
+      "fin": 2513.88
+    },
+    {
+      "debut": 2513.88,
+      "fin": 2514.76
+    },
+    {
+      "debut": 2514.76,
+      "fin": 2515.48
+    },
+    {
+      "debut": 2515.48,
+      "fin": 2517.52
+    },
+    {
+      "debut": 2517.52,
+      "fin": 2518.8
+    },
+    {
+      "debut": 2518.8,
+      "fin": 2522.44
+    },
+    {
+      "debut": 2522.44,
+      "fin": 2534.68
+    },
+    {
+      "debut": 2534.68,
+      "fin": 2535.76
+    },
+    {
+      "debut": 2535.76,
+      "fin": 2536.92
+    },
+    {
+      "debut": 2536.92,
+      "fin": 2537.84
+    },
+    {
+      "debut": 2537.84,
+      "fin": 2540.72
+    },
+    {
+      "debut": 2540.72,
+      "fin": 2541.96
+    },
+    {
+      "debut": 2541.96,
+      "fin": 2543.36
+    },
+    {
+      "debut": 2543.36,
+      "fin": 2544.68
+    },
+    {
+      "debut": 2544.68,
+      "fin": 2545.8
+    },
+    {
+      "debut": 2545.8,
+      "fin": 2547.08
+    },
+    {
+      "debut": 2547.08,
+      "fin": 2548.48
+    },
+    {
+      "debut": 2548.48,
+      "fin": 2549.2
+    },
+    {
+      "debut": 2549.2,
+      "fin": 2550.12
+    },
+    {
+      "debut": 2550.12,
+      "fin": 2551.48
+    },
+    {
+      "debut": 2551.48,
+      "fin": 2554.28
+    },
+    {
+      "debut": 2554.28,
+      "fin": 2556.4
+    },
+    {
+      "debut": 2556.4,
+      "fin": 2559.12
+    },
+    {
+      "debut": 2559.12,
+      "fin": 2561.4
+    },
+    {
+      "debut": 2561.4,
+      "fin": 2564.04
+    },
+    {
+      "debut": 2564.04,
+      "fin": 2565.16
+    },
+    {
+      "debut": 2565.16,
+      "fin": 2566.36
+    },
+    {
+      "debut": 2566.36,
+      "fin": 2567.28
+    },
+    {
+      "debut": 2567.28,
+      "fin": 2569.28
+    },
+    {
+      "debut": 2569.28,
+      "fin": 2570.76
+    },
+    {
+      "debut": 2570.76,
+      "fin": 2572.04
+    },
+    {
+      "debut": 2572.04,
+      "fin": 2573.44
+    },
+    {
+      "debut": 2573.44,
+      "fin": 2574.72
+    },
+    {
+      "debut": 2574.72,
+      "fin": 2576.28
+    },
+    {
+      "debut": 2576.28,
+      "fin": 2577.96
+    },
+    {
+      "debut": 2577.96,
+      "fin": 2581.32
+    },
+    {
+      "debut": 2581.32,
+      "fin": 2584.8
+    },
+    {
+      "debut": 2584.8,
+      "fin": 2587.92
+    },
+    {
+      "debut": 2587.92,
+      "fin": 2589.28
+    },
+    {
+      "debut": 2589.28,
+      "fin": 2590.04
+    },
+    {
+      "debut": 2590.04,
+      "fin": 2590.96
+    },
+    {
+      "debut": 2590.96,
+      "fin": 2592.2
+    },
+    {
+      "debut": 2592.2,
+      "fin": 2593.6
+    },
+    {
+      "debut": 2593.6,
+      "fin": 2594.56
+    },
+    {
+      "debut": 2594.56,
+      "fin": 2596.16
+    },
+    {
+      "debut": 2596.16,
+      "fin": 2597.6
+    },
+    {
+      "debut": 2597.6,
+      "fin": 2600.4
+    },
+    {
+      "debut": 2600.4,
+      "fin": 2601.84
+    },
+    {
+      "debut": 2601.84,
+      "fin": 2605.2
+    },
+    {
+      "debut": 2605.2,
+      "fin": 2608
+    },
+    {
+      "debut": 2608,
+      "fin": 2609.4
+    },
+    {
+      "debut": 2609.4,
+      "fin": 2610.4
+    },
+    {
+      "debut": 2610.4,
+      "fin": 2612.32
+    },
+    {
+      "debut": 2612.32,
+      "fin": 2613.08
+    },
+    {
+      "debut": 2613.08,
+      "fin": 2613.96
+    },
+    {
+      "debut": 2613.96,
+      "fin": 2615.32
+    },
+    {
+      "debut": 2615.32,
+      "fin": 2616.6
+    },
+    {
+      "debut": 2616.6,
+      "fin": 2617.52
+    },
+    {
+      "debut": 2617.52,
+      "fin": 2621.16
+    },
+    {
+      "debut": 2621.16,
+      "fin": 2622.4
+    },
+    {
+      "debut": 2622.4,
+      "fin": 2624.76
+    },
+    {
+      "debut": 2624.76,
+      "fin": 2625.56
+    },
+    {
+      "debut": 2625.56,
+      "fin": 2626.56
+    },
+    {
+      "debut": 2626.56,
+      "fin": 2628.04
+    },
+    {
+      "debut": 2628.04,
+      "fin": 2629.08
+    },
+    {
+      "debut": 2629.08,
+      "fin": 2630.76
+    },
+    {
+      "debut": 2630.76,
+      "fin": 2632.4
+    },
+    {
+      "debut": 2632.4,
+      "fin": 2633.52
+    },
+    {
+      "debut": 2633.52,
+      "fin": 2634.6
+    },
+    {
+      "debut": 2634.6,
+      "fin": 2635.8
+    },
+    {
+      "debut": 2635.8,
+      "fin": 2637.6
+    },
+    {
+      "debut": 2637.6,
+      "fin": 2638.56
+    },
+    {
+      "debut": 2638.56,
+      "fin": 2639.36
+    },
+    {
+      "debut": 2639.36,
+      "fin": 2640.16
+    },
+    {
+      "debut": 2640.16,
+      "fin": 2641.6
+    },
+    {
+      "debut": 2641.6,
+      "fin": 2642.6
+    },
+    {
+      "debut": 2642.6,
+      "fin": 2644.56
+    },
+    {
+      "debut": 2644.56,
+      "fin": 2645.48
+    },
+    {
+      "debut": 2645.48,
+      "fin": 2646.48
+    },
+    {
+      "debut": 2646.48,
+      "fin": 2647.6
+    },
+    {
+      "debut": 2647.6,
+      "fin": 2648.8
+    },
+    {
+      "debut": 2648.8,
+      "fin": 2650.16
+    },
+    {
+      "debut": 2650.16,
+      "fin": 2651.08
+    },
+    {
+      "debut": 2651.08,
+      "fin": 2652.16
+    },
+    {
+      "debut": 2652.16,
+      "fin": 2653.88
+    },
+    {
+      "debut": 2653.88,
+      "fin": 2656.44
+    },
+    {
+      "debut": 2656.44,
+      "fin": 2657.88
+    },
+    {
+      "debut": 2657.88,
+      "fin": 2659.92
+    },
+    {
+      "debut": 2659.92,
+      "fin": 2661.64
+    },
+    {
+      "debut": 2661.64,
+      "fin": 2665.96
+    },
+    {
+      "debut": 2665.96,
+      "fin": 2667.2
+    },
+    {
+      "debut": 2667.2,
+      "fin": 2671.08
+    },
+    {
+      "debut": 2671.08,
+      "fin": 2675.32
+    },
+    {
+      "debut": 2675.32,
+      "fin": 2679.48
+    },
+    {
+      "debut": 2679.48,
+      "fin": 2680.88
+    },
+    {
+      "debut": 2680.88,
+      "fin": 2681.88
+    },
+    {
+      "debut": 2681.88,
+      "fin": 2682.92
+    },
+    {
+      "debut": 2682.92,
+      "fin": 2684.12
+    },
+    {
+      "debut": 2684.12,
+      "fin": 2684.8
+    },
+    {
+      "debut": 2684.8,
+      "fin": 2685.8
+    },
+    {
+      "debut": 2685.8,
+      "fin": 2686.6
+    },
+    {
+      "debut": 2686.6,
+      "fin": 2688
+    },
+    {
+      "debut": 2688,
+      "fin": 2689.32
+    },
+    {
+      "debut": 2689.32,
+      "fin": 2690.88
+    },
+    {
+      "debut": 2690.88,
+      "fin": 2692.24
+    },
+    {
+      "debut": 2692.24,
+      "fin": 2693.68
+    },
+    {
+      "debut": 2693.68,
+      "fin": 2696.6
+    },
+    {
+      "debut": 2696.6,
+      "fin": 2701.56
+    },
+    {
+      "debut": 2701.56,
+      "fin": 2706.56
+    }
+  ],
+  "resume": {
+    "rires": 68,
+    "minuteLaPlusDrole": "28:30",
+    "plans": 799,
+    "hitsLexique": 50
+  }
+}

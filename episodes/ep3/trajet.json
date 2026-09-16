@@ -1,0 +1,26 @@
+{
+  "ep": 3,
+  "videoId": "kDwuuudq-Hk",
+  "etapes": [
+    {
+      "ville": "Québec",
+      "lat": 46.8137431,
+      "lon": -71.2084061,
+      "libelle": "Québec, Agglomération de Québec",
+      "debut": 850,
+      "fin": 857,
+      "action": "arrivee",
+      "citation": "On fait un petit retri au Québec. OK. Puis vous trouvez ça comment ?",
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=848"
+    }
+  ],
+  "troncons": [],
+  "mentions": [
+    {
+      "ville": "Montréal",
+      "debut": 1188,
+      "citation": "Mais là à Montréal ce soir quelque chose de très cool nous attend. Vous avez kiffé Québec ?"
+    }
+  ],
+  "kmEpisode": 0
+}
