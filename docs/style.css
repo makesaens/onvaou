@@ -200,7 +200,7 @@ footer p{max-width:80ch;margin:0 0 8px}
 /* ---------- CAMION 3D ---------- */
 .camion-wrap{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(280px,.8fr);gap:16px;margin-top:8px}
 @media (max-width:860px){.camion-wrap{grid-template-columns:1fr}}
-.camion3d{position:relative;height:520px;background:radial-gradient(ellipse at 50% 70%,#2a2f26 0%,var(--nuit2) 65%);border:1px solid var(--ligne);overflow:hidden;cursor:grab}
+.camion3d{position:relative;height:560px;background:radial-gradient(ellipse at 50% 60%,#2b3129 0%,var(--nuit2) 70%);border:1px solid var(--ligne);overflow:hidden;cursor:grab}
 .camion3d canvas{display:block;width:100%;height:100%}
 .camion3d .aide{position:absolute;left:14px;bottom:12px;font-family:var(--cond);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--olive);pointer-events:none}
 .camion3d .etat{position:absolute;right:14px;top:12px;display:flex;gap:10px;align-items:baseline;background:rgba(15,18,14,.7);border:1px solid var(--ligne);padding:6px 10px}
@@ -213,6 +213,7 @@ footer p{max-width:80ch;margin:0 0 8px}
 .impact .z{font-family:var(--cond);font-weight:700;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--creme2)}
 .impact .q{font-size:14px;color:var(--creme);margin:2px 0}
 .impact a{font-family:var(--cond);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--rouge2);text-decoration:none;font-weight:700}
+.impact .g.ok{color:#8fc37a;border-color:rgba(143,195,122,.5)}
 .impact .g{display:inline-block;font-family:var(--cond);font-size:10px;letter-spacing:.12em;text-transform:uppercase;padding:1px 6px;border:1px solid var(--ligne);color:var(--olive);margin-left:6px}
 .cit .rires,.item .rires{font-family:var(--cond);font-size:11px;letter-spacing:.1em;color:var(--creme2);text-transform:uppercase}
 .item .rires{grid-column:1/-1;color:var(--olive)}

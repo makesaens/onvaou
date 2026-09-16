@@ -11,6 +11,25 @@ const schedule = readJSON(path.join(ROOT, 'schedule.json'));
 const casting = readJSON(path.join(ROOT, 'chaine/casting.json'));
 const saisons = readJSON(path.join(ROOT, 'cache/saisons.json'), []);
 const cache = readJSON(path.join(ROOT, 'cache/geo.json'), {});
+const ZC = readJSON(path.join(ROOT, 'chaine/zones-camion.json'));
+const zoneNorm = (z) => ZC.zones[z] ? z : (ZC.alias[z] || 'inconnue');
+// corrections.json : Guillaume a priorité sur la chaîne (zone, gravité, texte, suppression, ajout)
+function corriger(M, dir) {
+  const C = readJSON(path.join(dir, 'corrections.json'), null);
+  for (const m of M.moments) { if (m.type === 'IMPACT_CAMION') { m.detail = m.detail || {}; m.detail.zone = zoneNorm(m.detail.zone); m.source = 'détecté'; } }
+  if (!C) return M;
+  const proche = (a, b) => Math.abs(a - b) <= 20;
+  for (const c of C.impacts || []) {
+    if (c.ajouter) { M.moments.push({ type: 'IMPACT_CAMION', debut: c.debut, fin: c.debut + 15, citation: c.citation, propre: c.citation, qui: null, confiance: 1, detail: { zone: zoneNorm(c.zone), gravite: c.gravite, quoi: c.quoi }, source: 'corrigé', verif: c.verif, lien: `https://youtu.be/${M.videoId}?t=${Math.max(0, c.debut - 2)}` }); continue; }
+    const m = M.moments.find(x => x.type === 'IMPACT_CAMION' && proche(x.debut, c.debut));
+    if (!m) continue;
+    if (c.supprimer) { M.moments = M.moments.filter(x => x !== m); continue; }
+    if (c.zone) m.detail.zone = zoneNorm(c.zone); if (c.gravite) m.detail.gravite = c.gravite; if (c.quoi) m.detail.quoi = c.quoi;
+    m.source = 'corrigé'; m.verif = c.verif || null;
+  }
+  M.moments.sort((a, b) => a.debut - b.debut);
+  return M;
+}
 const cle = (v) => v.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').trim();
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const nb = (n) => n == null ? '—' : n >= 1e6 ? (n / 1e6).toFixed(1).replace('.', ',') + ' M' : n >= 1e3 ? Math.round(n / 1e3) + ' k' : String(n);
@@ -32,14 +51,14 @@ for (const e of index().episodes) {
   if (!exists(path.join(dir, 'moments.json')) || !exists(path.join(dir, 'controle.json'))) continue;
   const ctrl = readJSON(path.join(dir, 'controle.json'));
   if (ctrl.verdict !== 'GO') { console.log(`ep${e.ep} ignoré : ${ctrl.verdict}`); continue; }
-  const meta = readJSON(path.join(dir, 'meta.json')), T = readJSON(path.join(dir, 'transcript.json')), C = readJSON(path.join(dir, 'candidats.json')), M = readJSON(path.join(dir, 'moments.json')), G = readJSON(path.join(dir, 'trajet.json')), R = readJSON(path.join(dir, 'run.json'));
+  const meta = readJSON(path.join(dir, 'meta.json')), T = readJSON(path.join(dir, 'transcript.json')), C = readJSON(path.join(dir, 'candidats.json')), M = corriger(readJSON(path.join(dir, 'moments.json')), dir), G = readJSON(path.join(dir, 'trajet.json')), R = readJSON(path.join(dir, 'run.json'));
   const rires = T.balises.filter(b => b.tag === 'rires').map(b => b.t);
   const autour = (t) => rires.filter(r => Math.abs(r - t) <= 30).length;
   M.moments.forEach(m => { m.riresAutour = autour(m.debut); });
   const top10 = M.moments.filter(m => m.type === 'CITATION').map(m => ({ ...m, riresAutour: autour(m.debut) })).sort((a, b) => b.riresAutour - a.riresAutour || a.debut - b.debut).slice(0, 10).sort((a, b) => a.debut - b.debut);
   episodes.push({
     ep: meta.ep, videoId: meta.videoId, titre: meta.titre, publieLe: meta.publieLe, dureeS: meta.dureeS, vues: meta.vues, likes: meta.likes, miniature: meta.miniature,
-    liens: meta.liens, covers: meta.covers, chapitres: M.chapitres, moments: M.moments.map(m => ({ type: m.type, debut: m.debut, fin: m.fin, citation: m.citation, propre: m.propre, qui: m.qui, detail: m.detail, riresAutour: m.riresAutour })),
+    liens: meta.liens, covers: meta.covers, chapitres: M.chapitres, moments: M.moments.map(m => ({ type: m.type, debut: m.debut, fin: m.fin, citation: m.citation, propre: m.propre, qui: m.qui, detail: m.detail, riresAutour: m.riresAutour, source: m.source, verif: m.verif })),
     top10, fenetreS: C.fenetreS, courbeRire: C.courbeRire, pics: C.pics, trajet: { etapes: G.etapes, troncons: G.troncons, mentions: G.mentions, km: G.kmEpisode },
     stats: { rires: T.stats.balises.rires || 0, moments: M.moments.length, rejets: M.rejets.length, plans: C.resume.plans, mots: T.stats.mots, source: T.source },
     run: R.maillons,
@@ -87,7 +106,7 @@ const etat = (id) => id === 'M0' ? ['ok', 'armé · toutes les 5 min'] : id === 
 const outils = [['yt-dlp', run(path.join(ROOT, 'chaine/bin/yt-dlp'), ['--version']).stdout.trim(), 'collecte'], ['Node', process.version, 'chaîne et bâtisseur'], ['Python', run(path.join(ROOT, '.venv/bin/python'), ['--version']).stdout.trim().replace('Python ', ''), 'plans, images, whisper'], ['PySceneDetect', '0.7.1', 'plans'], ['Claude (' + CONFIG.claudeModel + ')', 'claude -p', 'le Lecteur'], ['Nominatim + OSRM', 'OpenStreetMap', 'géographie'], ['Leaflet', '1.9.4', 'la carte'], ['GitHub Pages', 'gratuit', 'hébergement']];
 
 // ---- HTML ----
-const DATA = { saison: schedule.saison, schedule, episodes, destination, villesAnnoncees: annoncees, genere, camion: { impacts: impacts.map(i => ({ ep: i.ep, videoId: i.videoId, zone: i.detail.zone, gravite: i.detail.gravite, quoi: i.detail.quoi, debut: i.debut, citation: i.propre || i.citation })) } };
+const DATA = { saison: schedule.saison, schedule, episodes, destination, villesAnnoncees: annoncees, genere, camion: { zones: ZC.zones, impacts: impacts.map(i => ({ ep: i.ep, videoId: i.videoId, zone: i.detail.zone, gravite: i.detail.gravite, quoi: i.detail.quoi, debut: i.debut, citation: i.propre || i.citation, source: i.source })) } };
 const epCard = (e) => `<article class="ep"><a class="img" href="https://www.youtube.com/watch?v=${e.videoId}" target="_blank" rel="noopener"><img src="${e.miniature}" alt="" loading="lazy"><span class="num">EP ${e.ep}</span></a><div class="corps"><div class="titre">${esc(e.titre.replace(/\s*-\s*ON VA O.*$/i, ''))}</div><div class="stats"><div><b>${mmss(e.dureeS)}</b><span>durée</span></div><div><b>${nb(e.vues)}</b><span>vues</span></div><div><b>${e.stats.rires}</b><span>rires</span></div><div><b>${e.trajet.km || 0}</b><span>km</span></div></div><div class="villes">${e.trajet.etapes.length ? e.trajet.etapes.map(x => esc(x.ville)).join(' <b>→</b> ') : 'sur place'}</div><div class="liens"><a class="btn sec" href="https://www.youtube.com/watch?v=${e.videoId}" target="_blank" rel="noopener">YouTube</a><span class="cond" style="color:var(--olive);font-size:12px;letter-spacing:.08em;text-transform:uppercase;align-self:center">${e.stats.moments} moments · ${e.chapitres.length} chapitres</span></div></div></article>`;
 const epAVenir = (p) => `<article class="ep a-venir"><div class="img"><span>EP ${p.ep}</span></div><div class="corps"><div class="titre">À venir</div><div class="villes">${new Date(p.date).toLocaleString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Paris' })} · prévision</div></div></article>`;
 const html = `<!doctype html>
@@ -146,10 +165,10 @@ const html = `<!doctype html>
   </section>
 
   <section id="camion">
-    <div class="sec-head"><h2>Le camion</h2><p>Le camping-car de la saison, et chaque choc relevé dans les mots des épisodes, posé sur la carrosserie. Fais-le tourner. Les objets perdus, cassés ou crachés sont en dessous.</p></div>
+    <div class="sec-head"><h2>Le camion</h2><p>Le camping-car de la saison et chaque choc, posé sur la carrosserie. « Détecté » : relevé par la chaîne dans les mots de l’épisode. « Vérifié à l’image » : contrôlé sur la vidéo au timecode. Fais-le tourner.</p></div>
     <div class="camion-wrap">
       <div class="camion3d" id="camion3d"><div class="etat"><b>${impacts.length}</b><span>impact${impacts.length > 1 ? 's' : ''}<br>relevé${impacts.length > 1 ? 's' : ''}</span></div><div class="aide">glisser pour tourner · molette pour zoomer · cliquer une pastille</div></div>
-      <div class="impacts" id="impacts">${impacts.length ? impacts.map((i, k) => `<div class="impact" data-k="${k}"><div class="n">${k + 1}</div><div><div class="z">${i.detail.zone === 'inconnue' ? 'zone non précisée' : esc(i.detail.zone).replace(/-/g, ' ')}<span class="g">${esc(i.detail.gravite || '')}</span></div><div class="q">${esc(i.detail.quoi || i.propre || i.citation)}</div><a href="https://youtu.be/${i.videoId}?t=${Math.max(0, Math.floor(i.debut) - 2)}" target="_blank" rel="noopener">Ép. ${i.ep} · ${mmss(i.debut)} →</a></div></div>`).join('') : '<p class="vide">Aucun choc relevé pour l’instant.</p>'}</div>
+      <div class="impacts" id="impacts">${impacts.length ? impacts.map((i, k) => `<div class="impact" data-k="${k}"><div class="n">${k + 1}</div><div><div class="z">${esc((ZC.zones[i.detail.zone] || ZC.zones.inconnue).label)}<span class="g">${esc(i.detail.gravite || '')}</span>${i.source === 'corrigé' ? '<span class="g ok">vérifié à l’image</span>' : '<span class="g">détecté</span>'}</div><div class="q">${esc(i.detail.quoi || i.propre || i.citation)}</div><a href="https://youtu.be/${i.videoId}?t=${Math.max(0, Math.floor(i.debut) - 2)}" target="_blank" rel="noopener">Ép. ${i.ep} · ${mmss(i.debut)} →</a></div></div>`).join('') : '<p class="vide">Aucun choc relevé pour l’instant.</p>'}</div>
     </div>
     <h3 style="margin-top:28px">Carnet de bord</h3>
     <div class="liste" style="margin-top:14px">${carnet.filter(m => m.type !== 'IMPACT_CAMION').map(m => `<div class="item"><div class="l"><b>${esc(m.type === 'OBJET' ? (m.detail.objet || 'objet') + ' · ' + (m.detail.sort || '') : m.type === 'GALERE' ? 'galère' : m.type === 'DRONE' ? 'drone' : 'décision')}</b><span>${esc(m.detail.quoi || m.detail.sort || m.propre || m.citation)}</span><div class="ep-tag">épisode ${m.ep}${m.riresAutour ? ' · ' + m.riresAutour + ' rires autour' : ''}</div></div><a href="https://youtu.be/${m.videoId}?t=${Math.max(0, Math.floor(m.debut) - 2)}" target="_blank" rel="noopener">${mmss(m.debut)} →</a></div>`).join('') || '<p class="vide">Rien pour l’instant.</p>'}</div>

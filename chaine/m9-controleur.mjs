@@ -2,7 +2,9 @@
 // usage : node chaine/m9-controleur.mjs ep1
 import fs from 'node:fs';
 import path from 'node:path';
-import { CONFIG, epDir, readJSON, writeJSON, exists, step, mmss } from './lib.mjs';
+import { ROOT, CONFIG, epDir, readJSON, writeJSON, exists, step, mmss } from './lib.mjs';
+import path0 from 'node:path';
+const ZC = readJSON(path0.join(ROOT, 'chaine/zones-camion.json'));
 
 const ep = process.argv[2];
 const dir = epDir(ep);
@@ -26,7 +28,7 @@ step(ep, 'M9', () => {
   c('citations verbatim', citFausses.length === 0, `${citFausses.length} introuvables (${M.rejets.length} déjà rejetées par M4)`, true);
   const villesSansPreuve = G.etapes.filter(e => !e.citation || !tout.includes(norm(e.citation)));
   c('étapes prouvées par une citation', villesSansPreuve.length === 0, villesSansPreuve.map(e => e.ville).join(', ') || 'toutes', true);
-  const zones = ['avant','aile-avant-gauche','aile-avant-droite','flanc-gauche-avant','flanc-gauche-arriere','flanc-droit-avant','flanc-droit-arriere','arriere','toit','capucine','retro-gauche','retro-droit','marchepied','roue','inconnue'];
+  const zones = Object.keys(ZC.zones).concat(Object.keys(ZC.alias));
   const impacts = M.moments.filter(m => m.type === 'IMPACT_CAMION');
   c('zones d impact valides', impacts.every(m => zones.includes(m.detail?.zone)), `${impacts.length} impacts`);
   c('chapitres sans trou', M.chapitres.every((ch, i, a) => i === 0 || Math.abs(ch.debut - a[i - 1].fin) <= 30), `${M.chapitres.length} chapitres`);

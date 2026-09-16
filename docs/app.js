@@ -83,7 +83,7 @@
     if (T && T.coords.length > 1) { a = T.coords[T.coords.length - 2]; b = T.coords[T.coords.length - 1]; }
     else if (actuelle && destGeo) { a = [actuelle.lon, actuelle.lat]; b = [destGeo.lon, destGeo.lat]; }
     if (a && b) cap = Math.atan2(b[0] - a[0], b[1] - a[1]) * 180 / Math.PI; }
-  window.poserCamionDessus = (url) => { camion.setIcon(L.divIcon({ className: '', html: `<img src="${url}" style="width:64px;height:64px;transform:translate(-50%,-50%) rotate(${cap}deg);filter:drop-shadow(0 6px 6px rgba(0,0,0,.6))" alt="">`, iconSize: [0, 0] })); };
+  window.poserCamionDessus = (url) => { camion.setIcon(L.divIcon({ className: '', html: `<img src="${url}" style="width:84px;height:84px;transform:translate(-50%,-50%) rotate(${cap}deg);filter:drop-shadow(0 6px 6px rgba(0,0,0,.6))" alt="">`, iconSize: [0, 0] })); };
   if (window.camionDessusUrl) window.poserCamionDessus(window.camionDessusUrl);
 
   /* ---------- lecteur (curseur temps) ---------- */

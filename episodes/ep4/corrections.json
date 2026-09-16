@@ -1,0 +1,10 @@
+{
+  "note": "Corrections de Guillaume du 17/09, vérifiées à l'image.",
+  "impacts": [
+    { "debut": 221, "zone": "arriere", "gravite": "choc", "quoi": "tape un poteau en reculant le camping-car", "verif": "confirmé" },
+    { "debut": 247, "supprimer": true, "pourquoi": "« j'ai cassé le phare de la voiture » : c'est la voiture de l'ep3, pas le camion" },
+    { "debut": 282, "zone": "rail-droit", "gravite": "choc", "quoi": "accroche un panneau « interdiction de stationner » avec le haut du côté droit, au niveau du rail du store", "verif": "ep4 5:30, le poteau du panneau contre le haut du flanc droit" },
+    { "debut": 340, "supprimer": true, "pourquoi": "phrase-bilan (« cassé trois fois »), pas un nouvel impact" },
+    { "ajouter": true, "debut": 171, "zone": "trappe-gauche-milieu", "gravite": "casse", "quoi": "la serrure de la trappe de rangement gauche est cassée", "citation": "Tu vois, elle est cassée, je crois.", "verif": "ep4 2:51" }
+  ]
+}

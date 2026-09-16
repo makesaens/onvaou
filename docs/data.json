@@ -3530,11 +3530,13 @@
           "propre": "Non, il a pas... il va pas me faire sauter la caution avec une rayure sur la carlingue, j'imagine.",
           "qui": null,
           "detail": {
-            "zone": "inconnue",
+            "zone": "flanc-droit-arriere-bas",
             "gravite": "rayure",
-            "quoi": "rayure découverte sur la carrosserie au réveil, origine inconnue, la caution du camping-car est en jeu"
+            "quoi": "rayure découverte au réveil sur le flanc droit arrière, origine inconnue ; la caution est en jeu"
           },
-          "riresAutour": 0
+          "riresAutour": 0,
+          "source": "corrigé",
+          "verif": "ep3 6:36, ils regardent le flanc droit arrière"
         },
         {
           "type": "CITATION",
@@ -3669,9 +3671,27 @@
           "detail": {
             "zone": "flanc-gauche-avant",
             "gravite": "rayure",
-            "quoi": "le camping-car frotte et raye la carrosserie en se faufilant dans une rue étroite de Québec, la jante gauche est aussi touchée"
+            "quoi": "le camping-car frotte et raye le flanc gauche avant en se faufilant dans une rue étroite de Québec : « c'est pas une rayure, c'est une gravure »"
           },
-          "riresAutour": 2
+          "riresAutour": 2,
+          "source": "corrigé",
+          "verif": "confirmé par Guillaume"
+        },
+        {
+          "type": "IMPACT_CAMION",
+          "debut": 1097,
+          "fin": 1112,
+          "citation": "Et tu as fait la jante à gauche aussi.",
+          "propre": "Et tu as fait la jante à gauche aussi.",
+          "qui": null,
+          "detail": {
+            "zone": "roue-avant-gauche",
+            "gravite": "rayure",
+            "quoi": "la jante avant gauche est marquée dans la même manœuvre"
+          },
+          "riresAutour": 2,
+          "source": "corrigé",
+          "verif": "ep3 18:17"
         },
         {
           "type": "DECISION",
@@ -3781,25 +3801,13 @@
           "propre": "L'odeur de ses aisselles, moi, à la fin du concert. T'as baisé la caisse ? Oh, il a baisé la caisse.",
           "qui": null,
           "detail": {
-            "zone": "inconnue",
+            "zone": "flanc-droit-arriere",
             "gravite": "choc",
-            "quoi": "le camping-car percute une voiture en se garant près du concert"
+            "quoi": "le camping-car percute une voiture garée près du concert ; le choc est au-dessus de la roue arrière droite, sous la fenêtre"
           },
-          "riresAutour": 1
-        },
-        {
-          "type": "IMPACT_CAMION",
-          "debut": 1671,
-          "fin": 1680,
-          "citation": "Tuas tu as cassé le phare. Ça va ? On va où 7. Let's go.",
-          "propre": "T'as, t'as cassé le phare ? Ça va ? On va où 7, let's go.",
-          "qui": null,
-          "detail": {
-            "zone": "avant",
-            "gravite": "casse",
-            "quoi": "le phare avant est cassé après la collision avec une voiture dans le parking du concert"
-          },
-          "riresAutour": 2
+          "riresAutour": 1,
+          "source": "corrigé",
+          "verif": "ep3 26:53, confirmé par Guillaume"
         },
         {
           "type": "CITATION",
@@ -4851,6 +4859,22 @@
           "riresAutour": 0
         },
         {
+          "type": "IMPACT_CAMION",
+          "debut": 171,
+          "fin": 186,
+          "citation": "Tu vois, elle est cassée, je crois.",
+          "propre": "Tu vois, elle est cassée, je crois.",
+          "qui": null,
+          "detail": {
+            "zone": "trappe-gauche-milieu",
+            "gravite": "casse",
+            "quoi": "la serrure de la trappe de rangement gauche est cassée"
+          },
+          "riresAutour": 0,
+          "source": "corrigé",
+          "verif": "ep4 2:51"
+        },
+        {
           "type": "VILLE",
           "debut": 174,
           "fin": 184,
@@ -4897,23 +4921,11 @@
           "detail": {
             "zone": "arriere",
             "gravite": "choc",
-            "quoi": "a tapé un poteau en reculant le camping-car"
+            "quoi": "tape un poteau en reculant le camping-car"
           },
-          "riresAutour": 0
-        },
-        {
-          "type": "IMPACT_CAMION",
-          "debut": 247,
-          "fin": 256,
-          "citation": "Je fais quand même mal. Phare phare. J'ai cassé le phare de la voiture.",
-          "propre": "Je fais quand même mal. Phare, phare. J'ai cassé le phare de la voiture.",
-          "qui": "Théodort",
-          "detail": {
-            "zone": "avant",
-            "gravite": "casse",
-            "quoi": "a cassé le phare en cognant un obstacle en reculant"
-          },
-          "riresAutour": 0
+          "riresAutour": 0,
+          "source": "corrigé",
+          "verif": "confirmé"
         },
         {
           "type": "IMPACT_CAMION",
@@ -4923,25 +4935,13 @@
           "propre": "Hauteur où il y a écrit « interdiction de se parquer ». Voilà, et le panneau est maintenant...",
           "qui": "Théodort",
           "detail": {
-            "zone": "toit",
+            "zone": "rail-droit",
             "gravite": "choc",
-            "quoi": "a accroché un panneau 'interdiction de se parquer' en hauteur"
+            "quoi": "accroche un panneau « interdiction de stationner » avec le haut du côté droit, au niveau du rail du store"
           },
-          "riresAutour": 1
-        },
-        {
-          "type": "IMPACT_CAMION",
-          "debut": 340,
-          "fin": 352,
-          "citation": "j'ai juste cassé. J'ai cassé trois fois le camping-car. J'ai reconduit. Je l'ai cassé une 4rième fois.",
-          "propre": "J'ai juste cassé. J'ai cassé trois fois le camping-car. J'ai reconduit. Je l'ai cassé une quatrième fois.",
-          "qui": "Théodort",
-          "detail": {
-            "zone": "inconnue",
-            "gravite": "casse",
-            "quoi": "a cassé le camping-car à plusieurs reprises (poteau, phare, panneau) en une seule manœuvre de stationnement"
-          },
-          "riresAutour": 1
+          "riresAutour": 1,
+          "source": "corrigé",
+          "verif": "ep4 5:30, le poteau du panneau contre le haut du flanc droit"
         },
         {
           "type": "CITATION",
@@ -5993,7 +5993,7 @@
       },
       "stats": {
         "rires": 36,
-        "moments": 38,
+        "moments": 37,
         "rejets": 0,
         "plans": 607,
         "mots": 5037,
@@ -6123,80 +6123,336 @@
       "lon": -79.3839347
     }
   ],
-  "genere": "2026-09-16T22:01:00.747Z",
+  "genere": "2026-09-16T22:16:35.817Z",
   "camion": {
+    "zones": {
+      "avant": {
+        "label": "avant (calandre, pare-chocs)",
+        "p": [
+          4.35,
+          1.05,
+          0
+        ]
+      },
+      "phare-gauche": {
+        "label": "phare avant gauche",
+        "p": [
+          4.3,
+          1.2,
+          0.85
+        ]
+      },
+      "phare-droit": {
+        "label": "phare avant droit",
+        "p": [
+          4.3,
+          1.2,
+          -0.85
+        ]
+      },
+      "aile-avant-gauche": {
+        "label": "aile avant gauche",
+        "p": [
+          3.5,
+          1.05,
+          1.15
+        ]
+      },
+      "aile-avant-droite": {
+        "label": "aile avant droite",
+        "p": [
+          3.5,
+          1.05,
+          -1.15
+        ]
+      },
+      "capucine": {
+        "label": "capucine (au-dessus de la cabine)",
+        "p": [
+          4.25,
+          2.75,
+          0
+        ]
+      },
+      "retro-gauche": {
+        "label": "rétroviseur gauche",
+        "p": [
+          2.45,
+          1.95,
+          1.55
+        ]
+      },
+      "retro-droit": {
+        "label": "rétroviseur droit",
+        "p": [
+          2.45,
+          1.95,
+          -1.55
+        ]
+      },
+      "flanc-gauche-avant": {
+        "label": "flanc gauche, avant",
+        "p": [
+          0.6,
+          1.75,
+          1.38
+        ]
+      },
+      "flanc-gauche-milieu": {
+        "label": "flanc gauche, milieu",
+        "p": [
+          -1.4,
+          1.75,
+          1.38
+        ]
+      },
+      "flanc-gauche-arriere": {
+        "label": "flanc gauche, arrière",
+        "p": [
+          -3.3,
+          1.75,
+          1.38
+        ]
+      },
+      "flanc-droit-avant": {
+        "label": "flanc droit, avant",
+        "p": [
+          0.6,
+          1.75,
+          -1.38
+        ]
+      },
+      "flanc-droit-milieu": {
+        "label": "flanc droit, milieu",
+        "p": [
+          -1.4,
+          1.75,
+          -1.38
+        ]
+      },
+      "flanc-droit-arriere": {
+        "label": "flanc droit, arrière (au-dessus de la roue)",
+        "p": [
+          -3,
+          1.35,
+          -1.38
+        ]
+      },
+      "flanc-droit-arriere-bas": {
+        "label": "flanc droit, arrière, en bas",
+        "p": [
+          -3.6,
+          0.95,
+          -1.38
+        ]
+      },
+      "rail-gauche": {
+        "label": "rail du store, côté gauche (en haut)",
+        "p": [
+          -1,
+          3.12,
+          1.38
+        ]
+      },
+      "rail-droit": {
+        "label": "rail du store, côté droit (en haut)",
+        "p": [
+          -1,
+          3.12,
+          -1.38
+        ]
+      },
+      "toit": {
+        "label": "toit",
+        "p": [
+          -1,
+          3.35,
+          0
+        ]
+      },
+      "arriere": {
+        "label": "arrière (pare-chocs, paroi)",
+        "p": [
+          -4.55,
+          1.5,
+          0
+        ]
+      },
+      "arriere-haut": {
+        "label": "arrière, en haut",
+        "p": [
+          -4.55,
+          2.9,
+          0
+        ]
+      },
+      "feu-arriere-gauche": {
+        "label": "feu arrière gauche",
+        "p": [
+          -4.5,
+          1.3,
+          1
+        ]
+      },
+      "feu-arriere-droit": {
+        "label": "feu arrière droit",
+        "p": [
+          -4.5,
+          1.3,
+          -1
+        ]
+      },
+      "trappe-gauche-milieu": {
+        "label": "trappe de rangement gauche, milieu (serrure)",
+        "p": [
+          -1,
+          0.95,
+          1.38
+        ]
+      },
+      "trappe-gauche-arriere": {
+        "label": "trappe de rangement gauche, arrière",
+        "p": [
+          -3.4,
+          0.95,
+          1.38
+        ]
+      },
+      "trappe-droite-milieu": {
+        "label": "trappe de rangement droite, milieu",
+        "p": [
+          -1,
+          0.95,
+          -1.38
+        ]
+      },
+      "porte": {
+        "label": "porte d'entrée (côté droit)",
+        "p": [
+          -2.9,
+          1.6,
+          -1.42
+        ]
+      },
+      "marchepied": {
+        "label": "marchepied",
+        "p": [
+          -2.9,
+          0.55,
+          -1.5
+        ]
+      },
+      "roue-avant-gauche": {
+        "label": "roue / jante avant gauche",
+        "p": [
+          2.9,
+          0.45,
+          1.35
+        ]
+      },
+      "roue-avant-droite": {
+        "label": "roue / jante avant droite",
+        "p": [
+          2.9,
+          0.45,
+          -1.35
+        ]
+      },
+      "roue-arriere-gauche": {
+        "label": "roue arrière gauche",
+        "p": [
+          -2.55,
+          0.45,
+          1.35
+        ]
+      },
+      "roue-arriere-droite": {
+        "label": "roue arrière droite",
+        "p": [
+          -2.55,
+          0.45,
+          -1.35
+        ]
+      },
+      "inconnue": {
+        "label": "zone non précisée",
+        "p": [
+          -1,
+          3.9,
+          0
+        ]
+      }
+    },
     "impacts": [
       {
         "ep": 3,
         "videoId": "kDwuuudq-Hk",
-        "zone": "inconnue",
+        "zone": "flanc-droit-arriere-bas",
         "gravite": "rayure",
-        "quoi": "rayure découverte sur la carrosserie au réveil, origine inconnue, la caution du camping-car est en jeu",
+        "quoi": "rayure découverte au réveil sur le flanc droit arrière, origine inconnue ; la caution est en jeu",
         "debut": 375,
-        "citation": "Non, il a pas... il va pas me faire sauter la caution avec une rayure sur la carlingue, j'imagine."
+        "citation": "Non, il a pas... il va pas me faire sauter la caution avec une rayure sur la carlingue, j'imagine.",
+        "source": "corrigé"
       },
       {
         "ep": 3,
         "videoId": "kDwuuudq-Hk",
         "zone": "flanc-gauche-avant",
         "gravite": "rayure",
-        "quoi": "le camping-car frotte et raye la carrosserie en se faufilant dans une rue étroite de Québec, la jante gauche est aussi touchée",
+        "quoi": "le camping-car frotte et raye le flanc gauche avant en se faufilant dans une rue étroite de Québec : « c'est pas une rayure, c'est une gravure »",
         "debut": 1084,
-        "citation": "On prend la rue à gauche et on s'enfuit. Et c'est pas une rayure, c'est une gravure que tu as faite."
+        "citation": "On prend la rue à gauche et on s'enfuit. Et c'est pas une rayure, c'est une gravure que tu as faite.",
+        "source": "corrigé"
       },
       {
         "ep": 3,
         "videoId": "kDwuuudq-Hk",
-        "zone": "inconnue",
+        "zone": "roue-avant-gauche",
+        "gravite": "rayure",
+        "quoi": "la jante avant gauche est marquée dans la même manœuvre",
+        "debut": 1097,
+        "citation": "Et tu as fait la jante à gauche aussi.",
+        "source": "corrigé"
+      },
+      {
+        "ep": 3,
+        "videoId": "kDwuuudq-Hk",
+        "zone": "flanc-droit-arriere",
         "gravite": "choc",
-        "quoi": "le camping-car percute une voiture en se garant près du concert",
+        "quoi": "le camping-car percute une voiture garée près du concert ; le choc est au-dessus de la roue arrière droite, sous la fenêtre",
         "debut": 1612,
-        "citation": "L'odeur de ses aisselles, moi, à la fin du concert. T'as baisé la caisse ? Oh, il a baisé la caisse."
+        "citation": "L'odeur de ses aisselles, moi, à la fin du concert. T'as baisé la caisse ? Oh, il a baisé la caisse.",
+        "source": "corrigé"
       },
       {
-        "ep": 3,
-        "videoId": "kDwuuudq-Hk",
-        "zone": "avant",
+        "ep": 4,
+        "videoId": "sIGByUaPZrs",
+        "zone": "trappe-gauche-milieu",
         "gravite": "casse",
-        "quoi": "le phare avant est cassé après la collision avec une voiture dans le parking du concert",
-        "debut": 1671,
-        "citation": "T'as, t'as cassé le phare ? Ça va ? On va où 7, let's go."
+        "quoi": "la serrure de la trappe de rangement gauche est cassée",
+        "debut": 171,
+        "citation": "Tu vois, elle est cassée, je crois.",
+        "source": "corrigé"
       },
       {
         "ep": 4,
         "videoId": "sIGByUaPZrs",
         "zone": "arriere",
         "gravite": "choc",
-        "quoi": "a tapé un poteau en reculant le camping-car",
+        "quoi": "tape un poteau en reculant le camping-car",
         "debut": 221,
-        "citation": "Tu as tapé le poteau, juste là, vraiment, la tête de ma mère, je l'ai pas fait exprès."
+        "citation": "Tu as tapé le poteau, juste là, vraiment, la tête de ma mère, je l'ai pas fait exprès.",
+        "source": "corrigé"
       },
       {
         "ep": 4,
         "videoId": "sIGByUaPZrs",
-        "zone": "avant",
-        "gravite": "casse",
-        "quoi": "a cassé le phare en cognant un obstacle en reculant",
-        "debut": 247,
-        "citation": "Je fais quand même mal. Phare, phare. J'ai cassé le phare de la voiture."
-      },
-      {
-        "ep": 4,
-        "videoId": "sIGByUaPZrs",
-        "zone": "toit",
+        "zone": "rail-droit",
         "gravite": "choc",
-        "quoi": "a accroché un panneau 'interdiction de se parquer' en hauteur",
+        "quoi": "accroche un panneau « interdiction de stationner » avec le haut du côté droit, au niveau du rail du store",
         "debut": 282,
-        "citation": "Hauteur où il y a écrit « interdiction de se parquer ». Voilà, et le panneau est maintenant..."
-      },
-      {
-        "ep": 4,
-        "videoId": "sIGByUaPZrs",
-        "zone": "inconnue",
-        "gravite": "casse",
-        "quoi": "a cassé le camping-car à plusieurs reprises (poteau, phare, panneau) en une seule manœuvre de stationnement",
-        "debut": 340,
-        "citation": "J'ai juste cassé. J'ai cassé trois fois le camping-car. J'ai reconduit. Je l'ai cassé une quatrième fois."
+        "citation": "Hauteur où il y a écrit « interdiction de se parquer ». Voilà, et le panneau est maintenant...",
+        "source": "corrigé"
       }
     ]
   }

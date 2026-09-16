@@ -1,0 +1,10 @@
+{
+  "note": "Corrections de Guillaume du 17/09, vérifiées à l'image par Claude aux timecodes indiqués. Les timecodes visent les impacts de moments.json (tolérance ±20 s).",
+  "impacts": [
+    { "debut": 375, "zone": "flanc-droit-arriere-bas", "gravite": "rayure", "quoi": "rayure découverte au réveil sur le flanc droit arrière, origine inconnue ; la caution est en jeu", "verif": "ep3 6:36, ils regardent le flanc droit arrière" },
+    { "debut": 1084, "zone": "flanc-gauche-avant", "gravite": "rayure", "quoi": "le camping-car frotte et raye le flanc gauche avant en se faufilant dans une rue étroite de Québec : « c'est pas une rayure, c'est une gravure »", "verif": "confirmé par Guillaume" },
+    { "ajouter": true, "debut": 1097, "zone": "roue-avant-gauche", "gravite": "rayure", "quoi": "la jante avant gauche est marquée dans la même manœuvre", "citation": "Et tu as fait la jante à gauche aussi.", "verif": "ep3 18:17" },
+    { "debut": 1612, "zone": "flanc-droit-arriere", "gravite": "choc", "quoi": "le camping-car percute une voiture garée près du concert ; le choc est au-dessus de la roue arrière droite, sous la fenêtre", "verif": "ep3 26:53, confirmé par Guillaume" },
+    { "debut": 1671, "supprimer": true, "pourquoi": "le phare cassé est celui de la voiture percutée, pas du camion" }
+  ]
+}
