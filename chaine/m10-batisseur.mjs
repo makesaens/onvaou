@@ -123,30 +123,36 @@ const html = `<!doctype html>
 </head>
 <body>
 <header class="hero">
-  <div id="carte" aria-label="Carte du trajet"></div>
+  <div class="hero-video" id="hero-video" data-video="${episodes[0].videoId}" data-debut="118" data-fin="192"><div id="yt-intro"></div></div>
   <div class="voile"></div>
   <div class="haut">
     <div class="marque"><span class="sous">Djilsi · Maxime Biaggi · Joyca · Théodort · Manas</span><h1 class="titre">On va où<svg class="feuille" viewBox="0 0 24 24" aria-hidden="true"><path fill="#e23a2e" d="M12 1.5l1.6 3.2 2.1-1.1-.6 3.4 2.9-.9-1.2 2.6 2.7.9-2.3 1.9 1.2 2.4-3.4-.7.2 2.9-2.6-1.6L12 22.5l-.6-8-2.6 1.6.2-2.9-3.4.7 1.2-2.4L4.5 9.6l2.7-.9L6 6.1l2.9.9-.6-3.4 2.1 1.1z"/></svg>7</h1></div>
     <div class="compteur"><div class="n"><b>${episodes.length}</b> / ${schedule.episodesAnnonces}</div><div class="t">épisodes<br>sortis</div></div>
   </div>
   <div class="bas">
-    <div class="lecteur">
-      <div class="ligne1"><select id="sel-ep" aria-label="Épisode"></select><span class="tc" id="tc">0:00</span><button class="btn sec" id="voir-tc" type="button">Voir ce moment</button></div>
-      <div class="chap" id="chap"></div>
-      <input id="range" type="range" min="0" max="100" value="100" step="1" aria-label="Position dans l’épisode">
-      <div class="legende"><span><i style="background:#efe3c6;border:2px solid #e23a2e"></i>étape</span><span><i style="background:#ff5a4a"></i>vanne</span><span><i style="background:#8fd0f0"></i>rencontre</span><span><i style="background:#f2a33a"></i>galère · choc</span><span>· le camion suit le curseur</span></div>
-    </div>
-    <div class="duo">
-      <a class="carte-ep" href="https://www.youtube.com/watch?v=${dernier.videoId}" target="_blank" rel="noopener"><img src="${dernier.miniature}" alt=""><div class="info"><span class="m">Dernier épisode · ${new Date(dernier.publieLe).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', timeZone: 'Europe/Paris' })}</span><span class="t">Ép. ${dernier.ep} · ${esc(dernier.titre.replace(/\s*-\s*ON VA O.*$/i, ''))}</span><span class="m">${mmss(dernier.dureeS)} · ${nb(dernier.vues)} vues</span></div></a>
-      <div class="prochain"><span class="eyebrow">Prochain épisode</span><div class="cd" id="cd">—</div><span class="m cond" id="cd-lbl" style="font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--olive)"></span><div class="actions"><a class="btn" id="ics" href="#" download>Me le rappeler (.ics)</a><a class="btn sec" id="gcal" href="#" target="_blank" rel="noopener">Google Agenda</a></div></div>
-    </div>
+    <a class="carte-ep" href="https://www.youtube.com/watch?v=${dernier.videoId}" target="_blank" rel="noopener"><img src="${dernier.miniature}" alt=""><div class="info"><span class="m">Dernier épisode · ${new Date(dernier.publieLe).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', timeZone: 'Europe/Paris' })}</span><span class="t">Ép. ${dernier.ep} · ${esc(dernier.titre.replace(/\s*-\s*ON VA O.*$/i, ''))}</span><span class="m">${mmss(dernier.dureeS)} · ${nb(dernier.vues)} vues</span></div></a>
+    <div class="prochain"><span class="eyebrow">Prochain épisode</span><div class="cd" id="cd">—</div><span class="m cond" id="cd-lbl" style="font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--olive)"></span><div class="actions"><a class="btn" id="ics" href="#" download>Me le rappeler (.ics)</a><a class="btn sec" id="gcal" href="#" target="_blank" rel="noopener">Google Agenda</a></div></div>
   </div>
+  <div class="credit">L’intro de l’épisode 1, lue depuis YouTube · <a href="https://www.youtube.com/watch?v=${episodes[0].videoId}&t=118" target="_blank" rel="noopener">voir sur la chaîne</a></div>
 </header>
 
 <main class="wrap">
   <section id="episodes">
     <div class="sec-head"><h2>Les épisodes</h2><p>${kmTotal} km de route reconstitués, ${villes.length} étape${villes.length > 1 ? 's' : ''} (${villes.join(', ')}), ${riresTotal} rires détectés, destination ${esc(schedule.destinationFinale)}.</p></div>
     <div class="grille-ep">${episodes.slice().reverse().map(epCard).join('')}${aVenir.map(epAVenir).join('')}</div>
+  </section>
+
+  <section id="carte-sec">
+    <div class="sec-head"><h2>La carte</h2><p>Où ils sont, par où ils sont passés, où ils vont. Chaque étape et chaque point sur la route renvoie à la seconde exacte de l’épisode. Le camion suit le curseur.</p></div>
+    <div class="carte-wrap">
+      <div id="carte" aria-label="Carte du trajet"></div>
+      <div class="lecteur">
+        <div class="ligne1"><select id="sel-ep" aria-label="Épisode"></select><span class="tc" id="tc">0:00</span><button class="btn sec" id="voir-tc" type="button">Voir ce moment</button></div>
+        <div class="chap" id="chap"></div>
+        <input id="range" type="range" min="0" max="100" value="100" step="1" aria-label="Position dans l’épisode">
+        <div class="legende"><span><i style="background:#efe3c6;border:2px solid #e23a2e"></i>étape</span><span><i style="background:#ff5a4a"></i>vanne</span><span><i style="background:#8fd0f0"></i>rencontre</span><span><i style="background:#f2a33a"></i>galère · choc</span></div>
+      </div>
+    </div>
   </section>
 
   <section id="citations-sec">
@@ -199,6 +205,7 @@ const html = `<!doctype html>
 <footer><div class="wrap"><p>Projet indépendant de fan, sans lien avec Djilsi, son équipe ou ses partenaires. Les vidéos restent sur YouTube : chaque lien renvoie au moment exact de l’épisode. Les textes cités viennent du transcript automatique et peuvent contenir des erreurs. Fond de carte : imagerie Esri ; routes : OpenStreetMap et OSRM. Une demande de retrait sera honorée immédiatement.</p><p>Construit à Lyon par <a href="https://makesaens.github.io/" target="_blank" rel="noopener">Saens</a>, comme démonstration d’une chaîne qui extrait, vérifie et publie une donnée sans qu’on la ressaisisse.</p></div></footer>
 <script>window.DATA=${JSON.stringify(DATA)};</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://www.youtube.com/iframe_api" async></script>
 <script src="app.js?v=${Date.now()}"></script>
 <script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"}}</script>
 <script type="module" src="camion3d.js?v=${Date.now()}"></script>
