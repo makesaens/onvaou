@@ -1,8 +1,19 @@
 {
   "saison": 7,
   "episodes": [
-    { "ep": 1, "id": "sJZBUk0nO5E" },
-    { "ep": 2, "id": "LFJkky0MAnA" },
-    { "ep": 3, "id": "kDwuuudq-Hk" }
+    {
+      "ep": 1,
+      "id": "sJZBUk0nO5E"
+    },
+    {
+      "ep": 2,
+      "id": "LFJkky0MAnA"
+    },
+    {
+      "ep": 3,
+      "id": "kDwuuudq-Hk",
+      "detecteLe": "2026-09-16T13:54:41.517Z",
+      "publieLe": "2026-09-12T08:59:28+00:00"
+    }
   ]
 }

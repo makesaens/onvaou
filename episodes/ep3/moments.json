@@ -4,63 +4,63 @@
   "modele": "claude-sonnet-5",
   "chapitres": [
     {
-      "titre": "Réveil chaotique et dégâts nocturnes",
-      "debut": 0,
+      "titre": "Résumé des épisodes précédents et incident nocturne dans le camping-car",
+      "debut": 3,
       "fin": 108
     },
     {
-      "titre": "Déménagement au camping et rencontre des voisins",
+      "titre": "Réveil compliqué, malentendu avec les voisins et objets égarés",
       "debut": 108,
-      "fin": 237
+      "fin": 286
     },
     {
-      "titre": "Embrouille autour du chargeur volé",
-      "debut": 237,
-      "fin": 339
+      "titre": "Enquête sur le chargeur volé et la rayure mystère de la nuit",
+      "debut": 286,
+      "fin": 552
     },
     {
-      "titre": "Enquête sur la rayure du camping-car",
-      "debut": 339,
-      "fin": 516
+      "titre": "Pause sponsor Vichy Dercos",
+      "debut": 552,
+      "fin": 648
     },
     {
-      "titre": "Pause sponsor Vichy et douches au camping",
-      "debut": 516,
-      "fin": 749
+      "titre": "Douches du camping et départ",
+      "debut": 648,
+      "fin": 759
     },
     {
-      "titre": "Route et rencontre de Français devenus Québécois",
-      "debut": 749,
+      "titre": "Recherche de nourriture et rencontre d'un Français expatrié au Québec",
+      "debut": 759,
       "fin": 967
     },
     {
-      "titre": "Manœuvre serrée et dégâts dans un parking à Québec",
+      "titre": "Manœuvre serrée dans les rues de Québec et dégâts sur le camping-car",
       "debut": 967,
-      "fin": 1215
+      "fin": 1225
     },
     {
-      "titre": "Jeux de bord en route vers Montréal",
-      "debut": 1215,
-      "fin": 1464
+      "titre": "Route vers Montréal, jeu du rire et anecdotes",
+      "debut": 1225,
+      "fin": 1508
     },
     {
-      "titre": "Rencontre avec Harpin l'Épine et concert improvisé",
-      "debut": 1464,
-      "fin": 1740
+      "titre": "Concert de Harpin l'Épine et collision avec une voiture",
+      "debut": 1508,
+      "fin": 1680
     },
     {
-      "titre": "Choc avec une voiture garée et honte publique",
-      "debut": 1740,
-      "fin": 1980
+      "titre": "Honte et gestion de l'après-collision devant les fans",
+      "debut": 1680,
+      "fin": 1894
     },
     {
-      "titre": "Soirée avec le groupe les caresseux de bouteille",
-      "debut": 1980,
-      "fin": 2331
+      "titre": "Soirée et discussions sur les dégâts du camping-car",
+      "debut": 1894,
+      "fin": 2340
     },
     {
-      "titre": "Confrontation avec le propriétaire et fin de soirée",
-      "debut": 2331,
+      "titre": "Constat avec la propriétaire de la voiture, jeux de mots nocturnes et fin de journée",
+      "debut": 2340,
       "fin": 2707
     }
   ],
@@ -72,9 +72,9 @@
       "citation": "Oh les gars, ça fait un gros bruit là. Voilà. Et là, c'est sûr il est mort.",
       "propre": "Oh les gars, ça fait un gros bruit là. Voilà. Et là, c'est sûr, il est mort.",
       "qui": null,
-      "confiance": 0.55,
+      "confiance": 0.8,
       "detail": {
-        "objet": "la télévision",
+        "objet": "télé",
         "sort": "casse"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=67"
@@ -83,34 +83,21 @@
       "type": "GALERE",
       "debut": 95,
       "fin": 108,
-      "citation": "On a plus d'eau dans le camping-car. Les gars, l'autre problème est là. En fait, je me suis dit tiens, je vais essayer de voir",
-      "propre": "On n'a plus d'eau dans le camping-car. Les gars, l'autre problème est là. En fait, je me suis dit : tiens, je vais essayer de voir",
+      "citation": "On a plus d'eau dans le camping-car. Les gars, l'autre problème est là. En fait, je me suis dit tiens, je vais essayer de voir s'il y a de l'eau.",
+      "propre": "On n'a plus d'eau dans le camping-car. Les gars, l'autre problème est là. En fait, je me suis dit tiens, je vais essayer de voir s'il y a de l'eau.",
       "qui": null,
-      "confiance": 0.8,
+      "confiance": 0.75,
       "detail": {
-        "quoi": "plus d'eau dans le camping-car après qu'un robinet est resté ouvert dans la salle de bain"
+        "quoi": "plus d'eau dans le camping-car après une nuit compliquée, un robinet est resté ouvert dans la salle de bain"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=93"
-    },
-    {
-      "type": "GALERE",
-      "debut": 147,
-      "fin": 156,
-      "citation": "Bonjour, bonjour. Bonjour. Vous êtes pas au bon endroit. Est-ce que vous aviez réservé par internet ?",
-      "propre": "Bonjour, bonjour, bonjour. Vous n'êtes pas au bon endroit. Est-ce que vous aviez réservé par internet ?",
-      "qui": null,
-      "confiance": 0.7,
-      "detail": {
-        "quoi": "ils se sont installés au mauvais emplacement du camping et doivent déplacer le camping-car"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=145"
     },
     {
       "type": "REFERENCE",
       "debut": 185,
       "fin": 194,
       "citation": "tu payes mois puis quand tu es anné tu tu arrêtes l'abonnement. C'est comme Tinder.",
-      "propre": "Tu payes au mois, puis quand tu es anné, tu tu arrêtes l'abonnement. C'est comme Tinder.",
+      "propre": "Tu payes, mois puis quand tu es anné, tu tu arrêtes l'abonnement. C'est comme Tinder.",
       "qui": null,
       "confiance": 0.6,
       "detail": {
@@ -124,38 +111,27 @@
       "debut": 264,
       "fin": 278,
       "citation": "C'est moi j'ai plus mon chargeur. Pas chargeur moi non plus. Toi aussi ? Bah peut-être j'ai pris le tien. Alors",
-      "propre": "C'est moi, j'ai plus mon chargeur. Pas de chargeur, moi non plus. Toi aussi ? Bah, peut-être j'ai pris le tien. Alors,",
+      "propre": "C'est moi, j'ai plus mon chargeur. Pas chargeur, moi non plus. Toi aussi ? Bah peut-être j'ai pris le tien. Alors",
       "qui": null,
       "confiance": 0.7,
       "detail": {
-        "objet": "chargeur de téléphone",
+        "objet": "chargeur",
         "sort": "perdu"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=262"
     },
     {
-      "type": "CITATION",
-      "debut": 321,
-      "fin": 330,
-      "citation": "Manas tu me rends mon chargeur frérot me fais pas crier de bon matin frérot.",
-      "propre": "Manas, tu me rends mon chargeur, frérot, me fais pas crier de bon matin, frérot.",
-      "qui": "Théodort",
-      "confiance": 0.5,
-      "detail": {
-        "pourquoi": "dispute comique matinale, Théodort accuse Manas d'avoir volé son chargeur"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=319"
-    },
-    {
-      "type": "CITATION",
+      "type": "IMPACT_CAMION",
       "debut": 375,
       "fin": 383,
       "citation": "Non il a pas il il va pas me faire sauter la caution avec une rayure sur la carlingue j'imagine",
-      "propre": "Non, il a pas, il il va pas me faire sauter la caution avec une rayure sur la carlingue, j'imagine.",
+      "propre": "Non, il a pas... il va pas me faire sauter la caution avec une rayure sur la carlingue, j'imagine.",
       "qui": null,
       "confiance": 0.55,
       "detail": {
-        "pourquoi": "inquiétude sur la caution du camping-car après un bruit suspect pendant la nuit"
+        "zone": "inconnue",
+        "gravite": "rayure",
+        "quoi": "rayure découverte sur la carrosserie au réveil, origine inconnue, la caution du camping-car est en jeu"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=373"
     },
@@ -164,63 +140,102 @@
       "debut": 430,
       "fin": 439,
       "citation": "Wolverine c'est qui ? C'est il veut piquer ma place ou quoi le mec ?",
-      "propre": "Wolverine, c'est qui ? C'est il veut piquer ma place ou quoi, le mec ?",
+      "propre": "Wolverine, c'est qui ? C'est... il veut piquer ma place ou quoi, le mec ?",
       "qui": null,
       "confiance": 0.6,
       "detail": {
-        "pourquoi": "vanne accusant le super-héros Wolverine d'avoir griffé le camping-car pendant la nuit"
+        "pourquoi": "réaction absurde en accusant Wolverine d'avoir abîmé le camping-car pendant la nuit"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=428"
     },
     {
-      "type": "REFERENCE",
-      "debut": 493,
-      "fin": 498,
-      "citation": "doit être Wolverine qui est venu arracher le camping-car à la main je pense.",
-      "propre": "Doit être Wolverine qui est venu arracher le camping-car à la main, je pense.",
+      "type": "GALERE",
+      "debut": 469,
+      "fin": 477,
+      "citation": "On va pas se mentir, on s'est quand même fait réveiller par un grand boouom sur un poteau.",
+      "propre": "On va pas se mentir, on s'est quand même fait réveillés par un grand boum sur un poteau.",
       "qui": null,
       "confiance": 0.7,
+      "detail": {
+        "quoi": "réveillés en pleine nuit par un grand bruit contre un poteau, risque de perdre la caution de 20 000 dollars du camping-car"
+      },
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=467"
+    },
+    {
+      "type": "REFERENCE",
+      "debut": 489,
+      "fin": 498,
+      "citation": "Bon c'est pas Jaiko. Ouais non c'est les Avengers. C'est sûr.",
+      "propre": "Bon, c'est pas Jaiko. Ouais, non, c'est les Avengers. C'est sûr.",
+      "qui": null,
+      "confiance": 0.5,
       "detail": {
         "reference": "Avengers / Wolverine",
         "type": "film"
       },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=491"
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=487"
     },
     {
       "type": "SPONSOR",
       "debut": 552,
       "fin": 560,
-      "citation": "laissez-moi vous parler de Vichy puisqu'on fait du foot et qu'on est dans le foot là, venez, je vais vous en parler.",
-      "propre": "Laissez-moi vous parler de Vichy, puisqu'on fait du foot et qu'on est dans le foot là, venez, je vais vous en parler.",
+      "citation": "Bon bref, laissez-moi vous parler de Vichy puisqu'on fait du foot et qu'on est dans le foot là, venez, je vais vous en parler.",
+      "propre": "Bon bref, laissez-moi vous parler de Vichy puisqu'on fait du foot et qu'on est dans le foot là, venez, je vais vous en parler.",
       "qui": "Djilsi",
       "confiance": 0.85,
       "detail": {
-        "marque": "Vichy (gamme Dercos)"
+        "marque": "Vichy Dercos"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=550"
+    },
+    {
+      "type": "CITATION",
+      "debut": 769,
+      "fin": 778,
+      "citation": "alors que tu fais rien. Ça m'énerve. Je le capte tellement. Bonjour. Hello. Bonjour. Bonjour. Bonjour. Oh speak English français.",
+      "propre": "Alors que tu fais rien, ça m'énerve, je le capte tellement. Bonjour. Hello. Bonjour, bonjour, bonjour. Oh, speak English, français ?",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "pourquoi": "quiproquo linguistique comique en cherchant un endroit pour manger"
+      },
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=767"
     },
     {
       "type": "RENCONTRE",
       "debut": 832,
       "fin": 840,
-      "citation": "Chill. On cherche à manger. Si je dis que vous êtes canadien, c'est chiant. Non, on est québécois. On est français.",
-      "propre": "Chill. On cherche à manger. Si je dis que vous êtes canadiens, c'est chiant. Non, on est québécois. On est français.",
+      "citation": "Chill. On cherche à manger. Si je dis que vous êtes canadien, c'est chiant. Non, on est québécois. On est français. Non, préfère québécois. Ouais.",
+      "propre": "Chill. On cherche à manger. Si je dis que vous êtes canadiens, c'est chiant. Non, on est québécois. On est français. Non, préfère québécois. Ouais.",
       "qui": null,
-      "confiance": 0.6,
+      "confiance": 0.7,
       "detail": {
         "personne": null,
-        "contexte": "rencontre avec des Français expatriés qui se revendiquent désormais québécois"
+        "contexte": "un Français installé au Québec depuis plusieurs années qui a pris l'accent québécois"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=830"
+    },
+    {
+      "type": "CITATION",
+      "debut": 840,
+      "fin": 850,
+      "citation": "Thodxm. Wouh ! Ah tu as pas tu as pas tu as pas Maxim ? Oui. OK, c'est bon Jess.",
+      "propre": "Thodxm. Wouh ! Ah, tu as pas... tu as pas... tu as pas Maxim ? Oui. OK, c'est bon, Jess.",
+      "qui": null,
+      "confiance": 0.5,
+      "detail": {
+        "pourquoi": "confusion comique sur qui doit parler face caméra"
+      },
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=838"
     },
     {
       "type": "VILLE",
       "debut": 850,
       "fin": 857,
-      "citation": "On fait un petit retri au Québec. OK. Puis vous trouvez ça comment ?",
-      "propre": "On fait un petit retour au Québec. OK. Puis, vous trouvez ça comment ?",
+      "citation": "On fait un petit retri au Québec. OK. Puis vous trouvez ça comment ? Est-ce que c'est Ouais, c'est super.",
+      "propre": "On fait un petit retri au Québec. OK. Puis vous trouvez ça comment ? Est-ce que c'est... ouais, c'est super.",
       "qui": null,
-      "confiance": 0.55,
+      "confiance": 0.5,
       "detail": {
         "ville": "Québec",
         "action": "arrivee"
@@ -229,95 +244,66 @@
     },
     {
       "type": "CITATION",
-      "debut": 868,
-      "fin": 877,
-      "citation": "Ah du coup tu as pris l'accent en fait. c'est ouf. Avec tout le monde j'ai pris l'accent en fait. Ouais. c'est ouf.",
-      "propre": "Ah, du coup, tu as pris l'accent, en fait. C'est ouf. Avec tout le monde, j'ai pris l'accent, en fait. Ouais, c'est ouf.",
-      "qui": null,
-      "confiance": 0.65,
-      "detail": {
-        "pourquoi": "un Français installé au Québec depuis peu a déjà pris l'accent québécois"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=866"
-    },
-    {
-      "type": "REFERENCE",
-      "debut": 895,
-      "fin": 902,
-      "citation": "quand on me dit je suis français ça me rend ouf c'est la même chose pour nous en fait le Québec libre",
-      "propre": "Quand on me dit « je suis français », ça me rend ouf, c'est la même chose pour nous, en fait, le Québec libre.",
-      "qui": null,
-      "confiance": 0.4,
-      "detail": {
-        "reference": "Vive le Québec libre (Charles de Gaulle)",
-        "type": "personnalite"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=893"
-    },
-    {
-      "type": "CITATION",
       "debut": 967,
       "fin": 976,
       "citation": "Bat les couilles 64 fois. Bat les couilles. Bat les couilles. Bat les cou bat les couilles 64 fois.",
-      "propre": "Bat les couilles, 64 fois. Bat les couilles. Bat les couilles. Bat les cou, bat les couilles, 64 fois.",
+      "propre": "Bat les couilles, 64 fois. Bat les couilles. Bat les couilles. Bat les couilles, bat les couilles, 64 fois.",
       "qui": null,
-      "confiance": 0.7,
+      "confiance": 0.6,
       "detail": {
-        "pourquoi": "chant absurde répété en boucle par l'équipe, running gag de l'épisode"
+        "pourquoi": "running gag absurde répété en boucle pendant le trajet"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=965"
     },
     {
-      "type": "IMPACT_CAMION",
-      "debut": 1065,
-      "fin": 1075,
-      "citation": "Oh là là, Max Max. Oh là là là. Oh le bordel que tu es en train de",
-      "propre": "Oh là là, Max, Max. Oh là là là. Oh, le bordel que tu es en train de...",
+      "type": "CITATION",
+      "debut": 1075,
+      "fin": 1084,
+      "citation": "ok, on est parti. Attur bah dites-moi on a dit casse-toi. On a dit casse-toi.",
+      "propre": "OK, on est parti. Attends, bah dites-moi, on a dit casse-toi. On a dit casse-toi.",
       "qui": null,
       "confiance": 0.55,
       "detail": {
-        "zone": "flanc-gauche-avant",
-        "gravite": "choc",
-        "quoi": "le camping-car frotte contre une structure en se faufilant dans un parking étroit à Québec"
+        "pourquoi": "tension pendant la manœuvre serrée du camping-car dans les rues de Québec"
       },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=1063"
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=1073"
     },
     {
       "type": "IMPACT_CAMION",
-      "debut": 1089,
+      "debut": 1084,
       "fin": 1093,
-      "citation": "Et c'est pas une rayure, c'est une gravure que tu as fait. Je pouvais",
-      "propre": "Et c'est pas une rayure, c'est une gravure que tu as faite. Je pouvais...",
+      "citation": "On prend la rue à gauche et on s'enfuit. Et c'est pas une rayure, c'est une gravure que tu as fait.",
+      "propre": "On prend la rue à gauche et on s'enfuit. Et c'est pas une rayure, c'est une gravure que tu as faite.",
+      "qui": null,
+      "confiance": 0.75,
+      "detail": {
+        "zone": "flanc-gauche-avant",
+        "gravite": "rayure",
+        "quoi": "le camping-car frotte et raye la carrosserie en se faufilant dans une rue étroite de Québec, la jante gauche est aussi touchée"
+      },
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=1082"
+    },
+    {
+      "type": "DECISION",
+      "debut": 1102,
+      "fin": 1110,
+      "citation": "il m'a dit littéralement la ville est entière est barrée en camping-car. Ça sert à rien. Vous êtes mort dans 3h30 4h max.",
+      "propre": "Il m'a dit littéralement : la ville est entièrement barrée en camping-car. Ça sert à rien, vous êtes morts dans 3h30, 4h max.",
       "qui": null,
       "confiance": 0.65,
       "detail": {
-        "zone": "roue",
-        "gravite": "rayure",
-        "quoi": "gravure profonde sur le flanc gauche et la jante avant en se faufilant dans le parking"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=1087"
-    },
-    {
-      "type": "GALERE",
-      "debut": 1102,
-      "fin": 1108,
-      "citation": "un il m'a dit littéralement la ville est entière est barrée en camping-car. Ça sert à rien.",
-      "propre": "Il m'a dit littéralement que la ville est entière barrée en camping-car. Ça sert à rien.",
-      "qui": null,
-      "confiance": 0.6,
-      "detail": {
-        "quoi": "le centre de Québec est interdit aux camping-cars, obligeant l'équipe à repartir plus tôt que prévu"
+        "quoi": "ils renoncent à visiter Québec car la ville est trop étroite pour le camping-car, direction Montréal"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=1100"
     },
     {
       "type": "VILLE",
       "debut": 1110,
-      "fin": 1114,
-      "citation": "Donc on se casse et on aura pas vu Québec. Mais ça veut dire qu'il fallait pas",
-      "propre": "Donc on se casse et on n'aura pas vu Québec. Mais ça veut dire qu'il fallait pas...",
+      "fin": 1120,
+      "citation": "Donc on se casse et on aura pas vu Québec.",
+      "propre": "Donc on se casse et on n'aura pas vu Québec.",
       "qui": null,
-      "confiance": 0.6,
+      "confiance": 0.7,
       "detail": {
         "ville": "Québec",
         "action": "depart"
@@ -325,24 +311,11 @@
       "lien": "https://youtu.be/kDwuuudq-Hk?t=1108"
     },
     {
-      "type": "DECISION",
-      "debut": 1188,
-      "fin": 1191,
-      "citation": "il a répondu le gars qui répond. Allez, c'est parti. On enchaîne à Montréal tout de suite.",
-      "propre": "Il a répondu, le gars qui répond. Allez, c'est parti, on enchaîne à Montréal tout de suite.",
-      "qui": null,
-      "confiance": 0.6,
-      "detail": {
-        "quoi": "ils renoncent à visiter davantage Québec et décident de foncer directement vers Montréal"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=1186"
-    },
-    {
       "type": "VILLE",
       "debut": 1188,
       "fin": 1197,
-      "citation": "Mais là à Montréal ce soir quelque chose de très cool nous attend. Vous avez kiffé Québec ?",
-      "propre": "Mais là, à Montréal ce soir, quelque chose de très cool nous attend. Vous avez kiffé Québec ?",
+      "citation": "il a répondu le gars qui répond. Allez, c'est parti. On enchaîne à Montréal tout de suite. Mais là à Montréal ce soir quelque chose",
+      "propre": "Il a répondu, le gars qui répond. Allez, c'est parti, on enchaîne à Montréal tout de suite. Mais là, à Montréal ce soir, quelque chose...",
       "qui": null,
       "confiance": 0.6,
       "detail": {
@@ -353,16 +326,29 @@
     },
     {
       "type": "CITATION",
-      "debut": 1363,
-      "fin": 1372,
-      "citation": "Faut sucer qui pour passer moi je me suis pas porté volontaire tout de suite mais j'aurais pas dit non tu vois. Ouais mais du coup tu as raté ta chance",
-      "propre": "Faut sucer qui pour passer ? Moi, je me suis pas porté volontaire tout de suite, mais j'aurais pas dit non, tu vois. Ouais, mais du coup, tu as raté ta chance.",
+      "debut": 1271,
+      "fin": 1280,
+      "citation": "non non non surtout pas tu sais comment je suis superstitieux mec tu ris bref il y a un truc dingue",
+      "propre": "Non, non, non, surtout pas, tu sais comment je suis superstitieux, mec. Tu ris ? Bref, il y a un truc dingue...",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "pourquoi": "jeu du rire où celui qui sourit doit changer de place, ambiance superstitieuse"
+      },
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=1269"
+    },
+    {
+      "type": "CITATION",
+      "debut": 1354,
+      "fin": 1363,
+      "citation": "Ah non, tu as rien eu ou il a trop eu justement ?",
+      "propre": "Ah non, tu as rien eu, ou il a trop eu justement ?",
       "qui": null,
       "confiance": 0.5,
       "detail": {
-        "pourquoi": "vanne graveleuse pendant qu'ils tentent de se frayer un chemin dans la foule"
+        "pourquoi": "réaction au jeu à gratter pendant le trajet"
       },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=1361"
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=1352"
     },
     {
       "type": "REFERENCE",
@@ -371,104 +357,93 @@
       "citation": "Je suis un artiste. Tous les chemins mènent à Rom frère. Tous les chemins mèent à la tour de pise frère.",
       "propre": "Je suis un artiste. Tous les chemins mènent à Rome, frère. Tous les chemins mènent à la tour de Pise, frère.",
       "qui": null,
-      "confiance": 0.5,
+      "confiance": 0.55,
       "detail": {
-        "reference": "Tous les chemins mènent à Rome / la tour de Pise",
+        "reference": "Tous les chemins mènent à Rome / Tour de Pise",
         "type": "autre"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=1379"
     },
     {
-      "type": "CITATION",
-      "debut": 1446,
-      "fin": 1455,
-      "citation": "Les billets canadiens frérot, ils sont indéchirables. Et je vous jure que c'est une vraie info.",
-      "propre": "Les billets canadiens, frérot, ils sont indéchirables. Et je vous jure que c'est une vraie info.",
-      "qui": null,
-      "confiance": 0.7,
-      "detail": {
-        "pourquoi": "anecdote insolite sur les billets de banque canadiens en plastique indéchirable"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=1444"
-    },
-    {
       "type": "RENCONTRE",
       "debut": 1508,
       "fin": 1517,
-      "citation": "frérot. Bam, je vous présente Harpin l'Épine. Au Québec, ici c'est une resta de dingue. On est tombé sur ses TikTok il y a quelques mois et on voulait",
-      "propre": "Frérot, bam, je vous présente Harpin l'Épine. Au Québec, ici, c'est une resto de dingue. On est tombé sur ses TikTok il y a quelques mois et on voulait",
-      "qui": null,
-      "confiance": 0.7,
+      "citation": "frérot. Bam, je vous présente Harpin l'Épine. Au Québec, ici c'est une resta",
+      "propre": "Frérot, bam, je vous présente Harpin l'Épine. Au Québec, ici c'est une resto...",
+      "qui": "Djilsi",
+      "confiance": 0.75,
       "detail": {
         "personne": "Harpin l'Épine",
-        "contexte": "rencontre organisée après l'avoir découvert sur TikTok, dans son restaurant"
+        "contexte": "streameur/chanteur québécois découvert sur TikTok, ils assistent à son concert devant 400 à 600 personnes"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=1506"
     },
     {
       "type": "CITATION",
-      "debut": 1578,
-      "fin": 1587,
-      "citation": "J'ai envie d'être ce mec avec un chapeau. OK. Bah moi, j'ai envie d'être ce mec là mais il sera jamais mieux que moi.",
-      "propre": "J'ai envie d'être ce mec avec un chapeau. OK, bah moi, j'ai envie d'être ce mec-là, mais il sera jamais mieux que moi.",
+      "debut": 1570,
+      "fin": 1578,
+      "citation": "La star est en train de diriger le campingc. C'est trop drôle. Il est tellement cool. je veux être ce gars. Il est trop cool.",
+      "propre": "La star est en train de diriger le camping-car. C'est trop drôle. Il est tellement cool, je veux être ce gars. Il est trop cool.",
       "qui": null,
       "confiance": 0.6,
       "detail": {
-        "pourquoi": "adoration exagérée et comique envers le chanteur croisé sur place"
+        "pourquoi": "le chanteur aide à garer le camping-car, fascination comique de la bande"
       },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=1576"
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=1568"
+    },
+    {
+      "type": "IMPACT_CAMION",
+      "debut": 1612,
+      "fin": 1623,
+      "citation": "L'odeur de ses aisselles moi à la fin du concert. Tuas baisé la caisse ? Oh il a baisé la caisse",
+      "propre": "L'odeur de ses aisselles, moi, à la fin du concert. T'as baisé la caisse ? Oh, il a baisé la caisse.",
+      "qui": null,
+      "confiance": 0.6,
+      "detail": {
+        "zone": "inconnue",
+        "gravite": "choc",
+        "quoi": "le camping-car percute une voiture en se garant près du concert"
+      },
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=1610"
+    },
+    {
+      "type": "IMPACT_CAMION",
+      "debut": 1671,
+      "fin": 1680,
+      "citation": "Tuas tu as cassé le phare. Ça va ? On va où 7. Let's go.",
+      "propre": "T'as, t'as cassé le phare ? Ça va ? On va où 7, let's go.",
+      "qui": null,
+      "confiance": 0.55,
+      "detail": {
+        "zone": "avant",
+        "gravite": "casse",
+        "quoi": "le phare avant est cassé après la collision avec une voiture dans le parking du concert"
+      },
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=1669"
     },
     {
       "type": "CITATION",
       "debut": 1714,
       "fin": 1724,
-      "citation": "Je suis dans un mal. C'est terrible. Et quand on va arriver, c'est le walk of Shari. Thodor, tu dois arriver dire \"Hey I was",
-      "propre": "Je suis dans un mal. C'est terrible. Et quand on va arriver, c'est le walk of shame. Théodort, tu dois arriver et dire « Hey, I was...",
+      "citation": "C'est pas c'est pas temps la honte. C'est la honte à mort. C'est la honte à mort hon les gars. Je transpire.",
+      "propre": "C'est pas... c'est pas le temps de la honte. C'est la honte à mort. C'est la honte à mort, hon, les gars. Je transpire.",
       "qui": null,
-      "confiance": 0.5,
+      "confiance": 0.65,
       "detail": {
-        "pourquoi": "Théodort doit affronter la honte publique après avoir embouti une voiture devant la foule"
+        "pourquoi": "Théodort exprime une honte extrême après avoir percuté une voiture devant les fans du chanteur"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=1712"
     },
     {
-      "type": "IMPACT_CAMION",
-      "debut": 1724,
-      "fin": 1733,
-      "citation": "Ton regard quand tu as senti le choc. Ah il a il a juste fait \"Non les gars, c'est pas possible.\"",
-      "propre": "Ton regard quand tu as senti le choc... Ah, il a juste fait « Non les gars, c'est pas possible. »",
-      "qui": null,
-      "confiance": 0.5,
-      "detail": {
-        "zone": "avant",
-        "gravite": "casse",
-        "quoi": "le camping-car percute une voiture garée près du concert, le phare avant est cassé"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=1722"
-    },
-    {
-      "type": "GALERE",
-      "debut": 1735,
-      "fin": 1743,
-      "citation": "OK, il y a les pin qui appelle les flics frère. J'ai vu son t il appelle les flics le 91 là, je crois.",
-      "propre": "OK, il y a les pin qui appellent les flics, frère. J'ai vu son t, il appelle les flics, le 911, là, je crois.",
-      "qui": null,
-      "confiance": 0.4,
-      "detail": {
-        "quoi": "quelqu'un menace d'appeler la police après le choc avec la voiture garée près du concert"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=1733"
-    },
-    {
       "type": "GALERE",
       "debut": 1797,
-      "fin": 1805,
+      "fin": 1808,
       "citation": "J'ai dit qu' allait l'annoncer sa scène parle. Il a ruiné une voiture dans le parking.",
-      "propre": "J'ai dit qu'il allait l'annoncer sur scène. Il a ruiné une voiture dans le parking.",
+      "propre": "J'ai dit qu'il allait l'annoncer sur scène, il parle. Il a ruiné une voiture dans le parking.",
       "qui": null,
-      "confiance": 0.6,
+      "confiance": 0.7,
       "detail": {
-        "quoi": "le camping-car a percuté et abîmé une voiture garée sur le parking, près du concert"
+        "quoi": "le camping-car a percuté et abîmé une voiture garée dans le parking du concert"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=1795"
     },
@@ -476,137 +451,107 @@
       "type": "CITATION",
       "debut": 1808,
       "fin": 1817,
-      "citation": "Il y a une annonce ou pas ? Alors cette chanson je la dédie à la voiture qui est juste enchanté. Moi c'est Ry.",
-      "propre": "Il y a une annonce ou pas ? Alors, cette chanson, je la dédie à la voiture qui est juste à côté. Enchanté, moi c'est Ry.",
+      "citation": "Il y a une annonce ou pas ? Alors cette chanson je la dédie à la voiture qui est juste enchanté.",
+      "propre": "Il y a une annonce ou pas ? Alors, cette chanson, je la dédie à la voiture qui est juste... enchanté.",
       "qui": null,
-      "confiance": 0.5,
+      "confiance": 0.6,
       "detail": {
         "pourquoi": "le chanteur dédie une chanson à la voiture accidentée en plein concert"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=1806"
     },
     {
-      "type": "IMPACT_CAMION",
-      "debut": 1876,
-      "fin": 1884,
-      "citation": "Rien les gars. J'ai clairement vu. Il y a plus de feu arrière. Ah ouais. Non. Non mais comme ça ça para il a recraqué.",
-      "propre": "Rien, les gars. J'ai clairement vu, il n'y a plus de feu arrière. Ah ouais. Non. Non, mais comme ça, ça paraît, il a recraqué.",
+      "type": "GALERE",
+      "debut": 1884,
+      "fin": 1894,
+      "citation": "On le voit mieux. Ça éclaire mieux. Il y avait un bébé dans la voiture apparemment.",
+      "propre": "On le voit mieux, ça éclaire mieux. Il y avait un bébé dans la voiture, apparemment.",
       "qui": null,
       "confiance": 0.6,
       "detail": {
-        "zone": "arriere",
-        "gravite": "casse",
-        "quoi": "il n'y a plus de feu arrière après le choc devant le lieu du concert"
+        "quoi": "ils réalisent qu'il y avait un bébé dans la voiture percutée, le feu arrière est cassé"
       },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=1874"
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=1882"
     },
     {
       "type": "CITATION",
       "debut": 1894,
       "fin": 1902,
-      "citation": "Mort c'est lui qui a qui a arrêté le il a tanké il a tapé pile dedans. OK.",
-      "propre": "Mort, c'est lui qui a, qui a arrêté le... il a tanké, il a tapé pile dedans. OK.",
+      "citation": "Mort c'est lui qui a qui a arrêté le il a tanké il a tapé pile dedans.",
+      "propre": "Mort, c'est lui qui a arrêté le... il a tanké, il a tapé pile dedans.",
       "qui": null,
-      "confiance": 0.45,
+      "confiance": 0.55,
       "detail": {
-        "pourquoi": "description imagée et absurde de la collision avec la voiture garée, mention comique d'un bébé à l'intérieur"
+        "pourquoi": "réaction choquée en apprenant les détails de la collision"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=1892"
     },
     {
-      "type": "REFERENCE",
-      "debut": 2038,
-      "fin": 2046,
-      "citation": "C'est du génie c'est génial. Il s'appelle les caresseux de bouteille. Je les adore.",
-      "propre": "C'est du génie, c'est génial. Il s'appelle « Les caresseux de bouteille ». Je les adore.",
-      "qui": null,
-      "confiance": 0.55,
-      "detail": {
-        "reference": "Les caresseux de bouteille",
-        "type": "musique"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=2036"
-    },
-    {
-      "type": "RENCONTRE",
+      "type": "GALERE",
       "debut": 2340,
       "fin": 2348,
       "citation": "Il y a la propriétaire de la voiture qui nous attend dehors. C'est le moment de payer nos dettes. OK. Moi je me casse.",
-      "propre": "Il y a le propriétaire de la voiture qui nous attend dehors. C'est le moment de payer nos dettes. OK, moi je me casse.",
+      "propre": "Il y a la propriétaire de la voiture qui nous attend dehors. C'est le moment de payer nos dettes. OK, moi je me casse.",
       "qui": null,
-      "confiance": 0.65,
+      "confiance": 0.7,
       "detail": {
-        "personne": null,
-        "contexte": "le propriétaire de la voiture accidentée par le camping-car vient réclamer un constat"
+        "quoi": "la propriétaire de la voiture percutée les attend dehors pour le constat"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=2338"
-    },
-    {
-      "type": "CITATION",
-      "debut": 2357,
-      "fin": 2366,
-      "citation": "Je vais pas te mentir. C'est vraiment pas possible. Les gars, les gars, sur une échelle de 1 à 10",
-      "propre": "Je vais pas te mentir. C'est vraiment pas possible. Les gars, les gars, sur une échelle de 1 à 10...",
-      "qui": null,
-      "confiance": 0.5,
-      "detail": {
-        "pourquoi": "blague sur le niveau de honte avant d'affronter le propriétaire de la voiture accidentée"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=2355"
     },
     {
       "type": "GALERE",
       "debut": 2417,
       "fin": 2425,
-      "citation": "Il a essayé de nous baiser le mec. Quoi ? Le mec a essayé de nous baiser, il a dit franchement les assur commen à faire",
-      "propre": "Il a essayé de nous baiser, le mec. Quoi ? Le mec a essayé de nous baiser, il a dit franchement : « les assurances, commencez par... »",
+      "citation": "Le mec a essayé de nous baiser, il a dit franchement les assur commen à faire donne 500 balles tout de suite.",
+      "propre": "Le mec a essayé de nous baiser. Il a dit franchement : les assurances, commence à faire, donne 500 balles tout de suite.",
       "qui": null,
-      "confiance": 0.55,
+      "confiance": 0.65,
       "detail": {
-        "quoi": "le propriétaire de la voiture accidentée tente de réclamer 500 dollars directement plutôt qu'un constat d'assurance classique"
+        "quoi": "le propriétaire du véhicule accidenté tente de leur extorquer 500 dollars directement plutôt que de passer par l'assurance"
       },
       "lien": "https://youtu.be/kDwuuudq-Hk?t=2415"
     },
     {
       "type": "CITATION",
-      "debut": 2425,
-      "fin": 2433,
-      "citation": "et toi il va prendre là. Il a pris mes photos, je vais prendre ses photos. On envoie aux assurances.",
-      "propre": "Et toi, il va prendre là. Il a pris mes photos, je vais prendre ses photos. On envoie ça aux assurances.",
+      "debut": 2559,
+      "fin": 2568,
+      "citation": "donc il me dit je te suis depuis les caméras cachées jamais làd su",
+      "propre": "Donc il me dit je te suis depuis les caméras cachées, jamais làd su.",
       "qui": null,
-      "confiance": 0.5,
+      "confiance": 0.4,
       "detail": {
-        "pourquoi": "mise en scène comique de l'échange de photos pour le constat d'assurance"
+        "pourquoi": "blague récurrente sur une fausse émission de caméras cachées"
       },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=2423"
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=2557"
     },
     {
       "type": "CITATION",
-      "debut": 2576,
-      "fin": 2583,
-      "citation": "On dit un mot chacun. Si ça sourit ou que ça rigole, tu as perdu n'importe",
-      "propre": "On dit un mot chacun. Si ça sourit ou que ça rigole, tu as perdu, n'importe...",
-      "qui": null,
-      "confiance": 0.55,
-      "detail": {
-        "pourquoi": "lancement d'un jeu de mots inventés en pleine nuit où il ne faut pas rire"
-      },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=2574"
-    },
-    {
-      "type": "CITATION",
-      "debut": 2614,
-      "fin": 2623,
-      "citation": "je savais pas si on avait les droits. Purnuble, c'est un petit truc en caoutchou qui se met sur les bocau.",
-      "propre": "Je savais pas si on avait les droits. « Purnuble », c'est un petit truc en caoutchouc qui se met sur les bocaux.",
+      "debut": 2594,
+      "fin": 2603,
+      "citation": "Pure nuvle. Pure nule. Tu dois trouver la définition de ce nom. Pure nule. Ah oui, je vois.",
+      "propre": "Pure nuvle. Pure nule. Tu dois trouver la définition de ce nom. Pure nule. Ah oui, je vois.",
       "qui": null,
       "confiance": 0.5,
       "detail": {
-        "pourquoi": "définition absurde et inventée du mot « purnuble » pendant le jeu de mots nocturne"
+        "pourquoi": "jeu de mots inventés (Purnuble) pendant la soirée tardive"
       },
-      "lien": "https://youtu.be/kDwuuudq-Hk?t=2612"
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=2592"
+    },
+    {
+      "type": "CITATION",
+      "debut": 2659,
+      "fin": 2667,
+      "citation": "Là ça se prononce j'aurais fait qu'un tour. Je pense c'est une sorte de reproche un peu apre. Apr qui reste en bouche, tu vois ?",
+      "propre": "Là, ça se prononce « j'aurais fait qu'un tour ». Je pense, c'est une sorte de reproche un peu âpre, âpre qui reste en bouche, tu vois ?",
+      "qui": null,
+      "confiance": 0.45,
+      "detail": {
+        "pourquoi": "suite du jeu de mots inventés tard dans la nuit"
+      },
+      "lien": "https://youtu.be/kDwuuudq-Hk?t=2657"
     }
   ],
   "rejets": [],
-  "coutUSD": 1.1082264
+  "coutUSD": 1.0235594
 }
