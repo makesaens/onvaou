@@ -15,7 +15,7 @@ Vidéo : Les problèmes commencent… - ON VA OÙ 7 ep2 (ft Maxime Biaggi, Joyca
 ## Compteurs
 - moments : 33 (CITATION 12, VILLE 7, SPONSOR 1, REFERENCE 3, DRONE 2, OBJET 4, GALERE 4)
 - rejets M4 : 2
-- étapes : Québec (0 km)
+- étapes : Québec (1001 km)
 - rires : 57
 
 ## Maillons
@@ -23,5 +23,5 @@ Vidéo : Les problèmes commencent… - ON VA OÙ 7 ep2 (ft Maxime Biaggi, Joyca
 - M2 ok 0s (15:34:36 → 15:34:36 Paris)
 - M3 ok 36s (15:35:27 → 15:36:03 Paris)
 - M4 ok 294s (15:41:28 → 15:46:22 Paris)
-- M7 ok 0s (15:50:50 → 15:50:50 Paris)
-- M9 ok 0s (15:50:50 → 15:50:50 Paris)
+- M9 ok 0s (15:52:19 → 15:52:19 Paris)
+- M7 ok 0s (15:52:47 → 15:52:47 Paris)

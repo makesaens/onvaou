@@ -25,7 +25,7 @@ async function geocode(ville) {
   return null;
 }
 async function route(a, b) {
-  const k = `route:${cle(a.nom)}>${cle(b.nom)}`;
+  const k = `route:${cle(a.nom || a.ville)}>${cle(b.nom || b.ville)}`;
   if (cache[k]) return cache[k];
   const u = `https://router.project-osrm.org/route/v1/driving/${a.lon},${a.lat};${b.lon},${b.lat}?overview=simplified&geometries=geojson`;
   const r = await (await fetch(u, { headers: H })).json();
@@ -53,7 +53,7 @@ const res = await (async () => {
   const prev = num > 1 ? readJSON(path.join(ROOT, 'episodes', 'ep' + (num - 1), 'trajet.json'), null) : null;
   const derniere = prev?.etapes?.[prev.etapes.length - 1];
   if (derniere && etapes[0] && cle(derniere.ville) !== cle(etapes[0].ville)) {
-    const r = await route(derniere, etapes[0]);
+    const r = await route({ nom: derniere.ville, lat: derniere.lat, lon: derniere.lon }, etapes[0]);
     if (r) troncons.push({ de: derniere.ville, a: etapes[0].ville, km: r.km, minutes: r.minutes, coords: r.coords, debut: 0, fin: etapes[0].debut, liaison: true });
   }
   for (let i = 0; i + 1 < etapes.length; i++) {

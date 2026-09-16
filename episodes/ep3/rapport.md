@@ -23,5 +23,5 @@ Vidéo : Des accidents et une soirée chaotique... - ON VA OÙ 7 ep3 (ft Maxime 
 - M1 ok 48s (15:34:18 → 15:35:06 Paris)
 - M3 ok 33s (15:36:03 → 15:36:35 Paris)
 - M4 ok 502s (15:41:28 → 15:49:50 Paris)
-- M9 ok 0s (15:50:50 → 15:50:50 Paris)
-- M7 ok 0s (15:51:29 → 15:51:29 Paris)
+- M9 ok 0s (15:52:19 → 15:52:19 Paris)
+- M7 ok 0s (15:52:47 → 15:52:47 Paris)
