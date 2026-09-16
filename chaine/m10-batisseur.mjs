@@ -35,10 +35,11 @@ for (const e of index().episodes) {
   const meta = readJSON(path.join(dir, 'meta.json')), T = readJSON(path.join(dir, 'transcript.json')), C = readJSON(path.join(dir, 'candidats.json')), M = readJSON(path.join(dir, 'moments.json')), G = readJSON(path.join(dir, 'trajet.json')), R = readJSON(path.join(dir, 'run.json'));
   const rires = T.balises.filter(b => b.tag === 'rires').map(b => b.t);
   const autour = (t) => rires.filter(r => Math.abs(r - t) <= 30).length;
+  M.moments.forEach(m => { m.riresAutour = autour(m.debut); });
   const top10 = M.moments.filter(m => m.type === 'CITATION').map(m => ({ ...m, riresAutour: autour(m.debut) })).sort((a, b) => b.riresAutour - a.riresAutour || a.debut - b.debut).slice(0, 10).sort((a, b) => a.debut - b.debut);
   episodes.push({
     ep: meta.ep, videoId: meta.videoId, titre: meta.titre, publieLe: meta.publieLe, dureeS: meta.dureeS, vues: meta.vues, likes: meta.likes, miniature: meta.miniature,
-    liens: meta.liens, covers: meta.covers, chapitres: M.chapitres, moments: M.moments.map(m => ({ type: m.type, debut: m.debut, fin: m.fin, citation: m.citation, propre: m.propre, qui: m.qui, detail: m.detail })),
+    liens: meta.liens, covers: meta.covers, chapitres: M.chapitres, moments: M.moments.map(m => ({ type: m.type, debut: m.debut, fin: m.fin, citation: m.citation, propre: m.propre, qui: m.qui, detail: m.detail, riresAutour: m.riresAutour })),
     top10, fenetreS: C.fenetreS, courbeRire: C.courbeRire, pics: C.pics, trajet: { etapes: G.etapes, troncons: G.troncons, mentions: G.mentions, km: G.kmEpisode },
     stats: { rires: T.stats.balises.rires || 0, moments: M.moments.length, rejets: M.rejets.length, plans: C.resume.plans, mots: T.stats.mots, source: T.source },
     run: R.maillons,
@@ -86,7 +87,7 @@ const etat = (id) => id === 'M0' ? ['ok', 'armé · toutes les 5 min'] : id === 
 const outils = [['yt-dlp', run(path.join(ROOT, 'chaine/bin/yt-dlp'), ['--version']).stdout.trim(), 'collecte'], ['Node', process.version, 'chaîne et bâtisseur'], ['Python', run(path.join(ROOT, '.venv/bin/python'), ['--version']).stdout.trim().replace('Python ', ''), 'plans, images, whisper'], ['PySceneDetect', '0.7.1', 'plans'], ['Claude (' + CONFIG.claudeModel + ')', 'claude -p', 'le Lecteur'], ['Nominatim + OSRM', 'OpenStreetMap', 'géographie'], ['Leaflet', '1.9.4', 'la carte'], ['GitHub Pages', 'gratuit', 'hébergement']];
 
 // ---- HTML ----
-const DATA = { saison: schedule.saison, schedule, episodes, destination, villesAnnoncees: annoncees, genere };
+const DATA = { saison: schedule.saison, schedule, episodes, destination, villesAnnoncees: annoncees, genere, camion: { impacts: impacts.map(i => ({ ep: i.ep, videoId: i.videoId, zone: i.detail.zone, gravite: i.detail.gravite, quoi: i.detail.quoi, debut: i.debut, citation: i.propre || i.citation })) } };
 const epCard = (e) => `<article class="ep"><a class="img" href="https://www.youtube.com/watch?v=${e.videoId}" target="_blank" rel="noopener"><img src="${e.miniature}" alt="" loading="lazy"><span class="num">EP ${e.ep}</span></a><div class="corps"><div class="titre">${esc(e.titre.replace(/\s*-\s*ON VA O.*$/i, ''))}</div><div class="stats"><div><b>${mmss(e.dureeS)}</b><span>durée</span></div><div><b>${nb(e.vues)}</b><span>vues</span></div><div><b>${e.stats.rires}</b><span>rires</span></div><div><b>${e.trajet.km || 0}</b><span>km</span></div></div><div class="villes">${e.trajet.etapes.length ? e.trajet.etapes.map(x => esc(x.ville)).join(' <b>→</b> ') : 'sur place'}</div><div class="liens"><a class="btn sec" href="https://www.youtube.com/watch?v=${e.videoId}" target="_blank" rel="noopener">YouTube</a><span class="cond" style="color:var(--olive);font-size:12px;letter-spacing:.08em;text-transform:uppercase;align-self:center">${e.stats.moments} moments · ${e.chapitres.length} chapitres</span></div></div></article>`;
 const epAVenir = (p) => `<article class="ep a-venir"><div class="img"><span>EP ${p.ep}</span></div><div class="corps"><div class="titre">À venir</div><div class="villes">${new Date(p.date).toLocaleString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Paris' })} · prévision</div></div></article>`;
 const html = `<!doctype html>
@@ -97,7 +98,7 @@ const html = `<!doctype html>
 <title>On va où 7 — la carte, les épisodes, le camion</title>
 <meta name="description" content="Site fan indépendant : la carte du trajet, les étapes, les moments et les épisodes de « On va où 7 » de Djilsi, reconstruits automatiquement à chaque sortie.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bevan&family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Arbutus&family=Bevan&family=Anton&family=Fraunces:opsz,SOFT,wght@9..144,100,900&family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="style.css?v=${Date.now()}">
 </head>
@@ -106,7 +107,7 @@ const html = `<!doctype html>
   <div id="carte" aria-label="Carte du trajet"></div>
   <div class="voile"></div>
   <div class="haut">
-    <div class="marque"><span class="sous">Djilsi · Maxime Biaggi · Joyca · Théodort · Manas</span><h1 class="titre">On va <em>où</em> 7</h1><span class="sous">Le Canada en camping-car · site fan indépendant</span></div>
+    <div class="marque"><span class="sous">Djilsi · Maxime Biaggi · Joyca · Théodort · Manas</span><h1 class="titre">On va où<svg class="feuille" viewBox="0 0 24 24" aria-hidden="true"><path fill="#e23a2e" d="M12 1.5l1.6 3.2 2.1-1.1-.6 3.4 2.9-.9-1.2 2.6 2.7.9-2.3 1.9 1.2 2.4-3.4-.7.2 2.9-2.6-1.6L12 22.5l-.6-8-2.6 1.6.2-2.9-3.4.7 1.2-2.4L4.5 9.6l2.7-.9L6 6.1l2.9.9-.6-3.4 2.1 1.1z"/></svg>7</h1></div>
     <div class="compteur"><div class="n"><b>${episodes.length}</b> / ${schedule.episodesAnnonces}</div><div class="t">épisodes<br>sortis</div></div>
   </div>
   <div class="bas">
@@ -145,9 +146,13 @@ const html = `<!doctype html>
   </section>
 
   <section id="camion">
-    <div class="sec-head"><h2>Le camion</h2><p>Le camping-car en 3D avec ses impacts arrive samedi, avec l’épisode 5. En attendant, le carnet de bord : ce qui a été cassé, perdu, décidé.</p></div>
-    ${impacts.length ? `<div class="note">${impacts.length} impact${impacts.length > 1 ? 's' : ''} relevé${impacts.length > 1 ? 's' : ''} dans les mots : ${impacts.map(i => `${esc(i.detail.zone)} (ép. ${i.ep}, ${mmss(i.debut)})`).join(' · ')}</div>` : ''}
-    <div class="liste" style="margin-top:14px">${carnet.map(m => `<div class="item"><div class="l"><b>${esc(m.type === 'OBJET' ? (m.detail.objet || 'objet') + ' · ' + (m.detail.sort || '') : m.type === 'GALERE' ? 'galère' : m.type === 'DRONE' ? 'drone' : m.type === 'IMPACT_CAMION' ? 'choc · ' + (m.detail.zone || '') : 'décision')}</b><span>${esc(m.detail.quoi || m.detail.sort || m.propre || m.citation)}</span><div class="ep-tag">épisode ${m.ep}</div></div><a href="https://youtu.be/${m.videoId}?t=${Math.max(0, Math.floor(m.debut) - 2)}" target="_blank" rel="noopener">${mmss(m.debut)} →</a></div>`).join('') || '<p class="vide">Rien pour l’instant.</p>'}</div>
+    <div class="sec-head"><h2>Le camion</h2><p>Le camping-car de la saison, et chaque choc relevé dans les mots des épisodes, posé sur la carrosserie. Fais-le tourner. Les objets perdus, cassés ou crachés sont en dessous.</p></div>
+    <div class="camion-wrap">
+      <div class="camion3d" id="camion3d"><div class="etat"><b>${impacts.length}</b><span>impact${impacts.length > 1 ? 's' : ''}<br>relevé${impacts.length > 1 ? 's' : ''}</span></div><div class="aide">glisser pour tourner · molette pour zoomer · cliquer une pastille</div></div>
+      <div class="impacts" id="impacts">${impacts.length ? impacts.map((i, k) => `<div class="impact" data-k="${k}"><div class="n">${k + 1}</div><div><div class="z">${i.detail.zone === 'inconnue' ? 'zone non précisée' : esc(i.detail.zone).replace(/-/g, ' ')}<span class="g">${esc(i.detail.gravite || '')}</span></div><div class="q">${esc(i.detail.quoi || i.propre || i.citation)}</div><a href="https://youtu.be/${i.videoId}?t=${Math.max(0, Math.floor(i.debut) - 2)}" target="_blank" rel="noopener">Ép. ${i.ep} · ${mmss(i.debut)} →</a></div></div>`).join('') : '<p class="vide">Aucun choc relevé pour l’instant.</p>'}</div>
+    </div>
+    <h3 style="margin-top:28px">Carnet de bord</h3>
+    <div class="liste" style="margin-top:14px">${carnet.filter(m => m.type !== 'IMPACT_CAMION').map(m => `<div class="item"><div class="l"><b>${esc(m.type === 'OBJET' ? (m.detail.objet || 'objet') + ' · ' + (m.detail.sort || '') : m.type === 'GALERE' ? 'galère' : m.type === 'DRONE' ? 'drone' : 'décision')}</b><span>${esc(m.detail.quoi || m.detail.sort || m.propre || m.citation)}</span><div class="ep-tag">épisode ${m.ep}${m.riresAutour ? ' · ' + m.riresAutour + ' rires autour' : ''}</div></div><a href="https://youtu.be/${m.videoId}?t=${Math.max(0, Math.floor(m.debut) - 2)}" target="_blank" rel="noopener">${mmss(m.debut)} →</a></div>`).join('') || '<p class="vide">Rien pour l’instant.</p>'}</div>
   </section>
 
   <section id="references">
@@ -176,11 +181,14 @@ const html = `<!doctype html>
 <script>window.DATA=${JSON.stringify(DATA)};</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="app.js?v=${Date.now()}"></script>
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"}}</script>
+<script type="module" src="camion3d.js?v=${Date.now()}"></script>
 </body>
 </html>`;
 fs.writeFileSync(path.join(OUT, 'index.html'), html);
 fs.copyFileSync(path.join(ROOT, 'site/style.css'), path.join(OUT, 'style.css'));
 fs.copyFileSync(path.join(ROOT, 'site/app.js'), path.join(OUT, 'app.js'));
+fs.copyFileSync(path.join(ROOT, 'site/camion3d.js'), path.join(OUT, 'camion3d.js'));
 fs.writeFileSync(path.join(OUT, '.nojekyll'), '');
 writeJSON(path.join(OUT, 'data.json'), DATA);
 console.log(`[M10] docs/ rendu : ${episodes.length} épisodes, ${kmTotal} km, ${villes.join(' → ') || 'aucune étape'}, ${(html.length / 1024).toFixed(0)} Ko`);

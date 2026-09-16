@@ -182,7 +182,8 @@
           "detail": {
             "ville": "Toronto",
             "action": "mention"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "DECISION",
@@ -192,7 +193,8 @@
           "qui": "Djilsi",
           "detail": {
             "quoi": "détermination du point GPS final à Toronto qui fixe l'itinéraire du voyage"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "CITATION",
@@ -202,7 +204,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "vanne sur la longueur des intros de la chaîne"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "VILLE",
@@ -213,7 +216,8 @@
           "detail": {
             "ville": "Halifax",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -224,7 +228,8 @@
           "detail": {
             "ville": "Québec",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -235,7 +240,8 @@
           "detail": {
             "ville": "Montréal",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -246,7 +252,8 @@
           "detail": {
             "ville": "Ottawa",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -257,7 +264,8 @@
           "detail": {
             "ville": "Toronto",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -267,7 +275,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "moquerie sur un cadeau au logo de la Juventus"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "REFERENCE",
@@ -278,7 +287,8 @@
           "detail": {
             "reference": "la Juve (Juventus)",
             "type": "marque"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "CITATION",
@@ -288,7 +298,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "surnom donné au t-shirt cadeau de Jordan"
-          }
+          },
+          "riresAutour": 5
         },
         {
           "type": "CITATION",
@@ -298,7 +309,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "moquerie sur le t-shirt trop serré"
-          }
+          },
+          "riresAutour": 6
         },
         {
           "type": "CITATION",
@@ -308,7 +320,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "blague sur le t-shirt embarrassant que Sid devra porter en France"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "GALERE",
@@ -318,7 +331,8 @@
           "qui": null,
           "detail": {
             "quoi": "annonce inattendue au téléphone à l'arrivée"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "SPONSOR",
@@ -328,7 +342,8 @@
           "qui": "Djilsi",
           "detail": {
             "marque": "Revolut"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "REFERENCE",
@@ -339,7 +354,8 @@
           "detail": {
             "reference": "Squeezie",
             "type": "personnalite"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "VILLE",
@@ -350,7 +366,8 @@
           "detail": {
             "ville": "Halifax",
             "action": "arrivee"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -360,7 +377,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "private joke autour du surnom tromblon"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "CITATION",
@@ -370,7 +388,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "blague sur les poils pendant le discours de team building"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "OBJET",
@@ -381,7 +400,8 @@
           "detail": {
             "objet": "carte d'hôtel",
             "sort": "oublie"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -391,7 +411,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "référence détournée pour justifier un dessin improvisé"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "REFERENCE",
@@ -402,7 +423,8 @@
           "detail": {
             "reference": "Caprio (Di Caprio)",
             "type": "personnalite"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "CITATION",
@@ -412,7 +434,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "compliment surpris sur le dessin improvisé"
-          }
+          },
+          "riresAutour": 5
         },
         {
           "type": "CITATION",
@@ -422,7 +445,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "jeu du son aléatoire allongé les yeux fermés"
-          }
+          },
+          "riresAutour": 5
         },
         {
           "type": "CITATION",
@@ -432,7 +456,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "moquerie sur le niveau d'anglais de Théodort"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "GALERE",
@@ -442,7 +467,8 @@
           "qui": null,
           "detail": {
             "quoi": "le camping-car ne démarre pas, problème de contact électrique"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "OBJET",
@@ -453,7 +479,8 @@
           "detail": {
             "objet": "burger",
             "sort": "perdu"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -463,7 +490,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "blague sur mettre du produit à bulles dans le pot d'échappement"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "REFERENCE",
@@ -474,7 +502,8 @@
           "detail": {
             "reference": "la Chambre des secrets (Harry Potter)",
             "type": "film"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "REFERENCE",
@@ -485,7 +514,8 @@
           "detail": {
             "reference": "Luigi",
             "type": "autre"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "REFERENCE",
@@ -496,7 +526,8 @@
           "detail": {
             "reference": "hymne national des États-Unis",
             "type": "musique"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "SPONSOR",
@@ -506,7 +537,8 @@
           "qui": "Djilsi",
           "detail": {
             "marque": "Noolata"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "GALERE",
@@ -516,7 +548,8 @@
           "qui": null,
           "detail": {
             "quoi": "ils réalisent qu'ils n'ont rien acheté à manger malgré 2h30 à Walmart"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -526,7 +559,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "fou rire général après une bêtise dans le Walmart"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "CITATION",
@@ -536,7 +570,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "fou rire collectif après avoir aboyé dans le magasin"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "CITATION",
@@ -546,7 +581,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "agacement nocturne à cause d'un bruit"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "OBJET",
@@ -557,7 +593,8 @@
           "detail": {
             "objet": "crocs",
             "sort": "perdu"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "CITATION",
@@ -567,7 +604,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "blague sur ne pas faire confiance à un copilote éméché pour la route"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "CITATION",
@@ -577,7 +615,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "retour trempés de la commande sous la pluie"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "REFERENCE",
@@ -588,7 +627,8 @@
           "detail": {
             "reference": "Mario",
             "type": "autre"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "GALERE",
@@ -598,7 +638,8 @@
           "qui": null,
           "detail": {
             "quoi": "galère pour trouver un endroit où stationner le camping-car pour la nuit"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "DECISION",
@@ -608,7 +649,8 @@
           "qui": null,
           "detail": {
             "quoi": "instauration des règles de vie à bord du camping-car (copilote obligatoire, interdiction de faire caca)"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "RENCONTRE",
@@ -619,7 +661,8 @@
           "detail": {
             "personne": null,
             "contexte": "rencontre avec le gérant de l'hôtel qui chante pour eux"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -629,7 +672,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "running gag casse-toi pendant qu'un pote va aux toilettes portables"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -639,7 +683,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "suite du running gag casse-toi filmé à la lampe torche"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "GALERE",
@@ -649,7 +694,8 @@
           "qui": null,
           "detail": {
             "quoi": "douche glacée et camping-car mal stationné qui empêche l'évacuation d'eau"
-          }
+          },
+          "riresAutour": 3
         }
       ],
       "top10": [
@@ -1840,7 +1886,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "règle absurde instaurée en ouverture d'épisode, running gag sur les toilettes"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -1851,7 +1898,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "commande de fast-food absurde enchaînée sur la blague des toilettes"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "VILLE",
@@ -1863,7 +1911,8 @@
           "detail": {
             "ville": "Québec",
             "action": "mention"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "SPONSOR",
@@ -1874,7 +1923,8 @@
           "qui": "Djilsi",
           "detail": {
             "marque": "Vinted"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -1886,7 +1936,8 @@
           "detail": {
             "ville": "Montréal",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -1898,7 +1949,8 @@
           "detail": {
             "ville": "Ottawa",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -1910,7 +1962,8 @@
           "detail": {
             "ville": "Paris",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -1921,7 +1974,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "lancement de la chronique récurrente I Wish Boy"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -1932,7 +1986,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "récit d'un clash pendant le précédent team building, ton exagérément dramatique"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -1943,7 +1998,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "introduction comique du mea culpa de Manas sur le papier toilette laissé dans la forêt"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -1954,7 +2010,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "confession absurde sur les toilettes de camping mal utilisées"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "CITATION",
@@ -1965,7 +2022,8 @@
           "qui": "Djilsi",
           "detail": {
             "pourquoi": "transition euphorique vers la pause resto"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -1976,7 +2034,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "gag sur la fatigue au moment de commander"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "CITATION",
@@ -1987,7 +2046,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "jeu des animaux, comparaison de Manas à un koala"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -1998,7 +2058,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "surnom absurde donné à Maxime pendant le jeu des animaux"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "REFERENCE",
@@ -2010,7 +2071,8 @@
           "detail": {
             "reference": "Le Roi Lion (Simba)",
             "type": "film"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "DRONE",
@@ -2021,7 +2083,8 @@
           "qui": null,
           "detail": {
             "sort": "coincé dans un arbre après un crash, l'équipe part à sa recherche"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "DRONE",
@@ -2032,7 +2095,8 @@
           "qui": null,
           "detail": {
             "sort": "récupéré avec succès à l'aide d'un bâton après être resté coincé dans l'arbre"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "OBJET",
@@ -2044,7 +2108,8 @@
           "detail": {
             "objet": "bâton trouvé en forêt",
             "sort": "retrouve"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "OBJET",
@@ -2056,7 +2121,8 @@
           "detail": {
             "objet": "pantoufles",
             "sort": "retrouve"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "GALERE",
@@ -2067,7 +2133,8 @@
           "qui": null,
           "detail": {
             "quoi": "un mécanisme du camping-car (tiroir/lit escamotable) se bloque et ne veut plus se refermer"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -2079,7 +2146,8 @@
           "detail": {
             "ville": "Québec",
             "action": "mention"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "REFERENCE",
@@ -2091,7 +2159,8 @@
           "detail": {
             "reference": "Harry Potter",
             "type": "film"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "OBJET",
@@ -2103,7 +2172,8 @@
           "detail": {
             "objet": "télé du camping-car",
             "sort": "casse"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "REFERENCE",
@@ -2115,7 +2185,8 @@
           "detail": {
             "reference": "Mario et Luigi (Super Mario)",
             "type": "autre"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -2126,7 +2197,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "réaction exagérée après une nouvelle mésaventure attribuée à sa faute"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "GALERE",
@@ -2137,7 +2209,8 @@
           "qui": null,
           "detail": {
             "quoi": "le robinet de la salle de bain est resté ouvert, vidant toute la réserve d'eau du camping-car"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "GALERE",
@@ -2148,7 +2221,8 @@
           "qui": null,
           "detail": {
             "quoi": "la cuve des eaux usées est pleine et commence à déborder"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "GALERE",
@@ -2159,7 +2233,8 @@
           "qui": null,
           "detail": {
             "quoi": "le bac de douche est plein et bouché, l'eau risque de se répandre dans le camping-car pendant la route"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "CITATION",
@@ -2170,7 +2245,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "blague sur une tentative de débauchage de Manas en pleine scène tendre"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -2182,7 +2258,8 @@
           "detail": {
             "ville": "Québec",
             "action": "arrivee"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "OBJET",
@@ -2194,7 +2271,8 @@
           "detail": {
             "objet": "télé du camping-car",
             "sort": "casse"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -2206,7 +2284,8 @@
           "detail": {
             "ville": "Montréal",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         }
       ],
       "top10": [
@@ -3402,7 +3481,8 @@
           "detail": {
             "objet": "télé",
             "sort": "casse"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "GALERE",
@@ -3413,7 +3493,8 @@
           "qui": null,
           "detail": {
             "quoi": "plus d'eau dans le camping-car après une nuit compliquée, un robinet est resté ouvert dans la salle de bain"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "REFERENCE",
@@ -3425,7 +3506,8 @@
           "detail": {
             "reference": "Tinder",
             "type": "marque"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "OBJET",
@@ -3437,7 +3519,8 @@
           "detail": {
             "objet": "chargeur",
             "sort": "perdu"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "IMPACT_CAMION",
@@ -3450,7 +3533,8 @@
             "zone": "inconnue",
             "gravite": "rayure",
             "quoi": "rayure découverte sur la carrosserie au réveil, origine inconnue, la caution du camping-car est en jeu"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -3461,7 +3545,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "réaction absurde en accusant Wolverine d'avoir abîmé le camping-car pendant la nuit"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "GALERE",
@@ -3472,7 +3557,8 @@
           "qui": null,
           "detail": {
             "quoi": "réveillés en pleine nuit par un grand bruit contre un poteau, risque de perdre la caution de 20 000 dollars du camping-car"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "REFERENCE",
@@ -3484,7 +3570,8 @@
           "detail": {
             "reference": "Avengers / Wolverine",
             "type": "film"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "SPONSOR",
@@ -3495,7 +3582,8 @@
           "qui": "Djilsi",
           "detail": {
             "marque": "Vichy Dercos"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -3506,7 +3594,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "quiproquo linguistique comique en cherchant un endroit pour manger"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "RENCONTRE",
@@ -3518,7 +3607,8 @@
           "detail": {
             "personne": null,
             "contexte": "un Français installé au Québec depuis plusieurs années qui a pris l'accent québécois"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -3529,7 +3619,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "confusion comique sur qui doit parler face caméra"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "VILLE",
@@ -3541,7 +3632,8 @@
           "detail": {
             "ville": "Québec",
             "action": "arrivee"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -3552,7 +3644,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "running gag absurde répété en boucle pendant le trajet"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -3563,7 +3656,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "tension pendant la manœuvre serrée du camping-car dans les rues de Québec"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "IMPACT_CAMION",
@@ -3576,7 +3670,8 @@
             "zone": "flanc-gauche-avant",
             "gravite": "rayure",
             "quoi": "le camping-car frotte et raye la carrosserie en se faufilant dans une rue étroite de Québec, la jante gauche est aussi touchée"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "DECISION",
@@ -3587,7 +3682,8 @@
           "qui": null,
           "detail": {
             "quoi": "ils renoncent à visiter Québec car la ville est trop étroite pour le camping-car, direction Montréal"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "VILLE",
@@ -3599,7 +3695,8 @@
           "detail": {
             "ville": "Québec",
             "action": "depart"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "VILLE",
@@ -3611,7 +3708,8 @@
           "detail": {
             "ville": "Montréal",
             "action": "mention"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -3622,7 +3720,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "jeu du rire où celui qui sourit doit changer de place, ambiance superstitieuse"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -3633,7 +3732,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "réaction au jeu à gratter pendant le trajet"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "REFERENCE",
@@ -3645,7 +3745,8 @@
           "detail": {
             "reference": "Tous les chemins mènent à Rome / Tour de Pise",
             "type": "autre"
-          }
+          },
+          "riresAutour": 5
         },
         {
           "type": "RENCONTRE",
@@ -3657,7 +3758,8 @@
           "detail": {
             "personne": "Harpin l'Épine",
             "contexte": "streameur/chanteur québécois découvert sur TikTok, ils assistent à son concert devant 400 à 600 personnes"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -3668,7 +3770,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "le chanteur aide à garer le camping-car, fascination comique de la bande"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "IMPACT_CAMION",
@@ -3681,7 +3784,8 @@
             "zone": "inconnue",
             "gravite": "choc",
             "quoi": "le camping-car percute une voiture en se garant près du concert"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "IMPACT_CAMION",
@@ -3694,7 +3798,8 @@
             "zone": "avant",
             "gravite": "casse",
             "quoi": "le phare avant est cassé après la collision avec une voiture dans le parking du concert"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -3705,7 +3810,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Théodort exprime une honte extrême après avoir percuté une voiture devant les fans du chanteur"
-          }
+          },
+          "riresAutour": 6
         },
         {
           "type": "GALERE",
@@ -3716,7 +3822,8 @@
           "qui": null,
           "detail": {
             "quoi": "le camping-car a percuté et abîmé une voiture garée dans le parking du concert"
-          }
+          },
+          "riresAutour": 5
         },
         {
           "type": "CITATION",
@@ -3727,7 +3834,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "le chanteur dédie une chanson à la voiture accidentée en plein concert"
-          }
+          },
+          "riresAutour": 8
         },
         {
           "type": "GALERE",
@@ -3738,7 +3846,8 @@
           "qui": null,
           "detail": {
             "quoi": "ils réalisent qu'il y avait un bébé dans la voiture percutée, le feu arrière est cassé"
-          }
+          },
+          "riresAutour": 7
         },
         {
           "type": "CITATION",
@@ -3749,7 +3858,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "réaction choquée en apprenant les détails de la collision"
-          }
+          },
+          "riresAutour": 7
         },
         {
           "type": "GALERE",
@@ -3760,7 +3870,8 @@
           "qui": null,
           "detail": {
             "quoi": "la propriétaire de la voiture percutée les attend dehors pour le constat"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "GALERE",
@@ -3771,7 +3882,8 @@
           "qui": null,
           "detail": {
             "quoi": "le propriétaire du véhicule accidenté tente de leur extorquer 500 dollars directement plutôt que de passer par l'assurance"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -3782,7 +3894,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "blague récurrente sur une fausse émission de caméras cachées"
-          }
+          },
+          "riresAutour": 5
         },
         {
           "type": "CITATION",
@@ -3793,7 +3906,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "jeu de mots inventés (Purnuble) pendant la soirée tardive"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "CITATION",
@@ -3804,7 +3918,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "suite du jeu de mots inventés tard dans la nuit"
-          }
+          },
+          "riresAutour": 2
         }
       ],
       "top10": [
@@ -4719,7 +4834,8 @@
           "qui": null,
           "detail": {
             "quoi": "doivent payer la propriétaire de la voiture endommagée lors de l'épisode précédent"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "OBJET",
@@ -4731,7 +4847,8 @@
           "detail": {
             "objet": "porte du camping-car (ou élément qui s'ouvre tout seul)",
             "sort": "casse"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -4743,7 +4860,8 @@
           "detail": {
             "ville": "Montréal",
             "action": "arrivee"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -4754,7 +4872,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Décalage comique entre l'euphorie de crier le nom de la ville et le ton dramatique qui suit"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -4765,7 +4884,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Mise en scène comique avant que Théo ne gare le camping-car, en prévision de la catastrophe à venir"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "IMPACT_CAMION",
@@ -4778,7 +4898,8 @@
             "zone": "arriere",
             "gravite": "choc",
             "quoi": "a tapé un poteau en reculant le camping-car"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "IMPACT_CAMION",
@@ -4791,7 +4912,8 @@
             "zone": "avant",
             "gravite": "casse",
             "quoi": "a cassé le phare en cognant un obstacle en reculant"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "IMPACT_CAMION",
@@ -4804,7 +4926,8 @@
             "zone": "toit",
             "gravite": "choc",
             "quoi": "a accroché un panneau 'interdiction de se parquer' en hauteur"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "IMPACT_CAMION",
@@ -4817,7 +4940,8 @@
             "zone": "inconnue",
             "gravite": "casse",
             "quoi": "a cassé le camping-car à plusieurs reprises (poteau, phare, panneau) en une seule manœuvre de stationnement"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -4828,7 +4952,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Vanne récurrente sur le fait que le camping-car abîme systématiquement quelque chose à l'arrivée dans une ville"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "CITATION",
@@ -4839,7 +4964,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Ironie sur le fait que Théo, en tapant le panneau, a justement supprimé l'interdiction de stationner"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "SPONSOR",
@@ -4850,7 +4976,8 @@
           "qui": "Djilsi",
           "detail": {
             "marque": "Revolut"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "RENCONTRE",
@@ -4862,7 +4989,8 @@
           "detail": {
             "personne": null,
             "contexte": "rencontre avec quelqu'un dont le nom n'est pas retenu"
-          }
+          },
+          "riresAutour": 3
         },
         {
           "type": "RENCONTRE",
@@ -4874,7 +5002,8 @@
           "detail": {
             "personne": null,
             "contexte": "un fan les aborde dans la rue, ils ont oublié son nom mais le saluent chaleureusement"
-          }
+          },
+          "riresAutour": 4
         },
         {
           "type": "RENCONTRE",
@@ -4886,7 +5015,8 @@
           "detail": {
             "personne": null,
             "contexte": "remerciement à des fans pour leur accueil dans la rue"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "DECISION",
@@ -4897,7 +5027,8 @@
           "qui": null,
           "detail": {
             "quoi": "rester une soirée à Montréal puis repartir dès le lendemain"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "RENCONTRE",
@@ -4909,7 +5040,8 @@
           "detail": {
             "personne": null,
             "contexte": "Maxime demande le numéro d'une fan sous prétexte de lui rendre un objet retrouvé, avant de révéler que c'est une blague"
-          }
+          },
+          "riresAutour": 6
         },
         {
           "type": "CITATION",
@@ -4920,7 +5052,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Commentaire sur la blague qui vient d'être jouée à une fan"
-          }
+          },
+          "riresAutour": 6
         },
         {
           "type": "CITATION",
@@ -4931,7 +5064,8 @@
           "qui": "Maxime",
           "detail": {
             "pourquoi": "Maxime culpabilise après avoir fait croire à une fan qu'il la rappellerait, révélant que c'était une blague"
-          }
+          },
+          "riresAutour": 5
         },
         {
           "type": "GALERE",
@@ -4942,7 +5076,8 @@
           "qui": null,
           "detail": {
             "quoi": "arrivés trop loin du centre de Montréal, ils perdent une heure de route pour rejoindre le centre-ville"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -4953,7 +5088,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Échange absurde où une simple question sur le vieux port se transforme en fausse embrouille"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "REFERENCE",
@@ -4965,7 +5101,8 @@
           "detail": {
             "reference": "Dacia",
             "type": "marque"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "VILLE",
@@ -4977,7 +5114,8 @@
           "detail": {
             "ville": "Toronto",
             "action": "mention"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "DECISION",
@@ -4988,7 +5126,8 @@
           "qui": null,
           "detail": {
             "quoi": "aller faire un tour de grande roue au vieux port avant la fermeture"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -4999,7 +5138,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Réaction exagérée et théâtrale à l'installation dans la nacelle de la grande roue"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -5010,7 +5150,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Vanne limite sur la manière de faire bouger la nacelle, jugée 'raciste' par un des complices"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -5021,7 +5162,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Expression répétée et absurde après une chute ou un choc pendant la session rollers"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "CITATION",
@@ -5032,7 +5174,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Réaction du groupe très enthousiaste après la sérénade improvisée de Maxime"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "REFERENCE",
@@ -5044,7 +5187,8 @@
           "detail": {
             "reference": "Shrek",
             "type": "meme"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "REFERENCE",
@@ -5056,7 +5200,8 @@
           "detail": {
             "reference": "SSX",
             "type": "autre"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "GALERE",
@@ -5067,7 +5212,8 @@
           "qui": null,
           "detail": {
             "quoi": "tout ferme à 19h à Montréal, ils doivent trouver un endroit encore ouvert la nuit"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -5078,7 +5224,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Commande de glace interminable et absurde avec une accumulation de parfums"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -5089,7 +5236,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Running gag sur la fermeture précoce de tout à Montréal"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "RENCONTRE",
@@ -5101,7 +5249,8 @@
           "detail": {
             "personne": null,
             "contexte": "des passants leur donnent des conseils sur les activités du vieux port"
-          }
+          },
+          "riresAutour": 2
         },
         {
           "type": "DECISION",
@@ -5112,7 +5261,8 @@
           "qui": null,
           "detail": {
             "quoi": "prévoir d'aller voir des élans, lions et tigres dans une réserve le lendemain"
-          }
+          },
+          "riresAutour": 1
         },
         {
           "type": "GALERE",
@@ -5123,7 +5273,8 @@
           "qui": null,
           "detail": {
             "quoi": "on leur a menti sur la possibilité d'emprunter des pédalos la nuit au vieux port"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -5134,7 +5285,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Jeu de mots entre 'pneus' et 'pénis' mal compris par le groupe"
-          }
+          },
+          "riresAutour": 0
         },
         {
           "type": "CITATION",
@@ -5145,7 +5297,8 @@
           "qui": null,
           "detail": {
             "pourquoi": "Réaction choquée en voyant un couple avoir une relation sexuelle visible depuis la rue"
-          }
+          },
+          "riresAutour": 1
         }
       ],
       "top10": [
@@ -5970,5 +6123,81 @@
       "lon": -79.3839347
     }
   ],
-  "genere": "2026-09-16T16:32:23.630Z"
+  "genere": "2026-09-16T22:01:00.747Z",
+  "camion": {
+    "impacts": [
+      {
+        "ep": 3,
+        "videoId": "kDwuuudq-Hk",
+        "zone": "inconnue",
+        "gravite": "rayure",
+        "quoi": "rayure découverte sur la carrosserie au réveil, origine inconnue, la caution du camping-car est en jeu",
+        "debut": 375,
+        "citation": "Non, il a pas... il va pas me faire sauter la caution avec une rayure sur la carlingue, j'imagine."
+      },
+      {
+        "ep": 3,
+        "videoId": "kDwuuudq-Hk",
+        "zone": "flanc-gauche-avant",
+        "gravite": "rayure",
+        "quoi": "le camping-car frotte et raye la carrosserie en se faufilant dans une rue étroite de Québec, la jante gauche est aussi touchée",
+        "debut": 1084,
+        "citation": "On prend la rue à gauche et on s'enfuit. Et c'est pas une rayure, c'est une gravure que tu as faite."
+      },
+      {
+        "ep": 3,
+        "videoId": "kDwuuudq-Hk",
+        "zone": "inconnue",
+        "gravite": "choc",
+        "quoi": "le camping-car percute une voiture en se garant près du concert",
+        "debut": 1612,
+        "citation": "L'odeur de ses aisselles, moi, à la fin du concert. T'as baisé la caisse ? Oh, il a baisé la caisse."
+      },
+      {
+        "ep": 3,
+        "videoId": "kDwuuudq-Hk",
+        "zone": "avant",
+        "gravite": "casse",
+        "quoi": "le phare avant est cassé après la collision avec une voiture dans le parking du concert",
+        "debut": 1671,
+        "citation": "T'as, t'as cassé le phare ? Ça va ? On va où 7, let's go."
+      },
+      {
+        "ep": 4,
+        "videoId": "sIGByUaPZrs",
+        "zone": "arriere",
+        "gravite": "choc",
+        "quoi": "a tapé un poteau en reculant le camping-car",
+        "debut": 221,
+        "citation": "Tu as tapé le poteau, juste là, vraiment, la tête de ma mère, je l'ai pas fait exprès."
+      },
+      {
+        "ep": 4,
+        "videoId": "sIGByUaPZrs",
+        "zone": "avant",
+        "gravite": "casse",
+        "quoi": "a cassé le phare en cognant un obstacle en reculant",
+        "debut": 247,
+        "citation": "Je fais quand même mal. Phare, phare. J'ai cassé le phare de la voiture."
+      },
+      {
+        "ep": 4,
+        "videoId": "sIGByUaPZrs",
+        "zone": "toit",
+        "gravite": "choc",
+        "quoi": "a accroché un panneau 'interdiction de se parquer' en hauteur",
+        "debut": 282,
+        "citation": "Hauteur où il y a écrit « interdiction de se parquer ». Voilà, et le panneau est maintenant..."
+      },
+      {
+        "ep": 4,
+        "videoId": "sIGByUaPZrs",
+        "zone": "inconnue",
+        "gravite": "casse",
+        "quoi": "a cassé le camping-car à plusieurs reprises (poteau, phare, panneau) en une seule manœuvre de stationnement",
+        "debut": 340,
+        "citation": "J'ai juste cassé. J'ai cassé trois fois le camping-car. J'ai reconduit. Je l'ai cassé une quatrième fois."
+      }
+    ]
+  }
 }

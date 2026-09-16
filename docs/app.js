@@ -69,7 +69,7 @@
     const p = position(e, m.debut); if (!p) continue;
     const j = 0.012; const pos = [p[0] + (Math.random() - .5) * j, p[1] + (Math.random() - .5) * j * 1.6];
     L.marker(pos, { icon: point('pt-moment ' + m.type) }).addTo(carte)
-      .bindPopup(`<div class="type">${m.type.replace('_', ' ')} · ép. ${e.ep} · ${mmss(m.debut)}</div><div class="cit">${m.propre || m.citation}</div><a href="${lien(e, m.debut)}" target="_blank" rel="noopener">Voir sur YouTube →</a>`);
+      .bindPopup(`<div class="type">${m.type.replace('_', ' ')} · ép. ${e.ep} · ${mmss(m.debut)}</div><div class="cit">${m.propre || m.citation}</div>${m.riresAutour ? `<div class="type" style="color:var(--creme2)">${m.riresAutour} rires autour</div>` : ''}<a href="${lien(e, m.debut)}" target="_blank" rel="noopener">Voir sur YouTube →</a>`);
   }
   const tous = faits.concat(etapes.map(e => [e.lat, e.lon]), destGeo ? [[destGeo.lat, destGeo.lon]] : []);
   if (tous.length) carte.fitBounds(L.latLngBounds(tous), { paddingTopLeft: [40, 150], paddingBottomRight: [430, 200] }); else carte.setView([46.5, -70], 5);
@@ -77,6 +77,14 @@
   // le camion
   const camionIcon = L.divIcon({ className: '', html: `<svg class="camion-marqueur" width="54" height="34" viewBox="0 0 54 34"><rect x="12" y="4" width="40" height="20" rx="3" fill="#efe3c6" stroke="#2a1f14" stroke-width="2"/><path d="M12 12H4a3 3 0 0 0-3 3v7a2 2 0 0 0 2 2h9z" fill="#efe3c6" stroke="#2a1f14" stroke-width="2"/><rect x="4" y="14" width="7" height="5" fill="#8fd0f0"/><rect x="18" y="8" width="9" height="6" fill="#8fd0f0"/><rect x="36" y="8" width="9" height="6" fill="#8fd0f0"/><path d="M14 19h36" stroke="#e23a2e" stroke-width="3"/><circle cx="14" cy="26" r="5" fill="#2a1f14"/><circle cx="14" cy="26" r="2" fill="#efe3c6"/><circle cx="42" cy="26" r="5" fill="#2a1f14"/><circle cx="42" cy="26" r="2" fill="#efe3c6"/></svg>`, iconSize: [0, 0] });
   const camion = L.marker(actuelle ? [actuelle.lat, actuelle.lon] : [46, -70], { icon: camionIcon, interactive: false, zIndexOffset: 1000 }).addTo(carte);
+  // cap du camion : direction du dernier tronçon, sinon vers la destination
+  let cap = 0;
+  { const T = troncons[troncons.length - 1]; let a, b;
+    if (T && T.coords.length > 1) { a = T.coords[T.coords.length - 2]; b = T.coords[T.coords.length - 1]; }
+    else if (actuelle && destGeo) { a = [actuelle.lon, actuelle.lat]; b = [destGeo.lon, destGeo.lat]; }
+    if (a && b) cap = Math.atan2(b[0] - a[0], b[1] - a[1]) * 180 / Math.PI; }
+  window.poserCamionDessus = (url) => { camion.setIcon(L.divIcon({ className: '', html: `<img src="${url}" style="width:64px;height:64px;transform:translate(-50%,-50%) rotate(${cap}deg);filter:drop-shadow(0 6px 6px rgba(0,0,0,.6))" alt="">`, iconSize: [0, 0] })); };
+  if (window.camionDessusUrl) window.poserCamionDessus(window.camionDessusUrl);
 
   /* ---------- lecteur (curseur temps) ---------- */
   const sel = $('#sel-ep'), range = $('#range'), tcEl = $('#tc'), chapEl = $('#chap');
